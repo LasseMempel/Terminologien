@@ -1,5 +1,4 @@
 @prefix dc: <http://purl.org/dc/elements/1.1/> .
-@prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 <https://www.lassemempel.github.io/Terminologien/NAVISone/0093DC> a skos:Concept ;
@@ -3061,9 +3060,9 @@
     skos:topConceptOf <https://www.lassemempel.github.io/Terminologien/NAVISone/> .
 
 <https://www.lassemempel.github.io/Terminologien/NAVISone/> a skos:ConceptScheme ;
-    dcterms:creator "Florian Thiery" ;
-    dcterms:description "NAVISone ist ein Thesaurus über Schiffsbegriffe"@de ;
-    dcterms:title "NAVISone" ;
+    dc:creator "Florian Thiery" ;
+    dc:description "NAVISone ist ein Thesaurus über Schiffsbegriffe"@de ;
+    dc:title "NAVISone" ;
     skos:hasTopConcept <https://www.lassemempel.github.io/Terminologien/NAVISone/1>,
         <https://www.lassemempel.github.io/Terminologien/NAVISone/10>,
         <https://www.lassemempel.github.io/Terminologien/NAVISone/11>,

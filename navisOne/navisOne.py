@@ -16,9 +16,9 @@ dfColumns = ["id","navisid","fk_id_parent","de","en","es","it","nl","dk","gr","f
 
 g = Graph()
 g.add((URIRef(baseUri), RDF.type, SKOS.ConceptScheme))
-g.add((URIRef(baseUri), DCTERMS.title, Literal("NAVISone")))
-g.add((URIRef(baseUri), DCTERMS.description, Literal("NAVISone ist ein Thesaurus über Schiffsbegriffe", lang="de")))
-g.add((URIRef(baseUri), DCTERMS.creator, Literal("Florian Thiery")))
+g.add((URIRef(baseUri), DC.title, Literal("NAVISone")))
+g.add((URIRef(baseUri), DC.description, Literal("NAVISone ist ein Thesaurus über Schiffsbegriffe", lang="de")))
+g.add((URIRef(baseUri), DC.creator, Literal("Florian Thiery")))
 
 for index, row in parentDf.iterrows():
     concept = URIRef(baseUri + str(row["id"]))
