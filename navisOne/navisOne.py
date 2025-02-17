@@ -18,7 +18,7 @@ dfColumns = ["id","navisid","fk_id_parent","de","en","es","it","nl","dk","gr","f
 
 g = Graph()
 g.add((thesaurusAddendum, RDF.type, SKOS.ConceptScheme))
-g.add((thesaurusAddendum, DC.title, Literal("NAVISone")))
+g.add((thesaurusAddendum, DC.title, Literal("NAVISone", lang="de")))
 g.add((thesaurusAddendum, DC.description, Literal("NAVISone ist ein Thesaurus über Schiffsbegriffe", lang="de")))
 g.add((thesaurusAddendum, DC.creator, Literal("Florian Thiery")))
 
