@@ -1,7 +1,7 @@
 ---
 # see https://github.com/nextapps-de/flexsearch#tokenizer-prefix-search for options
 tokenizer: "full" # strict, forward, reverse, full
-custom_domain: ""
+custom_domain: "https://lassemempel.github.io/Terminologien/"
 fail_on_validation: false
 searchableAttributes:
   - "prefLabel" # you should not delete this one
@@ -11,8 +11,8 @@ searchableAttributes:
   - "example"
   - "definition"
 ui:
-  title: "SkoHub Vocabs" # Title is mandatory
-  logo: "skohub-signet-color.svg" # Path
+  title: "LEIZA Terminologien" # Title is mandatory
+  logo: "C:/repos/Terminologien/Thesaurus_Logo.png" # Path
   colors:
     skoHubWhite: "rgb(255, 255, 255)"
     skoHubDarkColor: "rgb(15, 85, 75)"
