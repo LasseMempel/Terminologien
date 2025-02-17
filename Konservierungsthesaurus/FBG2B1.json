@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/FBG2B1",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/FBG2B1",
   "type": "Concept",
   "prefLabel": {
     "de": "hart"
@@ -11,19 +11,19 @@
     "FBG2B1"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/AGBB3C",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/AGBB3C",
     "prefLabel": {
       "de": "Festigkeit"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/GGFD3F",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/GGFD3F",
   "type": "Concept",
   "prefLabel": {
     "de": "Aerosil"
@@ -11,19 +11,19 @@
     "GGFD3F"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/DA86F8",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/DA86F8",
     "prefLabel": {
       "de": "pyrogene Kieselsäure"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

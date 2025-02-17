@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/A64281",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/A64281",
   "type": "Concept",
   "prefLabel": {
     "de": "Technovit 2000 LC"
@@ -11,19 +11,19 @@
     "A64281"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/GFD582",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/GFD582",
     "prefLabel": {
       "de": "Acrylharz"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

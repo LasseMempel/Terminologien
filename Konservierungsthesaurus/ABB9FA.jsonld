@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/ABB9FA",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/ABB9FA",
   "type": "Concept",
   "prefLabel": {
     "de": "geknickt"
@@ -16,19 +16,19 @@
     "ABB9FA"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/A8D9GF",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/A8D9GF",
     "prefLabel": {
       "de": "deformiert"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

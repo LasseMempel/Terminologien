@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/F87124",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/F87124",
   "type": "Concept",
   "prefLabel": {
     "de": "Komplexbildner"
@@ -20,27 +20,27 @@
   ],
   "narrower": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/D9F9D8",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/D9F9D8",
       "prefLabel": {
         "de": "Ethylendiamintetraessigsäure"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/F49B77",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/F49B77",
       "prefLabel": {
         "de": "Thioharnstoff"
       }
     }
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/C364G1",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/C364G1",
     "prefLabel": {
       "de": "Konservierungs- und Restaurierungsmaterialien"
     }
   },
   "related": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/G8A626",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/G8A626",
       "prefLabel": {
         "de": "nasschemische Freilegung"
       }
@@ -53,12 +53,12 @@
   ],
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

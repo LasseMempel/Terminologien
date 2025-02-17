@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/AG4634",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/AG4634",
   "type": "Concept",
   "prefLabel": {
     "de": "Jute"
@@ -11,19 +11,19 @@
     "AG4634"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/DD9C25",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/DD9C25",
     "prefLabel": {
       "de": "pflanzliche Fasern"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

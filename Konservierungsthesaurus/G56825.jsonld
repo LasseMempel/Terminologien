@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/G56825",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/G56825",
   "type": "Concept",
   "prefLabel": {
     "de": "gefräst"
@@ -17,19 +17,19 @@
     "G56825"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/AGG387",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/AGG387",
     "prefLabel": {
       "de": "formgebende Technik"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

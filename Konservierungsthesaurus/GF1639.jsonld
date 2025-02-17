@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/GF1639",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/GF1639",
   "type": "Concept",
   "prefLabel": {
     "de": "Goldschlägerhaut"
@@ -13,19 +13,19 @@
     "GF1639"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/BGGCA4",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/BGGCA4",
     "prefLabel": {
       "de": "Verstärkungsfaser"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

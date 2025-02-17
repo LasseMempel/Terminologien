@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/CG1531",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/CG1531",
   "type": "Concept",
   "prefLabel": {
     "de": "Unterglasurdekor"
@@ -11,14 +11,14 @@
     "CG1531"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/F2AG55",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/F2AG55",
     "prefLabel": {
       "de": "glasiert"
     }
   },
   "related": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/F396G6",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/F396G6",
       "prefLabel": {
         "de": "bemalt"
       }
@@ -26,12 +26,12 @@
   ],
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

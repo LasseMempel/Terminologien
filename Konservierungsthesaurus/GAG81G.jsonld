@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/GAG81G",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/GAG81G",
   "type": "Concept",
   "prefLabel": {
     "de": "Haselholz"
@@ -13,19 +13,19 @@
     "GAG81G"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/DAA3F9",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/DAA3F9",
     "prefLabel": {
       "de": "zerstreutporiges Laubholz"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

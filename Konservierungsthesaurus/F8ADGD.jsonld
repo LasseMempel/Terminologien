@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/F8ADGD",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/F8ADGD",
   "type": "Concept",
   "prefLabel": {
     "de": "Folie"
@@ -9,44 +9,44 @@
   ],
   "narrower": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/B6F5BG",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/B6F5BG",
       "prefLabel": {
         "de": "PE-Folie"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/F67D14",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/F67D14",
       "prefLabel": {
         "de": "Aluminiumverbundfolie"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/F8G977",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/F8G977",
       "prefLabel": {
         "de": "Zinnfolie"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/G2DA3A",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/G2DA3A",
       "prefLabel": {
         "de": "Aluminiumfolie"
       }
     }
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/D9G356",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/D9G356",
     "prefLabel": {
       "de": "[Stütz- und Verpackungsmaterial]"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

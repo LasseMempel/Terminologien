@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/G17B8B",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/G17B8B",
   "type": "Concept",
   "prefLabel": {
     "de": "Analyse der chemischen Zusammensetzung"
@@ -12,50 +12,50 @@
   ],
   "narrower": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/C2DF6G",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/C2DF6G",
       "prefLabel": {
         "de": "Fourier-Transform-Infrarotspektrometrie"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/DADDD6",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/DADDD6",
       "prefLabel": {
         "de": "Instrumentelle Neutronenaktivierungsanalyse"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/DG129D",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/DG129D",
       "prefLabel": {
         "de": "energiedispersive Röntgenspektroskopie"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/G69G4B",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/G69G4B",
       "prefLabel": {
         "de": "Optische Emissionsspektrometrie mit induktiv gekoppeltem Plasma"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/GA6422",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/GA6422",
       "prefLabel": {
         "de": "Laserinduzierte Plasmaspektroskopie"
       }
     }
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/G9B788",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/G9B788",
     "prefLabel": {
       "de": "Materialanalyse"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

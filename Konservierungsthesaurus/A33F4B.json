@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/A33F4B",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/A33F4B",
   "type": "Concept",
   "prefLabel": {
     "de": "Seidenpapier"
@@ -8,19 +8,19 @@
     "A33F4B"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/D9G356",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/D9G356",
     "prefLabel": {
       "de": "[Stütz- und Verpackungsmaterial]"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

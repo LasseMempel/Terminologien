@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/D2D988",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/D2D988",
   "type": "Concept",
   "prefLabel": {
     "de": "Trägerbau"
@@ -11,19 +11,19 @@
     "D2D988"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/A31C7C",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/A31C7C",
     "prefLabel": {
       "de": "Verstärkung"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

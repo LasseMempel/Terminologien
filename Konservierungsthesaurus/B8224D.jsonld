@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/B8224D",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/B8224D",
   "type": "Concept",
   "prefLabel": {
     "de": "Kalkstein"
@@ -11,19 +11,19 @@
     "B8224D"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/C7F346",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/C7F346",
     "prefLabel": {
       "de": "Sedimentgestein"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

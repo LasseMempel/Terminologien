@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/BB8D78",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/BB8D78",
   "type": "Concept",
   "prefLabel": {
     "de": "Polycarbonat"
@@ -9,26 +9,26 @@
   ],
   "narrower": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/A7824C",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/A7824C",
       "prefLabel": {
         "de": "Makrolon"
       }
     }
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/D9G356",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/D9G356",
     "prefLabel": {
       "de": "[Stütz- und Verpackungsmaterial]"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/G3368F",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/G3368F",
   "type": "Concept",
   "prefLabel": {
     "de": "Pipettentränkung"
@@ -11,19 +11,19 @@
     "G3368F"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/A9FF5A",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/A9FF5A",
     "prefLabel": {
       "de": "Tränkung"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/GC8DCD",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/GC8DCD",
   "type": "Concept",
   "prefLabel": {
     "de": "Feuervergoldung"
@@ -11,19 +11,19 @@
     "GC8DCD"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/GC2F6A",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/GC2F6A",
     "prefLabel": {
       "de": "vergoldet"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

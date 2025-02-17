@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/CD536F",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/CD536F",
   "type": "Concept",
   "prefLabel": {
     "de": "Pinseltränkung"
@@ -11,14 +11,14 @@
     "CD536F"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/A9FF5A",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/A9FF5A",
     "prefLabel": {
       "de": "Tränkung"
     }
   },
   "related": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/CC2BBB",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/CC2BBB",
       "prefLabel": {
         "de": "Pinsel"
       }
@@ -26,12 +26,12 @@
   ],
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

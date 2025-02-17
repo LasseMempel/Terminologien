@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/F94C34",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/F94C34",
   "type": "Concept",
   "prefLabel": {
     "de": "geraspelt"
@@ -8,19 +8,19 @@
     "F94C34"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/AGG387",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/AGG387",
     "prefLabel": {
       "de": "formgebende Technik"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

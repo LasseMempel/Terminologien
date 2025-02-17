@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/D1GC4D",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/D1GC4D",
   "type": "Concept",
   "prefLabel": {
     "de": "Alabaster"
@@ -11,7 +11,7 @@
     "D1GC4D"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/D8B5C3",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/D8B5C3",
     "prefLabel": {
       "de": "Gips <Mineral>"
     }
@@ -26,12 +26,12 @@
   ],
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

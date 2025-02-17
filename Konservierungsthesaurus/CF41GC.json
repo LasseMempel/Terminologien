@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/CF41GC",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/CF41GC",
   "type": "Concept",
   "prefLabel": {
     "de": "Porzellan"
@@ -8,19 +8,19 @@
     "CF41GC"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/DG279C",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/DG279C",
     "prefLabel": {
       "de": "Feinkeramik"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

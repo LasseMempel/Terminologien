@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/FC6F82",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/FC6F82",
   "type": "Concept",
   "prefLabel": {
     "de": "Graphit"
@@ -13,19 +13,19 @@
     "FC6F82"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/BB78D2",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/BB78D2",
     "prefLabel": {
       "de": "Füllstoff"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

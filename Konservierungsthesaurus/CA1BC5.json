@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/CA1BC5",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/CA1BC5",
   "type": "Concept",
   "prefLabel": {
     "de": "Objektuntersuchung"
@@ -17,26 +17,26 @@
   ],
   "narrower": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/D4A13D",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/D4A13D",
       "prefLabel": {
         "de": "[Untersuchungsmethode]"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/AA6941",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/AA6941",
       "prefLabel": {
         "de": "[Untersuchungsgerät]"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/BC5B57",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/BC5B57",
       "prefLabel": {
         "de": "[Untersuchungsergebnisse]"
       }
     }
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/C4BCF8",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/C4BCF8",
     "prefLabel": {
       "de": "Zustandserfassung"
     }
@@ -51,12 +51,12 @@
   ],
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

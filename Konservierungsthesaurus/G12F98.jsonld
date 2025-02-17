@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/G12F98",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/G12F98",
   "type": "Concept",
   "prefLabel": {
     "de": "UHU Plus Endfest 300"
@@ -8,19 +8,19 @@
     "G12F98"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/AF31AG",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/AF31AG",
     "prefLabel": {
       "de": "Epoxidharz"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

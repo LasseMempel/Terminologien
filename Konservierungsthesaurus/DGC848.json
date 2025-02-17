@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/DGC848",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/DGC848",
   "type": "Concept",
   "prefLabel": {
     "de": "Menschenzahn"
@@ -11,19 +11,19 @@
     "DGC848"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/B59296",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/B59296",
     "prefLabel": {
       "de": "Zahn"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/B3G5C7",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/B3G5C7",
   "type": "Concept",
   "prefLabel": {
     "de": "Dendrochronologie"
@@ -8,19 +8,19 @@
     "B3G5C7"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/C5BD13",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/C5BD13",
     "prefLabel": {
       "de": "Datierung"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

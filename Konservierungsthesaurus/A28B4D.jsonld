@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/A28B4D",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/A28B4D",
   "type": "Concept",
   "prefLabel": {
     "de": "Auro Naturharzölimpregniergrund Nr. 121"
@@ -14,19 +14,19 @@
     "A28B4D"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/CCCC7G",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/CCCC7G",
     "prefLabel": {
       "de": "Öl"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

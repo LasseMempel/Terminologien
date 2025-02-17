@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/B221BB",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/B221BB",
   "type": "Concept",
   "prefLabel": {
     "de": "kontaminiert"
@@ -11,19 +11,19 @@
     "B221BB"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/BBF64G",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/BBF64G",
     "prefLabel": {
       "de": "Ablagerung"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

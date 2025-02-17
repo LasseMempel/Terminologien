@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/G76B7G",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/G76B7G",
   "type": "Concept",
   "prefLabel": {
     "de": "Technologische Auswertung"
@@ -17,19 +17,19 @@
   ],
   "narrower": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/F2244D",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/F2244D",
       "prefLabel": {
         "de": "Verzierungstechnik"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/CF3C22",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/CF3C22",
       "prefLabel": {
         "de": "Verwendungszweck"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/F8F594",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/F8F594",
       "prefLabel": {
         "de": "Herstellungstechnik"
       }
@@ -37,7 +37,7 @@
   ],
   "related": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/BAA258",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/BAA258",
       "prefLabel": {
         "de": "Auswertungsdokumentation"
       }
@@ -45,17 +45,17 @@
   ],
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "topConceptOf": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

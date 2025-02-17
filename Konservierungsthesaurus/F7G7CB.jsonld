@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/F7G7CB",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/F7G7CB",
   "type": "Concept",
   "prefLabel": {
     "de": "Einteilige Form"
@@ -11,19 +11,19 @@
     "F7G7CB"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/FBGFC2",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/FBGFC2",
     "prefLabel": {
       "de": "[Formaufbau]"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

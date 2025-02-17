@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/G57G31",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/G57G31",
   "type": "Concept",
   "prefLabel": {
     "de": "schimmlig"
@@ -16,19 +16,19 @@
     "G57G31"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/BBF64G",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/BBF64G",
     "prefLabel": {
       "de": "Ablagerung"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/F1BA31",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/F1BA31",
   "type": "Concept",
   "prefLabel": {
     "de": "Biomineral"
@@ -12,86 +12,86 @@
   ],
   "narrower": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/A3D91B",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/A3D91B",
       "prefLabel": {
         "de": "Muschel"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/AG8F3A",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/AG8F3A",
       "prefLabel": {
         "de": "Perlmutt"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/B2F655",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/B2F655",
       "prefLabel": {
         "de": "Geweih"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/F9D2A8",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/F9D2A8",
       "prefLabel": {
         "de": "Perle"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/B69747",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/B69747",
       "prefLabel": {
         "de": "Schnecke"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/B69F1G",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/B69F1G",
       "prefLabel": {
         "de": "Schildpatt"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/B77128",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/B77128",
       "prefLabel": {
         "de": "Koralle"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/B8B69D",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/B8B69D",
       "prefLabel": {
         "de": "Bernstein"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/BBC26F",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/BBC26F",
       "prefLabel": {
         "de": "Horn"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/B59296",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/B59296",
       "prefLabel": {
         "de": "Zahn"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/B626A3",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/B626A3",
       "prefLabel": {
         "de": "Bein"
       }
     }
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/GB6DF3",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/GB6DF3",
     "prefLabel": {
       "de": "silikatisches Material"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

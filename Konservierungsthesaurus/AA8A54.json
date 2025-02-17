@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/AA8A54",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/AA8A54",
   "type": "Concept",
   "prefLabel": {
     "de": "Thiosulfat"
@@ -8,19 +8,19 @@
     "AA8A54"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/A2B746",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/A2B746",
     "prefLabel": {
       "de": "Base"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

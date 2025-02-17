@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/D5F8G2",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/D5F8G2",
   "type": "Concept",
   "prefLabel": {
     "de": "Gaschromatographie mit Massenspektrometrie"
@@ -13,19 +13,19 @@
     "D5F8G2"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/CG676B",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/CG676B",
     "prefLabel": {
       "de": "Analyse der isotopischen Zusammensetzung"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/GC14B8",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/GC14B8",
   "type": "Concept",
   "prefLabel": {
     "de": "3D-Digitalisierung"
@@ -13,19 +13,19 @@
     "GC14B8"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/DAG2A8",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/DAG2A8",
     "prefLabel": {
       "de": "Abformung"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

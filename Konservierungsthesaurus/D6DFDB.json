@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/D6DFDB",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/D6DFDB",
   "type": "Concept",
   "prefLabel": {
     "de": "geflochten"
@@ -18,19 +18,19 @@
     "D6DFDB"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/A15F83",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/A15F83",
     "prefLabel": {
       "de": "Fügetechnik"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/DA2D73",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/DA2D73",
   "type": "Concept",
   "prefLabel": {
     "de": "Glas"
@@ -16,44 +16,44 @@
     "DA2D73"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/GB6DF3",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/GB6DF3",
     "prefLabel": {
       "de": "silikatisches Material"
     }
   },
   "related": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/B21C51",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/B21C51",
       "prefLabel": {
         "de": "Obsidian"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/CCBB4G",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/CCBB4G",
       "prefLabel": {
         "de": "Perlit"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/D51GA5",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/D51GA5",
       "prefLabel": {
         "de": "Bimsstein"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/ADA625",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/ADA625",
       "prefLabel": {
         "de": "weinendes Glas"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/BG987D",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/BG987D",
       "prefLabel": {
         "de": "weeping"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/DGC3A9",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/DGC3A9",
       "prefLabel": {
         "de": "Glaskorrosion"
       }
@@ -74,12 +74,12 @@
   ],
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

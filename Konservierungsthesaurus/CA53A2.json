@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/CA53A2",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/CA53A2",
   "type": "Concept",
   "prefLabel": {
     "de": "Kaolinit"
@@ -11,19 +11,19 @@
     "CA53A2"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/F9GC9A",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/F9GC9A",
     "prefLabel": {
       "de": "Tonminerale"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

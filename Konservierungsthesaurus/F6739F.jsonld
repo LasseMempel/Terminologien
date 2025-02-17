@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/F6739F",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/F6739F",
   "type": "Concept",
   "prefLabel": {
     "de": "Radiokarbondatierung"
@@ -15,19 +15,19 @@
     "F6739F"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/C5BD13",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/C5BD13",
     "prefLabel": {
       "de": "Datierung"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

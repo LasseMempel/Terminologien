@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/D78721",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/D78721",
   "type": "Concept",
   "prefLabel": {
     "de": "Montage"
@@ -8,19 +8,19 @@
     "D78721"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/F5G576",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/F5G576",
     "prefLabel": {
       "de": "präventive Konservierung"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

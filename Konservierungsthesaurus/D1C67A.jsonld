@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/D1C67A",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/D1C67A",
   "type": "Concept",
   "prefLabel": {
     "de": "Metallschaber"
@@ -16,14 +16,14 @@
     "D1C67A"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/D941BB",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/D941BB",
     "prefLabel": {
       "de": "manuelle Werkzeuge"
     }
   },
   "related": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/G3GB59",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/G3GB59",
       "prefLabel": {
         "de": "manuelle Freilegung"
       }
@@ -31,12 +31,12 @@
   ],
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/D11BD4",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/D11BD4",
   "type": "Concept",
   "prefLabel": {
     "de": "Gaze"
@@ -8,19 +8,19 @@
     "D11BD4"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/D941BB",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/D941BB",
     "prefLabel": {
       "de": "manuelle Werkzeuge"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

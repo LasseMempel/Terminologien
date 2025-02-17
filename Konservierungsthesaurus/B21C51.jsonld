@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/B21C51",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/B21C51",
   "type": "Concept",
   "prefLabel": {
     "de": "Obsidian"
@@ -11,14 +11,14 @@
     "B21C51"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/B12CB4",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/B12CB4",
     "prefLabel": {
       "de": "Gesteinsglas"
     }
   },
   "related": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/DA2D73",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/DA2D73",
       "prefLabel": {
         "de": "Glas"
       }
@@ -26,12 +26,12 @@
   ],
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

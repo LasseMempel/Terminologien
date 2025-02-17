@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/F75BDB",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/F75BDB",
   "type": "Concept",
   "prefLabel": {
     "de": "Beryll"
@@ -12,38 +12,38 @@
   ],
   "narrower": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/A72G88",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/A72G88",
       "prefLabel": {
         "de": "Smaragd"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/F43643",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/F43643",
       "prefLabel": {
         "de": "Aquamarin"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/G98D28",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/G98D28",
       "prefLabel": {
         "de": "Morganit"
       }
     }
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/BGC9F3",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/BGC9F3",
     "prefLabel": {
       "de": "Mineral"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

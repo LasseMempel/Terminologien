@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/ACB46G",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/ACB46G",
   "type": "Concept",
   "prefLabel": {
     "de": "Stachelschweinborste"
@@ -13,14 +13,14 @@
     "ACB46G"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/D941BB",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/D941BB",
     "prefLabel": {
       "de": "manuelle Werkzeuge"
     }
   },
   "related": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/G3GB59",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/G3GB59",
       "prefLabel": {
         "de": "manuelle Freilegung"
       }
@@ -28,12 +28,12 @@
   ],
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/C61955",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/C61955",
   "type": "Concept",
   "prefLabel": {
     "de": "Kerbschnittdekor"
@@ -8,19 +8,19 @@
     "C61955"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/F2244D",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/F2244D",
     "prefLabel": {
       "de": "Verzierungstechnik"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

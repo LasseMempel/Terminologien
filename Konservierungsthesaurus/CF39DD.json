@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/CF39DD",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/CF39DD",
   "type": "Concept",
   "prefLabel": {
     "de": "Leinwandbindung"
@@ -20,19 +20,19 @@
     "CF39DD"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/CAF8AF",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/CAF8AF",
     "prefLabel": {
       "de": "gewebt"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

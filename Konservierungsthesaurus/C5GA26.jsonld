@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/C5GA26",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/C5GA26",
   "type": "Concept",
   "prefLabel": {
     "de": "Reproduktion"
@@ -11,19 +11,19 @@
     "C5GA26"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/C11192",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/C11192",
     "prefLabel": {
       "de": "[Nachbildungsergebnisse]"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/B7B8B6",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/B7B8B6",
   "type": "Concept",
   "prefLabel": {
     "de": "[Adhäsivstoff]"
@@ -19,33 +19,33 @@
   ],
   "narrower": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/A1D125",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/A1D125",
       "prefLabel": {
         "de": "synthetisches Polymer"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/AG2965",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/AG2965",
       "prefLabel": {
         "de": "natürliches Polymer"
       }
     }
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/C364G1",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/C364G1",
     "prefLabel": {
       "de": "Konservierungs- und Restaurierungsmaterialien"
     }
   },
   "related": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/A13CD1",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/A13CD1",
       "prefLabel": {
         "de": "Klebung"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/CGC619",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/CGC619",
       "prefLabel": {
         "de": "Ergänzung"
       }
@@ -53,12 +53,12 @@
   ],
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

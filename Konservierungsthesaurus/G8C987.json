@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/G8C987",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/G8C987",
   "type": "Concept",
   "prefLabel": {
     "de": "UV-Lampe"
@@ -17,14 +17,14 @@
     "G8C987"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/AA6941",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/AA6941",
     "prefLabel": {
       "de": "[Untersuchungsgerät]"
     }
   },
   "related": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/B53C8F",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/B53C8F",
       "prefLabel": {
         "de": "UV-Lumineszenz-Untersuchung"
       }
@@ -32,12 +32,12 @@
   ],
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

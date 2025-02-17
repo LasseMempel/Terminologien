@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/C4C6B6",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/C4C6B6",
   "type": "Concept",
   "prefLabel": {
     "de": "Schleifkörper"
@@ -12,45 +12,45 @@
   ],
   "narrower": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/A22C84",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/A22C84",
       "prefLabel": {
         "de": "Korundschleifkörper"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/A97F31",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/A97F31",
       "prefLabel": {
         "de": "Gummischleifkörper"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/ABF57G",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/ABF57G",
       "prefLabel": {
         "de": "Diamantschleifkörper"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/CDF423",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/CDF423",
       "prefLabel": {
         "de": "Metallfräser"
       }
     }
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/GF9C49",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/GF9C49",
     "prefLabel": {
       "de": "technische Geräte"
     }
   },
   "related": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/A6A248",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/A6A248",
       "prefLabel": {
         "de": "maschinelle Freilegung"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/D8G747",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/D8G747",
       "prefLabel": {
         "de": "Mikromotor"
       }
@@ -58,12 +58,12 @@
   ],
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/A5D2D1",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/A5D2D1",
   "type": "Concept",
   "prefLabel": {
     "de": "Archäocoll 2000 N"
@@ -11,19 +11,19 @@
     "A5D2D1"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/GC7998",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/GC7998",
     "prefLabel": {
       "de": "Cellulosenitrat"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

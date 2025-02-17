@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/DA841D",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/DA841D",
   "type": "Concept",
   "prefLabel": {
     "de": "additionsvernetzender Silikonkautschuk"
@@ -17,44 +17,44 @@
   ],
   "narrower": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/AF6D7D",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/AF6D7D",
       "prefLabel": {
         "de": "Smooth On Mold Star 30"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/C5G53A",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/C5G53A",
       "prefLabel": {
         "de": "Dentalsilikon"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/C76568",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/C76568",
       "prefLabel": {
         "de": "Smooth On Rebound 25"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/GCDG5D",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/GCDG5D",
       "prefLabel": {
         "de": "Nedform Silikon Addition Transparent 25"
       }
     }
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/A44BG6",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/A44BG6",
     "prefLabel": {
       "de": "Silikonkautschuk"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

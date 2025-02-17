@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/A7824C",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/A7824C",
   "type": "Concept",
   "prefLabel": {
     "de": "Makrolon"
@@ -8,19 +8,19 @@
     "A7824C"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/BB8D78",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/BB8D78",
     "prefLabel": {
       "de": "Polycarbonat"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/F64B9C",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/F64B9C",
   "type": "Concept",
   "prefLabel": {
     "de": "Pigment"
@@ -16,19 +16,19 @@
     "F64B9C"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/AFD671",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/AFD671",
     "prefLabel": {
       "de": "Farbstoff"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

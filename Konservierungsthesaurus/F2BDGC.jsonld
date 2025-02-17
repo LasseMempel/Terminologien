@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/F2BDGC",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/F2BDGC",
   "type": "Concept",
   "prefLabel": {
     "de": "punktuelle Heftung"
@@ -11,19 +11,19 @@
     "F2BDGC"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/A13CD1",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/A13CD1",
     "prefLabel": {
       "de": "Klebung"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

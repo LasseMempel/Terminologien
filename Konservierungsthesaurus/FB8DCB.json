@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/FB8DCB",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/FB8DCB",
   "type": "Concept",
   "prefLabel": {
     "de": "Salzwasserperle"
@@ -8,19 +8,19 @@
     "FB8DCB"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/F9D2A8",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/F9D2A8",
     "prefLabel": {
       "de": "Perle"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

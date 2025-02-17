@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/FC2113",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/FC2113",
   "type": "Concept",
   "prefLabel": {
     "de": "Lichtmikroskop"
@@ -20,62 +20,62 @@
   ],
   "narrower": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/A75779",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/A75779",
       "prefLabel": {
         "de": "Stereomikroskop"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/A7FA3B",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/A7FA3B",
       "prefLabel": {
         "de": "Polarisationsmikroskop"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/A9611D",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/A9611D",
       "prefLabel": {
         "de": "Durchlichtmikroskop"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/A9F854",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/A9F854",
       "prefLabel": {
         "de": "Fluoreszenzmikroskopen"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/AG4G3C",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/AG4G3C",
       "prefLabel": {
         "de": "Digitalmikroskop"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/B7AF8G",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/B7AF8G",
       "prefLabel": {
         "de": "Konfokalmikroskop"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/B94DCD",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/B94DCD",
       "prefLabel": {
         "de": "Auflichtmikroskop"
       }
     }
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/B538AG",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/B538AG",
     "prefLabel": {
       "de": "Mikroskop"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

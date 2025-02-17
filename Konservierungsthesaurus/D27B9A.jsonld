@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/D27B9A",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/D27B9A",
   "type": "Concept",
   "prefLabel": {
     "de": "Emailmalerei"
@@ -11,19 +11,19 @@
     "D27B9A"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/B14C4A",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/B14C4A",
     "prefLabel": {
       "de": "emailliert"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

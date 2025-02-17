@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/F72743",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/F72743",
   "type": "Concept",
   "prefLabel": {
     "de": "Plasmabehandlung"
@@ -11,20 +11,20 @@
     "F72743"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/G98FD4",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/G98FD4",
     "prefLabel": {
       "de": "Konservierung"
     }
   },
   "related": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/A7C8CB",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/A7C8CB",
       "prefLabel": {
         "de": "Plasma"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/C99F9G",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/C99F9G",
       "prefLabel": {
         "de": "Plasmaanlage"
       }
@@ -32,12 +32,12 @@
   ],
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/CD75GD",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/CD75GD",
   "type": "Concept",
   "prefLabel": {
     "de": "Methanplasma"
@@ -8,19 +8,19 @@
     "CD75GD"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/A7C8CB",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/A7C8CB",
     "prefLabel": {
       "de": "Plasma"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

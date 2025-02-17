@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/AA992C",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/AA992C",
   "type": "Concept",
   "prefLabel": {
     "de": "Menschenhaar"
@@ -19,7 +19,7 @@
     "AA992C"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/G899F5",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/G899F5",
     "prefLabel": {
       "de": "Haar"
     }
@@ -31,12 +31,12 @@
   ],
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

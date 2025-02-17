@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/BGC695",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/BGC695",
   "type": "Concept",
   "prefLabel": {
     "de": "tauschiert"
@@ -16,19 +16,19 @@
     "BGC695"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/BA8198",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/BA8198",
     "prefLabel": {
       "de": "Intarsieneinlage"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

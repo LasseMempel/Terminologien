@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/GDF8C2",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/GDF8C2",
   "type": "Concept",
   "prefLabel": {
     "de": "Physischer Zustand"
@@ -21,44 +21,44 @@
   ],
   "narrower": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/AG4397",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/AG4397",
       "prefLabel": {
         "de": "Feuchtigkeitsgehalt"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/C6GB1C",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/C6GB1C",
       "prefLabel": {
         "de": "Veränderung"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/AGBB3C",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/AGBB3C",
       "prefLabel": {
         "de": "Festigkeit"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/FB6AGB",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/FB6AGB",
       "prefLabel": {
         "de": "Stabilität"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/CAB799",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/CAB799",
       "prefLabel": {
         "de": "Vollständigkeit"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/G9D1C8",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/G9D1C8",
       "prefLabel": {
         "de": "Maße"
       }
     }
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/BC5B57",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/BC5B57",
     "prefLabel": {
       "de": "[Untersuchungsergebnisse]"
     }
@@ -70,12 +70,12 @@
   ],
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

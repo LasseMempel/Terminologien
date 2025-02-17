@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/BADDA1",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/BADDA1",
   "type": "Concept",
   "prefLabel": {
     "de": "Tannin"
@@ -8,7 +8,7 @@
     "BADDA1"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/ACFF37",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/ACFF37",
     "prefLabel": {
       "de": "Korrosionsinhibitor"
     }
@@ -20,12 +20,12 @@
   ],
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/B3BCB6",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/B3BCB6",
   "type": "Concept",
   "prefLabel": {
     "de": "Almandin"
@@ -11,19 +11,19 @@
     "B3BCB6"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/D74F9D",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/D74F9D",
     "prefLabel": {
       "de": "Granat"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

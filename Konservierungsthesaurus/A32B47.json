@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/A32B47",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/A32B47",
   "type": "Concept",
   "prefLabel": {
     "de": "Shellsol A"
@@ -11,19 +11,19 @@
     "A32B47"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/G34563",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/G34563",
     "prefLabel": {
       "de": "Siedegrenzbenzin"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

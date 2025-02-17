@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/FD2B2B",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/FD2B2B",
   "type": "Concept",
   "prefLabel": {
     "de": "Röntgenbild"
@@ -8,19 +8,19 @@
     "FD2B2B"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/CB7747",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/CB7747",
     "prefLabel": {
       "de": "Bildgebende Dokumentation"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

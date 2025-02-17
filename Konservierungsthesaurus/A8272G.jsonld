@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/A8272G",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/A8272G",
   "type": "Concept",
   "prefLabel": {
     "de": "Japanpapier"
@@ -13,7 +13,7 @@
     "A8272G"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/BGGCA4",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/BGGCA4",
     "prefLabel": {
       "de": "Verstärkungsfaser"
     }
@@ -25,12 +25,12 @@
   ],
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

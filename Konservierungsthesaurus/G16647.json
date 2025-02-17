@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/G16647",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/G16647",
   "type": "Concept",
   "prefLabel": {
     "de": "Tussahseide"
@@ -11,19 +11,19 @@
     "G16647"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/F6F797",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/F6F797",
     "prefLabel": {
       "de": "Seide"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

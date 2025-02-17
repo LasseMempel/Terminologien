@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/GC7998",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/GC7998",
   "type": "Concept",
   "prefLabel": {
     "de": "Cellulosenitrat"
@@ -17,32 +17,32 @@
   ],
   "narrower": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/A5D2D1",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/A5D2D1",
       "prefLabel": {
         "de": "Archäocoll 2000 N"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/C65F47",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/C65F47",
       "prefLabel": {
         "de": "Mecosan L-TR"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/FD8AG2",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/FD8AG2",
       "prefLabel": {
         "de": "Pantarol® Metallschutz Nr. 100"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/GC6999",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/GC6999",
       "prefLabel": {
         "de": "Zaponlack"
       }
     }
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/A9A929",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/A9A929",
     "prefLabel": {
       "de": "Celluloseester"
     }
@@ -54,12 +54,12 @@
   ],
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

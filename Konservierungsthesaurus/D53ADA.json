@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/D53ADA",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/D53ADA",
   "type": "Concept",
   "prefLabel": {
     "de": "Papyrus"
@@ -8,19 +8,19 @@
     "D53ADA"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/DD9C25",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/DD9C25",
     "prefLabel": {
       "de": "pflanzliche Fasern"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

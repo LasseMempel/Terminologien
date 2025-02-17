@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/AGG387",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/AGG387",
   "type": "Concept",
   "prefLabel": {
     "de": "formgebende Technik"
@@ -17,242 +17,242 @@
   ],
   "narrower": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/D18BBG",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/D18BBG",
       "prefLabel": {
         "de": "getrieben"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/A8B581",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/A8B581",
       "prefLabel": {
         "de": "gedengelt"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/A8C667",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/A8C667",
       "prefLabel": {
         "de": "geprägt"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/D92DAG",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/D92DAG",
       "prefLabel": {
         "de": "handaufgebaut"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/AC319F",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/AC319F",
       "prefLabel": {
         "de": "gebohrt"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/ACA175",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/ACA175",
       "prefLabel": {
         "de": "gewickelt"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/ACG977",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/ACG977",
       "prefLabel": {
         "de": "gepresst"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/ADB89D",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/ADB89D",
       "prefLabel": {
         "de": "gespalten"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/B1B854",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/B1B854",
       "prefLabel": {
         "de": "gespitzt"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/B28G12",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/B28G12",
       "prefLabel": {
         "de": "nachgedreht"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/B437A9",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/B437A9",
       "prefLabel": {
         "de": "gebeilt"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/B4AFF6",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/B4AFF6",
       "prefLabel": {
         "de": "durchgeschlagen"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/B64825",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/B64825",
       "prefLabel": {
         "de": "geschmiedet"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/BA73A2",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/BA73A2",
       "prefLabel": {
         "de": "gegossen"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/BA1BB6",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/BA1BB6",
       "prefLabel": {
         "de": "gemeißelt"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/BAB7B3",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/BAB7B3",
       "prefLabel": {
         "de": "gezahnt"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/BC92AG",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/BC92AG",
       "prefLabel": {
         "de": "gesägt"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/B4FD9B",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/B4FD9B",
       "prefLabel": {
         "de": "gerollt"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/C16778",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/C16778",
       "prefLabel": {
         "de": "geschmolzen"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/C1A32C",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/C1A32C",
       "prefLabel": {
         "de": "geschnitten"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/BGFD79",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/BGFD79",
       "prefLabel": {
         "de": "gebrannt"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/C3FGBG",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/C3FGBG",
       "prefLabel": {
         "de": "gefeilt"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/C5F279",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/C5F279",
       "prefLabel": {
         "de": "modelliert"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/C61723",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/C61723",
       "prefLabel": {
         "de": "geschnitzt"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/D44BAD",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/D44BAD",
       "prefLabel": {
         "de": "gedreht"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/D642BC",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/D642BC",
       "prefLabel": {
         "de": "geschabt"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/D75A3A",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/D75A3A",
       "prefLabel": {
         "de": "gebogen"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/F1751B",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/F1751B",
       "prefLabel": {
         "de": "geblasen"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/F22BD7",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/F22BD7",
       "prefLabel": {
         "de": "gehobelt"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/F6543A",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/F6543A",
       "prefLabel": {
         "de": "gedrückt"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/F94C34",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/F94C34",
       "prefLabel": {
         "de": "geraspelt"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/FFC35B",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/FFC35B",
       "prefLabel": {
         "de": "gedrechselt"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/FGF4G9",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/FGF4G9",
       "prefLabel": {
         "de": "scheibengedreht"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/G29AD2",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/G29AD2",
       "prefLabel": {
         "de": "geglättet"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/G45985",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/G45985",
       "prefLabel": {
         "de": "gezogen"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/G56825",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/G56825",
       "prefLabel": {
         "de": "gefräst"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/G7497F",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/G7497F",
       "prefLabel": {
         "de": "geschliffen [Formgebung]"
       }
     }
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/F8F594",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/F8F594",
     "prefLabel": {
       "de": "Herstellungstechnik"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

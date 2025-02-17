@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/F387GB",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/F387GB",
   "type": "Concept",
   "prefLabel": {
     "de": "Bleilegierung"
@@ -16,14 +16,14 @@
     "F387GB"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/A82D86",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/A82D86",
     "prefLabel": {
       "de": "Buntmetalllegierung"
     }
   },
   "related": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/G992B6",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/G992B6",
       "prefLabel": {
         "de": "Blei"
       }
@@ -42,12 +42,12 @@
   ],
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

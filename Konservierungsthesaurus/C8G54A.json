@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/C8G54A",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/C8G54A",
   "type": "Concept",
   "prefLabel": {
     "de": "verzinnt"
@@ -16,19 +16,19 @@
     "C8G54A"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/F2244D",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/F2244D",
     "prefLabel": {
       "de": "Verzierungstechnik"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

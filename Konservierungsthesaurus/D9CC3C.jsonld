@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/D9CC3C",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/D9CC3C",
   "type": "Concept",
   "prefLabel": {
     "de": "Galvanoplastik"
@@ -11,19 +11,19 @@
     "D9CC3C"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/A7FC45",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/A7FC45",
     "prefLabel": {
       "de": "Kopie"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

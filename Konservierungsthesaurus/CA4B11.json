@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/CA4B11",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/CA4B11",
   "type": "Concept",
   "prefLabel": {
     "de": "Wachsausschmelzverfahren"
@@ -11,19 +11,19 @@
     "CA4B11"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/BGC8F3",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/BGC8F3",
     "prefLabel": {
       "de": "Guss in verlorener Form"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

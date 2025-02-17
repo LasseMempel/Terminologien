@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/C82F3D",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/C82F3D",
   "type": "Concept",
   "prefLabel": {
     "de": "rezente Ablagerungen"
@@ -11,19 +11,19 @@
     "C82F3D"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/BBF64G",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/BBF64G",
     "prefLabel": {
       "de": "Ablagerung"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

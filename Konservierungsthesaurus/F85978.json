@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/F85978",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/F85978",
   "type": "Concept",
   "prefLabel": {
     "de": "Bindedraht"
@@ -8,19 +8,19 @@
     "F85978"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/A48485",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/A48485",
     "prefLabel": {
       "de": "Draht"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

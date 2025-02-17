@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/CAF8AF",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/CAF8AF",
   "type": "Concept",
   "prefLabel": {
     "de": "gewebt"
@@ -22,50 +22,50 @@
   ],
   "narrower": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/CF39DD",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/CF39DD",
       "prefLabel": {
         "de": "Leinwandbindung"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/DD149D",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/DD149D",
       "prefLabel": {
         "de": "Köperbindung"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/FB7AB6",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/FB7AB6",
       "prefLabel": {
         "de": "Kompositbindung"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/FF5836",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/FF5836",
       "prefLabel": {
         "de": "Atlasbindung"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/G49676",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/G49676",
       "prefLabel": {
         "de": "Ripsbindung"
       }
     }
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/A15F83",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/A15F83",
     "prefLabel": {
       "de": "Fügetechnik"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

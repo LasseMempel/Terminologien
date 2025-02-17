@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/B69C57",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/B69C57",
   "type": "Concept",
   "prefLabel": {
     "de": "Acrylic One"
@@ -11,19 +11,19 @@
     "B69C57"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/GFD582",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/GFD582",
     "prefLabel": {
       "de": "Acrylharz"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

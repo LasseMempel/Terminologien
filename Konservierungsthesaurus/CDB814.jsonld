@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/CDB814",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/CDB814",
   "type": "Concept",
   "prefLabel": {
     "de": "Diorit"
@@ -16,19 +16,19 @@
     "CDB814"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/DF7826",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/DF7826",
     "prefLabel": {
       "de": "Magmatit"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

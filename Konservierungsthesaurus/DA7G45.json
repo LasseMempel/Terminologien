@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/DA7G45",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/DA7G45",
   "type": "Concept",
   "prefLabel": {
     "de": "angegossen"
@@ -14,26 +14,26 @@
   ],
   "narrower": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/C388AA",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/C388AA",
       "prefLabel": {
         "de": "Überfangguss"
       }
     }
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/A15F83",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/A15F83",
     "prefLabel": {
       "de": "Fügetechnik"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

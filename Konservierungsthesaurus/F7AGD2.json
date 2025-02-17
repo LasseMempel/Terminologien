@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/F7AGD2",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/F7AGD2",
   "type": "Concept",
   "prefLabel": {
     "de": "Probennahme"
@@ -16,19 +16,19 @@
     "F7AGD2"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/G9B788",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/G9B788",
     "prefLabel": {
       "de": "Materialanalyse"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

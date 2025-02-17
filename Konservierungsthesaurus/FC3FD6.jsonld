@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/FC3FD6",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/FC3FD6",
   "type": "Concept",
   "prefLabel": {
     "de": "Nadelholz"
@@ -12,50 +12,50 @@
   ],
   "narrower": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/A73FD7",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/A73FD7",
       "prefLabel": {
         "de": "Kiefernholz"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/F5GA47",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/F5GA47",
       "prefLabel": {
         "de": "Lärchenholz"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/FCA7DA",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/FCA7DA",
       "prefLabel": {
         "de": "Tannenholz"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/G2944B",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/G2944B",
       "prefLabel": {
         "de": "Fichtenholz"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/G356D5",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/G356D5",
       "prefLabel": {
         "de": "Eibenholz"
       }
     }
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/DFG875",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/DFG875",
     "prefLabel": {
       "de": "[Holzart]"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

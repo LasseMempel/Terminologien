@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/F573A5",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/F573A5",
   "type": "Concept",
   "prefLabel": {
     "de": "vollständig"
@@ -11,19 +11,19 @@
     "F573A5"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/CAB799",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/CAB799",
     "prefLabel": {
       "de": "Vollständigkeit"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

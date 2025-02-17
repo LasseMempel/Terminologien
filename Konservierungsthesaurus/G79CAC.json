@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/G79CAC",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/G79CAC",
   "type": "Concept",
   "prefLabel": {
     "de": "[Vorgehensweise]"
@@ -12,56 +12,56 @@
   ],
   "narrower": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/F8F7CF",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/F8F7CF",
       "prefLabel": {
         "de": "Kopieherstellung"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/BD7FF8",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/BD7FF8",
       "prefLabel": {
         "de": "Modellanfertigung"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/FA2332",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/FA2332",
       "prefLabel": {
         "de": "Rekonstruktion (Methode)"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/F1F372",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/F1F372",
       "prefLabel": {
         "de": "Kolorierung"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/G59852",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/G59852",
       "prefLabel": {
         "de": "Reproduktion (Methode)"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/DAG2A8",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/DAG2A8",
       "prefLabel": {
         "de": "Abformung"
       }
     }
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/C3A182",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/C3A182",
     "prefLabel": {
       "de": "Nachbildung für wissenschaftliche Zwecke"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/C5322D",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/C5322D",
   "type": "Concept",
   "prefLabel": {
     "de": "Jaspis"
@@ -16,19 +16,19 @@
     "C5322D"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/C81F4D",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/C81F4D",
     "prefLabel": {
       "de": "Calcedon"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

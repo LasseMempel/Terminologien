@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/CA59C2",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/CA59C2",
   "type": "Concept",
   "prefLabel": {
     "de": "Klebungen entfernt"
@@ -16,26 +16,26 @@
     "CA59C2"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/C6C3CF",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/C6C3CF",
     "prefLabel": {
       "de": "frühere Restaurierungsmaterialien entfernt"
     }
   },
   "related": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/A6A248",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/A6A248",
       "prefLabel": {
         "de": "maschinelle Freilegung"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/G3GB59",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/G3GB59",
       "prefLabel": {
         "de": "manuelle Freilegung"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/G8A626",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/G8A626",
       "prefLabel": {
         "de": "nasschemische Freilegung"
       }
@@ -43,12 +43,12 @@
   ],
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

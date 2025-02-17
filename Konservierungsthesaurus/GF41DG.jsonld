@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/GF41DG",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/GF41DG",
   "type": "Concept",
   "prefLabel": {
     "de": "Schutzüberzug"
@@ -11,20 +11,20 @@
     "GF41DG"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/G98FD4",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/G98FD4",
     "prefLabel": {
       "de": "Konservierung"
     }
   },
   "related": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/GFD582",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/GFD582",
       "prefLabel": {
         "de": "Acrylharz"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/D2G12A",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/D2G12A",
       "prefLabel": {
         "de": "Naturkautschuk"
       }
@@ -32,12 +32,12 @@
   ],
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

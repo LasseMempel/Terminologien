@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/GC6983",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/GC6983",
   "type": "Concept",
   "prefLabel": {
     "de": "Rückgabe aus Leihverkehr"
@@ -16,19 +16,19 @@
     "GC6983"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/DBC278",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/DBC278",
     "prefLabel": {
       "de": "Bisherige Lagerung"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

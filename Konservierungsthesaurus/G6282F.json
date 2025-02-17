@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/G6282F",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/G6282F",
   "type": "Concept",
   "prefLabel": {
     "de": "Rückformung"
@@ -11,19 +11,19 @@
     "G6282F"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/FA2332",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/FA2332",
     "prefLabel": {
       "de": "Rekonstruktion (Methode)"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

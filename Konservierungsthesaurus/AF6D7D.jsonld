@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/AF6D7D",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/AF6D7D",
   "type": "Concept",
   "prefLabel": {
     "de": "Smooth On Mold Star 30"
@@ -11,19 +11,19 @@
     "AF6D7D"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/DA841D",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/DA841D",
     "prefLabel": {
       "de": "additionsvernetzender Silikonkautschuk"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

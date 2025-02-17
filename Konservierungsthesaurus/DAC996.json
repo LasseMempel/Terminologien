@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/DAC996",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/DAC996",
   "type": "Concept",
   "prefLabel": {
     "de": "Schadensphänomen"
@@ -21,51 +21,51 @@
   ],
   "narrower": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/B224CD",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/B224CD",
       "prefLabel": {
         "de": "Formänderung"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/C188DA",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/C188DA",
       "prefLabel": {
         "de": "Substanzverlust"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/D3AGG6",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/D3AGG6",
       "prefLabel": {
         "de": "visuelle Veränderung"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/C9D991",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/C9D991",
       "prefLabel": {
         "de": "chemische Veränderung"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/CB9GD3",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/CB9GD3",
       "prefLabel": {
         "de": "Kohäsionsverlust"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/BBF64G",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/BBF64G",
       "prefLabel": {
         "de": "Ablagerung"
       }
     }
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/BC5B57",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/BC5B57",
     "prefLabel": {
       "de": "[Untersuchungsergebnisse]"
     }
   },
   "related": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/F964CG",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/F964CG",
       "prefLabel": {
         "de": "Schadensursache"
       }
@@ -73,12 +73,12 @@
   ],
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

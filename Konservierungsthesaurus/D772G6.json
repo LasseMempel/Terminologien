@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/D772G6",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/D772G6",
   "type": "Concept",
   "prefLabel": {
     "de": "3D-Druckverfahren"
@@ -17,19 +17,19 @@
     "D772G6"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/F8F7CF",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/F8F7CF",
     "prefLabel": {
       "de": "Kopieherstellung"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

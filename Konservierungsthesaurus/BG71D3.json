@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/BG71D3",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/BG71D3",
   "type": "Concept",
   "prefLabel": {
     "de": "Schweineborsten"
@@ -11,19 +11,19 @@
     "BG71D3"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/F8DFCG",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/F8DFCG",
     "prefLabel": {
       "de": "Tierhaar"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

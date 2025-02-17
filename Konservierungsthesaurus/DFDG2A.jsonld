@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/DFDG2A",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/DFDG2A",
   "type": "Concept",
   "prefLabel": {
     "de": "Givul MR"
@@ -8,19 +8,19 @@
     "DFDG2A"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/D2G12A",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/D2G12A",
     "prefLabel": {
       "de": "Naturkautschuk"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

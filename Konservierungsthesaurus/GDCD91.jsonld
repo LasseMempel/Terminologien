@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/GDCD91",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/GDCD91",
   "type": "Concept",
   "prefLabel": {
     "de": "vergilbt"
@@ -16,19 +16,19 @@
     "GDCD91"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/A4G8FA",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/A4G8FA",
     "prefLabel": {
       "de": "farbverändert"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/AD3B58",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/AD3B58",
   "type": "Concept",
   "prefLabel": {
     "de": "Korund"
@@ -12,20 +12,20 @@
   ],
   "narrower": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/BC5A3C",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/BC5A3C",
       "prefLabel": {
         "de": "Saphir"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/D75514",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/D75514",
       "prefLabel": {
         "de": "Rubin"
       }
     }
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/BGC9F3",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/BGC9F3",
     "prefLabel": {
       "de": "Mineral"
     }
@@ -37,12 +37,12 @@
   ],
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

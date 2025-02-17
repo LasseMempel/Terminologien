@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/A38966",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/A38966",
   "type": "Concept",
   "prefLabel": {
     "de": "Steinzeug"
@@ -8,19 +8,19 @@
     "A38966"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/DG279C",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/DG279C",
     "prefLabel": {
       "de": "Feinkeramik"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/F58F6D",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/F58F6D",
   "type": "Concept",
   "prefLabel": {
     "de": "3D-Scan"
@@ -8,19 +8,19 @@
     "F58F6D"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/CB7747",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/CB7747",
     "prefLabel": {
       "de": "Bildgebende Dokumentation"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

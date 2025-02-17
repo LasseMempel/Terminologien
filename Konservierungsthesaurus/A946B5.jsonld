@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/A946B5",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/A946B5",
   "type": "Concept",
   "prefLabel": {
     "de": "chemische Untersuchung"
@@ -17,38 +17,38 @@
   ],
   "narrower": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/DAA4F8",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/DAA4F8",
       "prefLabel": {
         "de": "Oddy-Test"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/DCD522",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/DCD522",
       "prefLabel": {
         "de": "Mikro-Quelltest"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/F66444",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/F66444",
       "prefLabel": {
         "de": "Spot-Test"
       }
     }
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/G9B788",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/G9B788",
     "prefLabel": {
       "de": "Materialanalyse"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

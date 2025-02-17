@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/B51DAF",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/B51DAF",
   "type": "Concept",
   "prefLabel": {
     "de": "Material"
@@ -17,19 +17,19 @@
   ],
   "narrower": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/CD3341",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/CD3341",
       "prefLabel": {
         "de": "organisches Material"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/GB6DF3",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/GB6DF3",
       "prefLabel": {
         "de": "silikatisches Material"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/B5DD1A",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/B5DD1A",
       "prefLabel": {
         "de": "Metall"
       }
@@ -50,17 +50,17 @@
   ],
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "topConceptOf": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

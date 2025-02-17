@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/DF7826",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/DF7826",
   "type": "Concept",
   "prefLabel": {
     "de": "Magmatit"
@@ -18,50 +18,50 @@
   ],
   "narrower": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/B14489",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/B14489",
       "prefLabel": {
         "de": "Tuff"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/B12CB4",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/B12CB4",
       "prefLabel": {
         "de": "Gesteinsglas"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/CDB814",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/CDB814",
       "prefLabel": {
         "de": "Diorit"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/D9B246",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/D9B246",
       "prefLabel": {
         "de": "Basalt"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/F646B4",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/F646B4",
       "prefLabel": {
         "de": "Granit"
       }
     }
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/D866AD",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/D866AD",
     "prefLabel": {
       "de": "Gestein"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

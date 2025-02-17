@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/BD7FF8",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/BD7FF8",
   "type": "Concept",
   "prefLabel": {
     "de": "Modellanfertigung"
@@ -11,19 +11,19 @@
     "BD7FF8"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/G79CAC",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/G79CAC",
     "prefLabel": {
       "de": "[Vorgehensweise]"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

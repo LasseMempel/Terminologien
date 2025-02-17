@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/A7C8CB",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/A7C8CB",
   "type": "Concept",
   "prefLabel": {
     "de": "Plasma"
@@ -12,39 +12,39 @@
   ],
   "narrower": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/BB7D84",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/BB7D84",
       "prefLabel": {
         "de": "Stickstoffplasma"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/C4F616",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/C4F616",
       "prefLabel": {
         "de": "Argonplasma"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/CC687C",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/CC687C",
       "prefLabel": {
         "de": "Sauerstoffplasma"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/CD75GD",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/CD75GD",
       "prefLabel": {
         "de": "Methanplasma"
       }
     }
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/B3FCA1",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/B3FCA1",
     "prefLabel": {
       "de": "Reduktionsmittel"
     }
   },
   "related": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/F72743",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/F72743",
       "prefLabel": {
         "de": "Plasmabehandlung"
       }
@@ -52,12 +52,12 @@
   ],
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

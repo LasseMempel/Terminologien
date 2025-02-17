@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/D2D671",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/D2D671",
   "type": "Concept",
   "prefLabel": {
     "de": "Araldite 2020"
@@ -17,19 +17,19 @@
     "D2D671"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/AF31AG",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/AF31AG",
     "prefLabel": {
       "de": "Epoxidharz"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

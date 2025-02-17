@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/A9A858",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/A9A858",
   "type": "Concept",
   "prefLabel": {
     "de": "Holz"
@@ -12,38 +12,38 @@
   ],
   "narrower": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/C47769",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/C47769",
       "prefLabel": {
         "de": "rezentes Holz"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/C947B5",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/C947B5",
       "prefLabel": {
         "de": "archäologisches Holz"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/DFG875",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/DFG875",
       "prefLabel": {
         "de": "[Holzart]"
       }
     }
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/CD3341",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/CD3341",
     "prefLabel": {
       "de": "organisches Material"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

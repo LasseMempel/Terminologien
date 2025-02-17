@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/D74CG7",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/D74CG7",
   "type": "Concept",
   "prefLabel": {
     "de": "aufgezogen"
@@ -16,19 +16,19 @@
     "D74CG7"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/D18BBG",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/D18BBG",
     "prefLabel": {
       "de": "getrieben"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

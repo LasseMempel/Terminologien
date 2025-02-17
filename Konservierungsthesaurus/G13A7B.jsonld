@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/G13A7B",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/G13A7B",
   "type": "Concept",
   "prefLabel": {
     "de": "Strukturanalyse"
@@ -17,44 +17,44 @@
   ],
   "narrower": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/FFA1AC",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/FFA1AC",
       "prefLabel": {
         "de": "Ramanspektroskopie"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/FFAF3C",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/FFAF3C",
       "prefLabel": {
         "de": "Röntgendiffraktion"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/FB231A",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/FB231A",
       "prefLabel": {
         "de": "Röntgenuntersuchung"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/D3BFFF",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/D3BFFF",
       "prefLabel": {
         "de": "Rasterelektronenmikroskopie"
       }
     }
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/G9B788",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/G9B788",
     "prefLabel": {
       "de": "Materialanalyse"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

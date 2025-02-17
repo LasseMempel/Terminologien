@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/C84834",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/C84834",
   "type": "Concept",
   "prefLabel": {
     "de": "Quarz"
@@ -12,38 +12,38 @@
   ],
   "narrower": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/A2C56B",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/A2C56B",
       "prefLabel": {
         "de": "Amethyst"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/C81F4D",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/C81F4D",
       "prefLabel": {
         "de": "Calcedon"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/B9A8BF",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/B9A8BF",
       "prefLabel": {
         "de": "Bergkristall"
       }
     }
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/BGC9F3",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/BGC9F3",
     "prefLabel": {
       "de": "Mineral"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/BD18A1",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/BD18A1",
   "type": "Concept",
   "prefLabel": {
     "de": "genagelt"
@@ -13,19 +13,19 @@
     "BD18A1"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/A15F83",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/A15F83",
     "prefLabel": {
       "de": "Fügetechnik"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/A3D23D",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/A3D23D",
   "type": "Concept",
   "prefLabel": {
     "de": "Moltofill"
@@ -11,19 +11,19 @@
     "A3D23D"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/GD5FG6",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/GD5FG6",
     "prefLabel": {
       "de": "Gips <Restaurierungsmaterial>"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

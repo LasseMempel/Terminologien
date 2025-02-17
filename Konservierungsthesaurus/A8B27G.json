@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/A8B27G",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/A8B27G",
   "type": "Concept",
   "prefLabel": {
     "de": "Silicagel"
@@ -8,19 +8,19 @@
     "A8B27G"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/C38B35",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/C38B35",
     "prefLabel": {
       "de": "Trockenmittel"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

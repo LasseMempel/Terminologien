@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/C5BD13",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/C5BD13",
   "type": "Concept",
   "prefLabel": {
     "de": "Datierung"
@@ -17,32 +17,32 @@
   ],
   "narrower": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/B3G5C7",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/B3G5C7",
       "prefLabel": {
         "de": "Dendrochronologie"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/F6739F",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/F6739F",
       "prefLabel": {
         "de": "Radiokarbondatierung"
       }
     }
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/G9B788",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/G9B788",
     "prefLabel": {
       "de": "Materialanalyse"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

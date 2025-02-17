@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/D18BBG",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/D18BBG",
   "type": "Concept",
   "prefLabel": {
     "de": "getrieben"
@@ -17,32 +17,32 @@
   ],
   "narrower": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/A26FD8",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/A26FD8",
       "prefLabel": {
         "de": "aufgetieft"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/D74CG7",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/D74CG7",
       "prefLabel": {
         "de": "aufgezogen"
       }
     }
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/AGG387",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/AGG387",
     "prefLabel": {
       "de": "formgebende Technik"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

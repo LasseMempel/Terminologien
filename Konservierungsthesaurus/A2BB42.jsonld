@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/A2BB42",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/A2BB42",
   "type": "Concept",
   "prefLabel": {
     "de": "klimatisierte Individualverpackung"
@@ -20,19 +20,19 @@
     "A2BB42"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/A8ABBA",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/A8ABBA",
     "prefLabel": {
       "de": "klimatisierte Lagerung"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

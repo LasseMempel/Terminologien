@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/F2244D",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/F2244D",
   "type": "Concept",
   "prefLabel": {
     "de": "Verzierungstechnik"
@@ -12,278 +12,278 @@
   ],
   "narrower": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/F396G6",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/F396G6",
       "prefLabel": {
         "de": "bemalt"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/A2FA1B",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/A2FA1B",
       "prefLabel": {
         "de": "nielliert"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/A5C668",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/A5C668",
       "prefLabel": {
         "de": "ziseliert"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/A6FA7G",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/A6FA7G",
       "prefLabel": {
         "de": "inkrustiert"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/A7D71D",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/A7D71D",
       "prefLabel": {
         "de": "aufgeraut"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/D248A4",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/D248A4",
       "prefLabel": {
         "de": "versilbert"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/AF49C1",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/AF49C1",
       "prefLabel": {
         "de": "patiniert"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/B2B9C8",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/B2B9C8",
       "prefLabel": {
         "de": "brüniert"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/B5A14G",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/B5A14G",
       "prefLabel": {
         "de": "eingeritzt"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/B9835A",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/B9835A",
       "prefLabel": {
         "de": "geätzt"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/BF3639",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/BF3639",
       "prefLabel": {
         "de": "filigranverziert"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/BF6D19",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/BF6D19",
       "prefLabel": {
         "de": "gestempelt"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/BA8198",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/BA8198",
       "prefLabel": {
         "de": "Intarsieneinlage"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/A41BGB",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/A41BGB",
       "prefLabel": {
         "de": "eingedrückt"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/C61955",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/C61955",
       "prefLabel": {
         "de": "Kerbschnittdekor"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/C8G54A",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/C8G54A",
       "prefLabel": {
         "de": "verzinnt"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/C9C527",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/C9C527",
       "prefLabel": {
         "de": "granuliert"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/CB58C2",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/CB58C2",
       "prefLabel": {
         "de": "damasziert"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/CC63FA",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/CC63FA",
       "prefLabel": {
         "de": "plattiert"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/F2AG55",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/F2AG55",
       "prefLabel": {
         "de": "glasiert"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/B14C4A",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/B14C4A",
       "prefLabel": {
         "de": "emailliert"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/D1636C",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/D1636C",
       "prefLabel": {
         "de": "tordiert"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/D1F5D3",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/D1F5D3",
       "prefLabel": {
         "de": "gefasst"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/D4B599",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/D4B599",
       "prefLabel": {
         "de": "gebläut"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/DA2GD2",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/DA2GD2",
       "prefLabel": {
         "de": "aufgefädelt"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/DCF2A5",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/DCF2A5",
       "prefLabel": {
         "de": "gepicht"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/DF7759",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/DF7759",
       "prefLabel": {
         "de": "graviert"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/GC2F6A",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/GC2F6A",
       "prefLabel": {
         "de": "vergoldet"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/F4BD7F",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/F4BD7F",
       "prefLabel": {
         "de": "graphiert"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/F7F934",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/F7F934",
       "prefLabel": {
         "de": "profiliert"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/FBF2A3",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/FBF2A3",
       "prefLabel": {
         "de": "poliert"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/FC926G",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/FC926G",
       "prefLabel": {
         "de": "gesandet"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/FD6617",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/FD6617",
       "prefLabel": {
         "de": "punziert"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/FFFCB7",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/FFFCB7",
       "prefLabel": {
         "de": "durchbrochen"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/G2FA26",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/G2FA26",
       "prefLabel": {
         "de": "überzogen"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/G2FC47",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/G2FC47",
       "prefLabel": {
         "de": "appliziert"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/G4G1DA",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/G4G1DA",
       "prefLabel": {
         "de": "geglättet"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/G5D8C5",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/G5D8C5",
       "prefLabel": {
         "de": "broschiert"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/G6841G",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/G6841G",
       "prefLabel": {
         "de": "geschliffen [Dekor]"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/G73958",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/G73958",
       "prefLabel": {
         "de": "gefärbt"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/G7F25F",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/G7F25F",
       "prefLabel": {
         "de": "bestickt"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/GD11CD",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/GD11CD",
       "prefLabel": {
         "de": "geschnitzt"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/G56866",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/G56866",
       "prefLabel": {
         "de": "engobiert"
       }
     }
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/G76B7G",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/G76B7G",
     "prefLabel": {
       "de": "Technologische Auswertung"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/AG55BC",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/AG55BC",
   "type": "Concept",
   "prefLabel": {
     "de": "Elfenbein"
@@ -17,32 +17,32 @@
   ],
   "narrower": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/FF744D",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/FF744D",
       "prefLabel": {
         "de": "modernes Elfenbein"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/G56716",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/G56716",
       "prefLabel": {
         "de": "fossiles Elfenbein"
       }
     }
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/B626A3",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/B626A3",
     "prefLabel": {
       "de": "Bein"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

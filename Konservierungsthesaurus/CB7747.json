@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/CB7747",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/CB7747",
   "type": "Concept",
   "prefLabel": {
     "de": "Bildgebende Dokumentation"
@@ -9,44 +9,44 @@
   ],
   "narrower": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/C33D85",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/C33D85",
       "prefLabel": {
         "de": "Zustandsfoto"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/D9A6FA",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/D9A6FA",
       "prefLabel": {
         "de": "Schadenskartierung"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/F58F6D",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/F58F6D",
       "prefLabel": {
         "de": "3D-Scan"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/FD2B2B",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/FD2B2B",
       "prefLabel": {
         "de": "Röntgenbild"
       }
     }
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/D3AF3A",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/D3AF3A",
     "prefLabel": {
       "de": "Zustandsdokumentation"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

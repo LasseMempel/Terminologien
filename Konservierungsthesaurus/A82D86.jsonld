@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/A82D86",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/A82D86",
   "type": "Concept",
   "prefLabel": {
     "de": "Buntmetalllegierung"
@@ -17,39 +17,39 @@
   ],
   "narrower": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/FGB415",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/FGB415",
       "prefLabel": {
         "de": "Kupferlegierung"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/F15DFD",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/F15DFD",
       "prefLabel": {
         "de": "Zinklegierung"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/F387GB",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/F387GB",
       "prefLabel": {
         "de": "Bleilegierung"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/G6A358",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/G6A358",
       "prefLabel": {
         "de": "Zinnlegierung"
       }
     }
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/FAG415",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/FAG415",
     "prefLabel": {
       "de": "Unedelmetallegierung"
     }
   },
   "related": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/GB5BGF",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/GB5BGF",
       "prefLabel": {
         "de": "Buntmetall"
       }
@@ -65,12 +65,12 @@
   ],
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/FC4DGB",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/FC4DGB",
   "type": "Concept",
   "prefLabel": {
     "de": "verworfen"
@@ -11,19 +11,19 @@
     "FC4DGB"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/A8D9GF",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/A8D9GF",
     "prefLabel": {
       "de": "deformiert"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

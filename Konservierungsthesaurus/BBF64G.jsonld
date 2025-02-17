@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/BBF64G",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/BBF64G",
   "type": "Concept",
   "prefLabel": {
     "de": "Ablagerung"
@@ -17,44 +17,44 @@
   ],
   "narrower": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/B221BB",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/B221BB",
       "prefLabel": {
         "de": "kontaminiert"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/C82F3D",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/C82F3D",
       "prefLabel": {
         "de": "rezente Ablagerungen"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/G57G31",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/G57G31",
       "prefLabel": {
         "de": "schimmlig"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/BG987D",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/BG987D",
       "prefLabel": {
         "de": "weeping"
       }
     }
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/DAC996",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/DAC996",
     "prefLabel": {
       "de": "Schadensphänomen"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

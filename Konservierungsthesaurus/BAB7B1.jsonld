@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/BAB7B1",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/BAB7B1",
   "type": "Concept",
   "prefLabel": {
     "de": "Galvanisieren"
@@ -11,19 +11,19 @@
     "BAB7B1"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/F8F7CF",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/F8F7CF",
     "prefLabel": {
       "de": "Kopieherstellung"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

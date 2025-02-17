@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/B9C731",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/B9C731",
   "type": "Concept",
   "prefLabel": {
     "de": "Pergament"
@@ -11,19 +11,19 @@
     "B9C731"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/FCF757",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/FCF757",
     "prefLabel": {
       "de": "Tierhaut"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

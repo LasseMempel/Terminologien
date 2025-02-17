@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/D4A6D1",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/D4A6D1",
   "type": "Concept",
   "prefLabel": {
     "de": "Natriumborhydrid"
@@ -13,7 +13,7 @@
     "D4A6D1"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/B3FCA1",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/B3FCA1",
     "prefLabel": {
       "de": "Reduktionsmittel"
     }
@@ -25,12 +25,12 @@
   ],
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

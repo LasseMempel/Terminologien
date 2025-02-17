@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/G4G1DA",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/G4G1DA",
   "type": "Concept",
   "prefLabel": {
     "de": "geglättet"
@@ -13,19 +13,19 @@
     "G4G1DA"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/F2244D",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/F2244D",
     "prefLabel": {
       "de": "Verzierungstechnik"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

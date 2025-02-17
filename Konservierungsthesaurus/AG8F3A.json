@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/AG8F3A",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/AG8F3A",
   "type": "Concept",
   "prefLabel": {
     "de": "Perlmutt"
@@ -11,19 +11,19 @@
     "AG8F3A"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/F1BA31",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/F1BA31",
     "prefLabel": {
       "de": "Biomineral"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

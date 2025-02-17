@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/B225DC",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/B225DC",
   "type": "Concept",
   "prefLabel": {
     "de": "hintermalt"
@@ -13,19 +13,19 @@
     "B225DC"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/F396G6",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/F396G6",
     "prefLabel": {
       "de": "bemalt"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

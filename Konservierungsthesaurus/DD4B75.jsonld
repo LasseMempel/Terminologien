@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/DD4B75",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/DD4B75",
   "type": "Concept",
   "prefLabel": {
     "de": "Klucel® G"
@@ -11,19 +11,19 @@
     "DD4B75"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/A44D5F",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/A44D5F",
     "prefLabel": {
       "de": "Celluloseether"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

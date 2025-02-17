@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/DG663G",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/DG663G",
   "type": "Concept",
   "prefLabel": {
     "de": "Bleibronze"
@@ -11,7 +11,7 @@
     "DG663G"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/BF7D14",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/BF7D14",
     "prefLabel": {
       "de": "Bronze"
     }
@@ -23,12 +23,12 @@
   ],
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

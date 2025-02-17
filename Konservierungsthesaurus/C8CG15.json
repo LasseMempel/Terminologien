@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/C8CG15",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/C8CG15",
   "type": "Concept",
   "prefLabel": {
     "de": "Dokumentation"
@@ -18,19 +18,19 @@
   ],
   "narrower": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/A8D3G1",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/A8D3G1",
       "prefLabel": {
         "de": "Maßnahmenbericht"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/BAA258",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/BAA258",
       "prefLabel": {
         "de": "Auswertungsdokumentation"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/D3AF3A",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/D3AF3A",
       "prefLabel": {
         "de": "Zustandsdokumentation"
       }
@@ -38,17 +38,17 @@
   ],
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "topConceptOf": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

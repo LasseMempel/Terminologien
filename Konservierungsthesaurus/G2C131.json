@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/G2C131",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/G2C131",
   "type": "Concept",
   "prefLabel": {
     "de": "Ulmenholz"
@@ -16,19 +16,19 @@
     "G2C131"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/D39191",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/D39191",
     "prefLabel": {
       "de": "ringporiges Laubholz"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

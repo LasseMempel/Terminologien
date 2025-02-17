@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/G2F586",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/G2F586",
   "type": "Concept",
   "prefLabel": {
     "de": "biegefest"
@@ -11,19 +11,19 @@
     "G2F586"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/AGBB3C",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/AGBB3C",
     "prefLabel": {
       "de": "Festigkeit"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

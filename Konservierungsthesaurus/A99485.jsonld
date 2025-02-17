@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/A99485",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/A99485",
   "type": "Concept",
   "prefLabel": {
     "de": "Biresin LS/LM"
@@ -8,19 +8,19 @@
     "A99485"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/AF31AG",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/AF31AG",
     "prefLabel": {
       "de": "Epoxidharz"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

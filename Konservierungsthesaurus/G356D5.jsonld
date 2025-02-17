@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/G356D5",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/G356D5",
   "type": "Concept",
   "prefLabel": {
     "de": "Eibenholz"
@@ -19,7 +19,7 @@
     "G356D5"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/FC3FD6",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/FC3FD6",
     "prefLabel": {
       "de": "Nadelholz"
     }
@@ -34,12 +34,12 @@
   ],
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

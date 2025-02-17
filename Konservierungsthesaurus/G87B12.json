@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/G87B12",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/G87B12",
   "type": "Concept",
   "prefLabel": {
     "de": "Thermoionisations-Massenspektrometrie"
@@ -16,19 +16,19 @@
     "G87B12"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/CG676B",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/CG676B",
     "prefLabel": {
       "de": "Analyse der isotopischen Zusammensetzung"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

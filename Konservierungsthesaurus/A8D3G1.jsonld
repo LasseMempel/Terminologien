@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/A8D3G1",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/A8D3G1",
   "type": "Concept",
   "prefLabel": {
     "de": "Maßnahmenbericht"
@@ -18,14 +18,14 @@
     "A8D3G1"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/C8CG15",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/C8CG15",
     "prefLabel": {
       "de": "Dokumentation"
     }
   },
   "related": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/CFGDA3",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/CFGDA3",
       "prefLabel": {
         "de": "Maßnahme"
       }
@@ -33,12 +33,12 @@
   ],
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

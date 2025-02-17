@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/BC1DCG",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/BC1DCG",
   "type": "Concept",
   "prefLabel": {
     "de": "verhärtet"
@@ -16,19 +16,19 @@
     "BC1DCG"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/CB9GD3",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/CB9GD3",
     "prefLabel": {
       "de": "Kohäsionsverlust"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/FF744D",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/FF744D",
   "type": "Concept",
   "prefLabel": {
     "de": "modernes Elfenbein"
@@ -16,19 +16,19 @@
     "FF744D"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/AG55BC",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/AG55BC",
     "prefLabel": {
       "de": "Elfenbein"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

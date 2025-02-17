@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/A6A248",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/A6A248",
   "type": "Concept",
   "prefLabel": {
     "de": "maschinelle Freilegung"
@@ -11,74 +11,74 @@
     "A6A248"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/G814D2",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/G814D2",
     "prefLabel": {
       "de": "Freilegung"
     }
   },
   "related": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/C5A318",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/C5A318",
       "prefLabel": {
         "de": "Ultraschallgerät"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/C4C6B6",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/C4C6B6",
       "prefLabel": {
         "de": "Schleifkörper"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/B2642A",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/B2642A",
       "prefLabel": {
         "de": "Oberflächenbeschichtungen entfernt"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/ADD53A",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/ADD53A",
       "prefLabel": {
         "de": "Strahlmittel"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/CA59C2",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/CA59C2",
       "prefLabel": {
         "de": "Klebungen entfernt"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/F57A2A",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/F57A2A",
       "prefLabel": {
         "de": "temporäre Stabilisierung entfernt"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/FGBB54",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/FGBB54",
       "prefLabel": {
         "de": "Ergänzungsmaterialien entfernt"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/BBB987",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/BBB987",
       "prefLabel": {
         "de": "Absauganlage"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/C871CB",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/C871CB",
       "prefLabel": {
         "de": "Ultraschallfeinmeißel"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/G487C2",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/G487C2",
       "prefLabel": {
         "de": "Feinstrahlgerät"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/D8G747",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/D8G747",
       "prefLabel": {
         "de": "Mikromotor"
       }
@@ -86,12 +86,12 @@
   ],
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

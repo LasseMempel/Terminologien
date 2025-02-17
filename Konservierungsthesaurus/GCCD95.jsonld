@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/GCCD95",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/GCCD95",
   "type": "Concept",
   "prefLabel": {
     "de": "Schadstoffe"
@@ -11,19 +11,19 @@
     "GCCD95"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/F964CG",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/F964CG",
     "prefLabel": {
       "de": "Schadensursache"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

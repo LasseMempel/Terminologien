@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/B764C6",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/B764C6",
   "type": "Concept",
   "prefLabel": {
     "de": "Rasterelektronenmikroskop"
@@ -20,14 +20,14 @@
     "B764C6"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/B538AG",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/B538AG",
     "prefLabel": {
       "de": "Mikroskop"
     }
   },
   "related": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/D3BFFF",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/D3BFFF",
       "prefLabel": {
         "de": "Rasterelektronenmikroskopie"
       }
@@ -40,12 +40,12 @@
   ],
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

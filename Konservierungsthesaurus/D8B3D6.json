@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/D8B3D6",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/D8B3D6",
   "type": "Concept",
   "prefLabel": {
     "de": "Araldit XB 260"
@@ -8,19 +8,19 @@
     "D8B3D6"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/AF31AG",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/AF31AG",
     "prefLabel": {
       "de": "Epoxidharz"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

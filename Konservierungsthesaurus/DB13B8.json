@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/DB13B8",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/DB13B8",
   "type": "Concept",
   "prefLabel": {
     "de": "Tonstein"
@@ -11,19 +11,19 @@
     "DB13B8"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/C7F346",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/C7F346",
     "prefLabel": {
       "de": "Sedimentgestein"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

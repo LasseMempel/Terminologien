@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/FA91B1",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/FA91B1",
   "type": "Concept",
   "prefLabel": {
     "de": "Glutinleim"
@@ -20,19 +20,19 @@
     "FA91B1"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/GD86C1",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/GD86C1",
     "prefLabel": {
       "de": "Proteinleim"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

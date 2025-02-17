@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/C35AG4",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/C35AG4",
   "type": "Concept",
   "prefLabel": {
     "de": "Exaduro Gips"
@@ -13,19 +13,19 @@
     "C35AG4"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/GD5FG6",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/GD5FG6",
     "prefLabel": {
       "de": "Gips <Restaurierungsmaterial>"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

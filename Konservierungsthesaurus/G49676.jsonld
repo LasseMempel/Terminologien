@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/G49676",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/G49676",
   "type": "Concept",
   "prefLabel": {
     "de": "Ripsbindung"
@@ -18,19 +18,19 @@
     "G49676"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/CAF8AF",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/CAF8AF",
     "prefLabel": {
       "de": "gewebt"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

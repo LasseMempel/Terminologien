@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/B7AF8G",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/B7AF8G",
   "type": "Concept",
   "prefLabel": {
     "de": "Konfokalmikroskop"
@@ -11,19 +11,19 @@
     "B7AF8G"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/FC2113",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/FC2113",
     "prefLabel": {
       "de": "Lichtmikroskop"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

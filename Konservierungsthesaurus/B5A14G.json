@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/B5A14G",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/B5A14G",
   "type": "Concept",
   "prefLabel": {
     "de": "eingeritzt"
@@ -13,19 +13,19 @@
     "B5A14G"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/F2244D",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/F2244D",
     "prefLabel": {
       "de": "Verzierungstechnik"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

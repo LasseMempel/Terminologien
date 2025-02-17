@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/A1D125",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/A1D125",
   "type": "Concept",
   "prefLabel": {
     "de": "synthetisches Polymer"
@@ -21,86 +21,86 @@
   ],
   "narrower": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/GFD582",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/GFD582",
       "prefLabel": {
         "de": "Acrylharz"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/A3G356",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/A3G356",
       "prefLabel": {
         "de": "Polyurethan"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/DF5773",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/DF5773",
       "prefLabel": {
         "de": "Polyvinylacetat"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/AF31AG",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/AF31AG",
       "prefLabel": {
         "de": "Epoxidharz"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/B572B5",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/B572B5",
       "prefLabel": {
         "de": "Polyvinylbutyral"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/CD13GA",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/CD13GA",
       "prefLabel": {
         "de": "Cyclododecan"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/DF633G",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/DF633G",
       "prefLabel": {
         "de": "Melamin-Formaldehydharz"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/F89522",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/F89522",
       "prefLabel": {
         "de": "Polyethylenglycol"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/C838C1",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/C838C1",
       "prefLabel": {
         "de": "Polyvinylalkohol"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/F8A93F",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/F8A93F",
       "prefLabel": {
         "de": "Polyesterharz"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/D41661",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/D41661",
       "prefLabel": {
         "de": "Cellulosederivat"
       }
     }
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/B7B8B6",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/B7B8B6",
     "prefLabel": {
       "de": "[Adhäsivstoff]"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

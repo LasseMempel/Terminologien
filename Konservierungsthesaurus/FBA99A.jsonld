@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/FBA99A",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/FBA99A",
   "type": "Concept",
   "prefLabel": {
     "de": "instabil"
@@ -16,14 +16,14 @@
     "FBA99A"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/FB6AGB",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/FB6AGB",
     "prefLabel": {
       "de": "Stabilität"
     }
   },
   "related": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/DG7A1D",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/DG7A1D",
       "prefLabel": {
         "de": "fragil"
       }
@@ -31,12 +31,12 @@
   ],
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

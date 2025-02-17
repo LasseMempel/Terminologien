@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/B2F4F2",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/B2F4F2",
   "type": "Concept",
   "prefLabel": {
     "de": "Mastix"
@@ -16,19 +16,19 @@
     "B2F4F2"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/C176FC",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/C176FC",
     "prefLabel": {
       "de": "Schellack"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

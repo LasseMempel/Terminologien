@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/FG9C55",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/FG9C55",
   "type": "Concept",
   "prefLabel": {
     "de": "Exsikkator"
@@ -8,19 +8,19 @@
     "FG9C55"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/GF9C49",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/GF9C49",
     "prefLabel": {
       "de": "technische Geräte"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

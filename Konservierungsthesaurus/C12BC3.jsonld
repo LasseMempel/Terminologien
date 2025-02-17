@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/C12BC3",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/C12BC3",
   "type": "Concept",
   "prefLabel": {
     "de": "Tierzahn"
@@ -11,19 +11,19 @@
     "C12BC3"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/B59296",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/B59296",
     "prefLabel": {
       "de": "Zahn"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

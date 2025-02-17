@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/AG4G3C",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/AG4G3C",
   "type": "Concept",
   "prefLabel": {
     "de": "Digitalmikroskop"
@@ -11,7 +11,7 @@
     "AG4G3C"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/FC2113",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/FC2113",
     "prefLabel": {
       "de": "Lichtmikroskop"
     }
@@ -23,12 +23,12 @@
   ],
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

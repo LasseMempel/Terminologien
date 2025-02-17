@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/A73FD7",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/A73FD7",
   "type": "Concept",
   "prefLabel": {
     "de": "Kiefernholz"
@@ -16,19 +16,19 @@
     "A73FD7"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/FC3FD6",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/FC3FD6",
     "prefLabel": {
       "de": "Nadelholz"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

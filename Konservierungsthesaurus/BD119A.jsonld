@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/BD119A",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/BD119A",
   "type": "Concept",
   "prefLabel": {
     "de": "Retusche"
@@ -17,14 +17,14 @@
     "BD119A"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/CGC619",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/CGC619",
     "prefLabel": {
       "de": "Ergänzung"
     }
   },
   "related": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/AFD671",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/AFD671",
       "prefLabel": {
         "de": "Farbstoff"
       }
@@ -32,12 +32,12 @@
   ],
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

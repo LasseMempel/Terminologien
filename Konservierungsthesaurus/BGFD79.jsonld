@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/BGFD79",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/BGFD79",
   "type": "Concept",
   "prefLabel": {
     "de": "gebrannt"
@@ -14,32 +14,32 @@
   ],
   "narrower": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/C3D36A",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/C3D36A",
       "prefLabel": {
         "de": "reduzierender Brand"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/DD6G2G",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/DD6G2G",
       "prefLabel": {
         "de": "oxidierender Brand"
       }
     }
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/AGG387",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/AGG387",
     "prefLabel": {
       "de": "formgebende Technik"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

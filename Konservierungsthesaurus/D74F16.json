@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/D74F16",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/D74F16",
   "type": "Concept",
   "prefLabel": {
     "de": "Staubablagerung"
@@ -11,19 +11,19 @@
     "D74F16"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/A889A3",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/A889A3",
     "prefLabel": {
       "de": "Verschmutzung"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

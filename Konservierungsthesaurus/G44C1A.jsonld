@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/G44C1A",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/G44C1A",
   "type": "Concept",
   "prefLabel": {
     "de": "Leinöl"
@@ -8,19 +8,19 @@
     "G44C1A"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/CCCC7G",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/CCCC7G",
     "prefLabel": {
       "de": "Öl"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

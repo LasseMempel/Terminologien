@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/C5FAFF",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/C5FAFF",
   "type": "Concept",
   "prefLabel": {
     "de": "verstiftet"
@@ -16,19 +16,19 @@
     "C5FAFF"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/A15F83",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/A15F83",
     "prefLabel": {
       "de": "Fügetechnik"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

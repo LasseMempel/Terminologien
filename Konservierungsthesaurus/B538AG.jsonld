@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/B538AG",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/B538AG",
   "type": "Concept",
   "prefLabel": {
     "de": "Mikroskop"
@@ -17,27 +17,27 @@
   ],
   "narrower": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/FC2113",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/FC2113",
       "prefLabel": {
         "de": "Lichtmikroskop"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/B764C6",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/B764C6",
       "prefLabel": {
         "de": "Rasterelektronenmikroskop"
       }
     }
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/AA6941",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/AA6941",
     "prefLabel": {
       "de": "[Untersuchungsgerät]"
     }
   },
   "related": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/D4AC7A",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/D4AC7A",
       "prefLabel": {
         "de": "mikroskopische Untersuchung"
       }
@@ -50,12 +50,12 @@
   ],
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

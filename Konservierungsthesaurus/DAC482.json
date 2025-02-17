@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/DAC482",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/DAC482",
   "type": "Concept",
   "prefLabel": {
     "de": "Lötvorrichtung"
@@ -8,19 +8,19 @@
     "DAC482"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/GF9C49",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/GF9C49",
     "prefLabel": {
       "de": "technische Geräte"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

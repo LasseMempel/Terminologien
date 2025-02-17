@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/B8B69D",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/B8B69D",
   "type": "Concept",
   "prefLabel": {
     "de": "Bernstein"
@@ -16,7 +16,7 @@
     "B8B69D"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/F1BA31",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/F1BA31",
     "prefLabel": {
       "de": "Biomineral"
     }
@@ -28,12 +28,12 @@
   ],
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

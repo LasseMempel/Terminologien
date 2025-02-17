@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/B576DA",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/B576DA",
   "type": "Concept",
   "prefLabel": {
     "de": "Kaschmirwolle"
@@ -16,19 +16,19 @@
     "B576DA"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/F8DFCG",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/F8DFCG",
     "prefLabel": {
       "de": "Tierhaar"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

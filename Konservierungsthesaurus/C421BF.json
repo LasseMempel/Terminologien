@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/C421BF",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/C421BF",
   "type": "Concept",
   "prefLabel": {
     "de": "Lösungsmittel"
@@ -21,87 +21,87 @@
   ],
   "narrower": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/G34563",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/G34563",
       "prefLabel": {
         "de": "Siedegrenzbenzin"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/AFC696",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/AFC696",
       "prefLabel": {
         "de": "2-Butanon"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/DFD1B7",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/DFD1B7",
       "prefLabel": {
         "de": "Wasser"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/B77A8F",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/B77A8F",
       "prefLabel": {
         "de": "Ethylacetat"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/BBA28A",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/BBA28A",
       "prefLabel": {
         "de": "Ethanol"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/BDG3D5",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/BDG3D5",
       "prefLabel": {
         "de": "Xylol"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/D347D6",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/D347D6",
       "prefLabel": {
         "de": "Terpentinöl"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/D627B2",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/D627B2",
       "prefLabel": {
         "de": "Toloul"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/D72F3A",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/D72F3A",
       "prefLabel": {
         "de": "Aceton"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/G46243",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/G46243",
       "prefLabel": {
         "de": "Propylacetat"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/GGD87G",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/GGD87G",
       "prefLabel": {
         "de": "Coloradol"
       }
     }
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/C364G1",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/C364G1",
     "prefLabel": {
       "de": "Konservierungs- und Restaurierungsmaterialien"
     }
   },
   "related": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/A194CF",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/A194CF",
       "prefLabel": {
         "de": "Nassreinigung"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/C3733A",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/C3733A",
       "prefLabel": {
         "de": "Feuchtreinigung"
       }
@@ -114,12 +114,12 @@
   ],
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

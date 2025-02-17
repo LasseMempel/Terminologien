@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/G43GG2",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/G43GG2",
   "type": "Concept",
   "prefLabel": {
     "de": "Pferdehaar"
@@ -16,7 +16,7 @@
     "G43GG2"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/F8DFCG",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/F8DFCG",
     "prefLabel": {
       "de": "Tierhaar"
     }
@@ -31,12 +31,12 @@
   ],
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

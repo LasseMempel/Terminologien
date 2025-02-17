@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/B33968",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/B33968",
   "type": "Concept",
   "prefLabel": {
     "de": "Molekularsieb"
@@ -13,19 +13,19 @@
     "B33968"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/C38B35",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/C38B35",
     "prefLabel": {
       "de": "Trockenmittel"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

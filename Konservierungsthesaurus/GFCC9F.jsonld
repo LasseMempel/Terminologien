@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/GFCC9F",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/GFCC9F",
   "type": "Concept",
   "prefLabel": {
     "de": "Diffusionsvergoldung"
@@ -8,19 +8,19 @@
     "GFCC9F"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/GC2F6A",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/GC2F6A",
     "prefLabel": {
       "de": "vergoldet"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

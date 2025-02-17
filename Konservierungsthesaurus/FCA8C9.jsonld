@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/FCA8C9",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/FCA8C9",
   "type": "Concept",
   "prefLabel": {
     "de": "Natriumthiosulfat"
@@ -8,7 +8,7 @@
     "FCA8C9"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/B3FCA1",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/B3FCA1",
     "prefLabel": {
       "de": "Reduktionsmittel"
     }
@@ -20,12 +20,12 @@
   ],
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

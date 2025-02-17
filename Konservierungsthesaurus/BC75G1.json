@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/BC75G1",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/BC75G1",
   "type": "Concept",
   "prefLabel": {
     "de": "Eisenlegierung"
@@ -16,20 +16,20 @@
     "BC75G1"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/FAG415",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/FAG415",
     "prefLabel": {
       "de": "Unedelmetallegierung"
     }
   },
   "related": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/B19D33",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/B19D33",
       "prefLabel": {
         "de": "Pseudomorphose"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/F71C6B",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/F71C6B",
       "prefLabel": {
         "de": "Eisen"
       }
@@ -45,12 +45,12 @@
   ],
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

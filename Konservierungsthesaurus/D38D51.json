@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/D38D51",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/D38D51",
   "type": "Concept",
   "prefLabel": {
     "de": "HDK"
@@ -11,19 +11,19 @@
     "D38D51"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/DA86F8",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/DA86F8",
     "prefLabel": {
       "de": "pyrogene Kieselsäure"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

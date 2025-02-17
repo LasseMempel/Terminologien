@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/B2D9C9",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/B2D9C9",
   "type": "Concept",
   "prefLabel": {
     "de": "Mehrteilige Form"
@@ -11,19 +11,19 @@
     "B2D9C9"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/FBGFC2",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/FBGFC2",
     "prefLabel": {
       "de": "[Formaufbau]"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

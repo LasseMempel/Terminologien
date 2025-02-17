@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/B2F655",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/B2F655",
   "type": "Concept",
   "prefLabel": {
     "de": "Geweih"
@@ -13,19 +13,19 @@
     "B2F655"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/F1BA31",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/F1BA31",
     "prefLabel": {
       "de": "Biomineral"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

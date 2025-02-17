@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/DA86F8",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/DA86F8",
   "type": "Concept",
   "prefLabel": {
     "de": "pyrogene Kieselsäure"
@@ -22,32 +22,32 @@
   ],
   "narrower": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/D38D51",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/D38D51",
       "prefLabel": {
         "de": "HDK"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/GGFD3F",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/GGFD3F",
       "prefLabel": {
         "de": "Aerosil"
       }
     }
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/BB78D2",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/BB78D2",
     "prefLabel": {
       "de": "Füllstoff"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

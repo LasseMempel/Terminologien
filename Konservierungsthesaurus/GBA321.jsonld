@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/GBA321",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/GBA321",
   "type": "Concept",
   "prefLabel": {
     "de": "Plexigum"
@@ -8,19 +8,19 @@
     "GBA321"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/GFD582",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/GFD582",
     "prefLabel": {
       "de": "Acrylharz"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

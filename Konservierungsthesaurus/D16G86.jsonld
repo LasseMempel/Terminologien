@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/D16G86",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/D16G86",
   "type": "Concept",
   "prefLabel": {
     "de": "Korrosionsinduzierter Schaden"
@@ -11,19 +11,19 @@
     "D16G86"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/F964CG",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/F964CG",
     "prefLabel": {
       "de": "Schadensursache"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

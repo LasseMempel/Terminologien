@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/GD9CA3",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/GD9CA3",
   "type": "Concept",
   "prefLabel": {
     "de": "kondensationsvernetzender Silikonkautschuk"
@@ -17,50 +17,50 @@
   ],
   "narrower": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/A6CA1C",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/A6CA1C",
       "prefLabel": {
         "de": "Elastosil M 4503"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/A8GFCC",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/A8GFCC",
       "prefLabel": {
         "de": "Bluesil RTV 3325"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/AC1C85",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/AC1C85",
       "prefLabel": {
         "de": "Silikon Kondensation 20 A+B"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/C9C7C7",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/C9C7C7",
       "prefLabel": {
         "de": "Elastosil M3500"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/DB5G7D",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/DB5G7D",
       "prefLabel": {
         "de": "Elastosil M4514"
       }
     }
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/A44BG6",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/A44BG6",
     "prefLabel": {
       "de": "Silikonkautschuk"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

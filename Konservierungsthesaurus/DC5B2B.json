@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/DC5B2B",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/DC5B2B",
   "type": "Concept",
   "prefLabel": {
     "de": "Goldlegierung"
@@ -19,14 +19,14 @@
     "DC5B2B"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/G4AG5C",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/G4AG5C",
     "prefLabel": {
       "de": "Edelmetalllegierung"
     }
   },
   "related": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/FD5149",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/FD5149",
       "prefLabel": {
         "de": "Gold"
       }
@@ -45,12 +45,12 @@
   ],
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

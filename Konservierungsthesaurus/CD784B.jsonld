@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/CD784B",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/CD784B",
   "type": "Concept",
   "prefLabel": {
     "de": "Alabaster Modellgips"
@@ -11,19 +11,19 @@
     "CD784B"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/GD5FG6",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/GD5FG6",
     "prefLabel": {
       "de": "Gips <Restaurierungsmaterial>"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

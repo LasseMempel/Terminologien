@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/A15D7G",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/A15D7G",
   "type": "Concept",
   "prefLabel": {
     "de": "Schwenkform"
@@ -11,19 +11,19 @@
     "A15D7G"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/FFA16B",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/FFA16B",
     "prefLabel": {
       "de": "[Formtyp]"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

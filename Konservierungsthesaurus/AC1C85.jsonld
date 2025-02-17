@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/AC1C85",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/AC1C85",
   "type": "Concept",
   "prefLabel": {
     "de": "Silikon Kondensation 20 A+B"
@@ -16,19 +16,19 @@
     "AC1C85"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/GD9CA3",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/GD9CA3",
     "prefLabel": {
       "de": "kondensationsvernetzender Silikonkautschuk"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

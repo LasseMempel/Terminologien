@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/A19F86",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/A19F86",
   "type": "Concept",
   "prefLabel": {
     "de": "Schlickermalerei"
@@ -17,14 +17,14 @@
     "A19F86"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/F396G6",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/F396G6",
     "prefLabel": {
       "de": "bemalt"
     }
   },
   "related": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/G56866",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/G56866",
       "prefLabel": {
         "de": "engobiert"
       }
@@ -32,12 +32,12 @@
   ],
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

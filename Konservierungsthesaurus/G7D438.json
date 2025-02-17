@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/G7D438",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/G7D438",
   "type": "Concept",
   "prefLabel": {
     "de": "blasig"
@@ -16,19 +16,19 @@
     "G7D438"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/B224CD",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/B224CD",
     "prefLabel": {
       "de": "Formänderung"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

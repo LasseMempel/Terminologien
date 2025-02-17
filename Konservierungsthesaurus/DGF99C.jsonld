@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/DGF99C",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/DGF99C",
   "type": "Concept",
   "prefLabel": {
     "de": "Blockbergung aufgelöst"
@@ -17,19 +17,19 @@
     "DGF99C"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/D865C3",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/D865C3",
     "prefLabel": {
       "de": "Überarbeitung"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

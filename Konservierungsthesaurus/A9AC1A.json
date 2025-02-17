@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/A9AC1A",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/A9AC1A",
   "type": "Concept",
   "prefLabel": {
     "de": "Kaninchenhaar"
@@ -16,19 +16,19 @@
     "A9AC1A"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/F8DFCG",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/F8DFCG",
     "prefLabel": {
       "de": "Tierhaar"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

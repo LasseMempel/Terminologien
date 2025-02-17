@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/F443FD",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/F443FD",
   "type": "Concept",
   "prefLabel": {
     "de": "Schadstoffabsorber"
@@ -9,32 +9,32 @@
   ],
   "narrower": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/BFCF37",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/BFCF37",
       "prefLabel": {
         "de": "RP Sauerstoffabsorber"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/C1DG79",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/C1DG79",
       "prefLabel": {
         "de": "Aktivkohlegewebe"
       }
     }
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/GDB246",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/GDB246",
     "prefLabel": {
       "de": "Adsorbens"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

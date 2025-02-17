@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/F5G8DB",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/F5G8DB",
   "type": "Concept",
   "prefLabel": {
     "de": "Ebalta AH 100"
@@ -16,19 +16,19 @@
     "F5G8DB"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/AF31AG",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/AF31AG",
     "prefLabel": {
       "de": "Epoxidharz"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/B7DD6B",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/B7DD6B",
   "type": "Concept",
   "prefLabel": {
     "de": "Laubholz"
@@ -12,32 +12,32 @@
   ],
   "narrower": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/DAA3F9",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/DAA3F9",
       "prefLabel": {
         "de": "zerstreutporiges Laubholz"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/D39191",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/D39191",
       "prefLabel": {
         "de": "ringporiges Laubholz"
       }
     }
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/DFG875",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/DFG875",
     "prefLabel": {
       "de": "[Holzart]"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/A18D95",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/A18D95",
   "type": "Concept",
   "prefLabel": {
     "de": "Konservierungskonzept"
@@ -19,25 +19,25 @@
   ],
   "narrower": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/AC1786",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/AC1786",
       "prefLabel": {
         "de": "Zeitplanung"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/CDD6B5",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/CDD6B5",
       "prefLabel": {
         "de": "Risikobeurteilung"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/DA4158",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/DA4158",
       "prefLabel": {
         "de": "Konservierungs-/Restaurierungsziel"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/GDF23F",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/GDF23F",
       "prefLabel": {
         "de": "Methodik"
       }
@@ -45,13 +45,13 @@
   ],
   "related": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/CFGDA3",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/CFGDA3",
       "prefLabel": {
         "de": "Maßnahme"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/C4BCF8",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/C4BCF8",
       "prefLabel": {
         "de": "Zustandserfassung"
       }
@@ -59,17 +59,17 @@
   ],
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "topConceptOf": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

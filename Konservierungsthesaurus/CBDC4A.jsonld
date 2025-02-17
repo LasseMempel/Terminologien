@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/CBDC4A",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/CBDC4A",
   "type": "Concept",
   "prefLabel": {
     "de": "Manschettenergänzung"
@@ -12,32 +12,32 @@
   ],
   "narrower": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/D152G6",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/D152G6",
       "prefLabel": {
         "de": "beidseitige Manschettenergänzung"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/DAA82A",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/DAA82A",
       "prefLabel": {
         "de": "einseitige Manschettenergänzung"
       }
     }
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/CGC619",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/CGC619",
     "prefLabel": {
       "de": "Ergänzung"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

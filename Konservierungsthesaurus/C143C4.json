@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/C143C4",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/C143C4",
   "type": "Concept",
   "prefLabel": {
     "de": "Dextrinleim"
@@ -19,19 +19,19 @@
     "C143C4"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/C176FC",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/C176FC",
     "prefLabel": {
       "de": "Schellack"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/G74A2D",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/G74A2D",
   "type": "Concept",
   "prefLabel": {
     "de": "gesprungen"
@@ -18,19 +18,19 @@
     "G74A2D"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/CB9GD3",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/CB9GD3",
     "prefLabel": {
       "de": "Kohäsionsverlust"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/CB4C3C",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/CB4C3C",
   "type": "Concept",
   "prefLabel": {
     "de": "Kalksinter"
@@ -11,19 +11,19 @@
     "CB4C3C"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/C7F346",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/C7F346",
     "prefLabel": {
       "de": "Sedimentgestein"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

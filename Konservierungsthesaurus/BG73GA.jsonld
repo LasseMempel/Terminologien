@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/BG73GA",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/BG73GA",
   "type": "Concept",
   "prefLabel": {
     "de": "Block-twisting"
@@ -8,19 +8,19 @@
     "BG73GA"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/B4FD9B",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/B4FD9B",
     "prefLabel": {
       "de": "gerollt"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

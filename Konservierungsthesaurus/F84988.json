@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/F84988",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/F84988",
   "type": "Concept",
   "prefLabel": {
     "de": "Methocel A4C"
@@ -8,19 +8,19 @@
     "F84988"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/A44D5F",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/A44D5F",
     "prefLabel": {
       "de": "Celluloseether"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

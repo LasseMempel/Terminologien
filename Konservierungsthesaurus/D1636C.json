@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/D1636C",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/D1636C",
   "type": "Concept",
   "prefLabel": {
     "de": "tordiert"
@@ -13,19 +13,19 @@
     "D1636C"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/F2244D",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/F2244D",
     "prefLabel": {
       "de": "Verzierungstechnik"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

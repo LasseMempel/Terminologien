@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/F2AG55",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/F2AG55",
   "type": "Concept",
   "prefLabel": {
     "de": "glasiert"
@@ -17,32 +17,32 @@
   ],
   "narrower": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/CG1531",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/CG1531",
       "prefLabel": {
         "de": "Unterglasurdekor"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/D691FG",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/D691FG",
       "prefLabel": {
         "de": "Aufglasurdekor"
       }
     }
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/F2244D",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/F2244D",
     "prefLabel": {
       "de": "Verzierungstechnik"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

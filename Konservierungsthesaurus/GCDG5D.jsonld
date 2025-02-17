@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/GCDG5D",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/GCDG5D",
   "type": "Concept",
   "prefLabel": {
     "de": "Nedform Silikon Addition Transparent 25"
@@ -8,19 +8,19 @@
     "GCDG5D"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/DA841D",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/DA841D",
     "prefLabel": {
       "de": "additionsvernetzender Silikonkautschuk"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

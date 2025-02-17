@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/F1751B",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/F1751B",
   "type": "Concept",
   "prefLabel": {
     "de": "geblasen"
@@ -8,19 +8,19 @@
     "F1751B"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/AGG387",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/AGG387",
     "prefLabel": {
       "de": "formgebende Technik"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

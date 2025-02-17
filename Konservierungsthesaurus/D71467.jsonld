@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/D71467",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/D71467",
   "type": "Concept",
   "prefLabel": {
     "de": "Illit"
@@ -11,19 +11,19 @@
     "D71467"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/F9GC9A",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/F9GC9A",
     "prefLabel": {
       "de": "Tonminerale"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

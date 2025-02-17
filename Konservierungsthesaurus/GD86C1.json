@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/GD86C1",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/GD86C1",
   "type": "Concept",
   "prefLabel": {
     "de": "Proteinleim"
@@ -12,32 +12,32 @@
   ],
   "narrower": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/F5BDAB",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/F5BDAB",
       "prefLabel": {
         "de": "Kaseinleim"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/FA91B1",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/FA91B1",
       "prefLabel": {
         "de": "Glutinleim"
       }
     }
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/C176FC",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/C176FC",
     "prefLabel": {
       "de": "Schellack"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

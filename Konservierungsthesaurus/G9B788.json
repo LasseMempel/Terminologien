@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/G9B788",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/G9B788",
   "type": "Concept",
   "prefLabel": {
     "de": "Materialanalyse"
@@ -17,74 +17,74 @@
   ],
   "narrower": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/CG676B",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/CG676B",
       "prefLabel": {
         "de": "Analyse der isotopischen Zusammensetzung"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/C5BD13",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/C5BD13",
       "prefLabel": {
         "de": "Datierung"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/BFGB1A",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/BFGB1A",
       "prefLabel": {
         "de": "Laser Ablation – Inductively Coupled Plasma – Mass Spectrometry"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/G17B8B",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/G17B8B",
       "prefLabel": {
         "de": "Analyse der chemischen Zusammensetzung"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/A946B5",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/A946B5",
       "prefLabel": {
         "de": "chemische Untersuchung"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/DD4383",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/DD4383",
       "prefLabel": {
         "de": "Brennprobe"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/F7AGD2",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/F7AGD2",
       "prefLabel": {
         "de": "Probennahme"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/FCB7A5",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/FCB7A5",
       "prefLabel": {
         "de": "Röntgenfluoresezenzanalyse"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/G13A7B",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/G13A7B",
       "prefLabel": {
         "de": "Strukturanalyse"
       }
     }
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/D4A13D",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/D4A13D",
     "prefLabel": {
       "de": "[Untersuchungsmethode]"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

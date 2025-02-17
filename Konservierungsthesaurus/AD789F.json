@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/AD789F",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/AD789F",
   "type": "Concept",
   "prefLabel": {
     "de": "Silberlegierung"
@@ -19,14 +19,14 @@
     "AD789F"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/G4AG5C",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/G4AG5C",
     "prefLabel": {
       "de": "Edelmetalllegierung"
     }
   },
   "related": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/F135A8",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/F135A8",
       "prefLabel": {
         "de": "Silber"
       }
@@ -45,12 +45,12 @@
   ],
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

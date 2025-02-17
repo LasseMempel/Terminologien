@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/GAD222",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/GAD222",
   "type": "Concept",
   "prefLabel": {
     "de": "Einfügung"
@@ -11,19 +11,19 @@
     "GAD222"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/CGC619",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/CGC619",
     "prefLabel": {
       "de": "Ergänzung"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

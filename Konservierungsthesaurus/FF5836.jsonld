@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/FF5836",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/FF5836",
   "type": "Concept",
   "prefLabel": {
     "de": "Atlasbindung"
@@ -19,19 +19,19 @@
     "FF5836"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/CAF8AF",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/CAF8AF",
     "prefLabel": {
       "de": "gewebt"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

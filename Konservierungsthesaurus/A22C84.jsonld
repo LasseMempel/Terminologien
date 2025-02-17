@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/A22C84",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/A22C84",
   "type": "Concept",
   "prefLabel": {
     "de": "Korundschleifkörper"
@@ -8,19 +8,19 @@
     "A22C84"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/C4C6B6",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/C4C6B6",
     "prefLabel": {
       "de": "Schleifkörper"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

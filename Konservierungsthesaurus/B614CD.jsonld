@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/B614CD",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/B614CD",
   "type": "Concept",
   "prefLabel": {
     "de": "Natriumsulfit"
@@ -8,7 +8,7 @@
     "B614CD"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/B3FCA1",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/B3FCA1",
     "prefLabel": {
       "de": "Reduktionsmittel"
     }
@@ -20,12 +20,12 @@
   ],
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

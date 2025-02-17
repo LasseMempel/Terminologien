@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/A889A3",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/A889A3",
   "type": "Concept",
   "prefLabel": {
     "de": "Verschmutzung"
@@ -18,44 +18,44 @@
   ],
   "narrower": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/A14228",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/A14228",
       "prefLabel": {
         "de": "Verkrustung"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/D28G9A",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/D28G9A",
       "prefLabel": {
         "de": "Erdanhaftungen"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/D74F16",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/D74F16",
       "prefLabel": {
         "de": "Staubablagerung"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/F8915F",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/F8915F",
       "prefLabel": {
         "de": "Versinterung"
       }
     }
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/F964CG",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/F964CG",
     "prefLabel": {
       "de": "Schadensursache"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

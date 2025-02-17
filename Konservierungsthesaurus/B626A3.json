@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/B626A3",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/B626A3",
   "type": "Concept",
   "prefLabel": {
     "de": "Bein"
@@ -17,26 +17,26 @@
   ],
   "narrower": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/AG55BC",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/AG55BC",
       "prefLabel": {
         "de": "Elfenbein"
       }
     }
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/F1BA31",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/F1BA31",
     "prefLabel": {
       "de": "Biomineral"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

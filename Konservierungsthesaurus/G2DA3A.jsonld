@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/G2DA3A",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/G2DA3A",
   "type": "Concept",
   "prefLabel": {
     "de": "Aluminiumfolie"
@@ -8,19 +8,19 @@
     "G2DA3A"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/F8ADGD",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/F8ADGD",
     "prefLabel": {
       "de": "Folie"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

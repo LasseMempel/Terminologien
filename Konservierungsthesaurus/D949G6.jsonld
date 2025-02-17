@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/D949G6",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/D949G6",
   "type": "Concept",
   "prefLabel": {
     "de": "Handhabung"
@@ -16,19 +16,19 @@
     "D949G6"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/DAB4B7",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/DAB4B7",
     "prefLabel": {
       "de": "Handlungsempfehlung"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

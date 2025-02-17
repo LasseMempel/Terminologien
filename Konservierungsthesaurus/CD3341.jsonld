@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/CD3341",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/CD3341",
   "type": "Concept",
   "prefLabel": {
     "de": "organisches Material"
@@ -20,32 +20,32 @@
   ],
   "narrower": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/G76A78",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/G76A78",
       "prefLabel": {
         "de": "Kaustobiolith"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/A9A858",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/A9A858",
       "prefLabel": {
         "de": "Holz"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/F3G8D1",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/F3G8D1",
       "prefLabel": {
         "de": "Materialien pflanzlichen Ursprungs"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/F2A45F",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/F2A45F",
       "prefLabel": {
         "de": "Materialien tierischen Ursprungs"
       }
     }
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/B51DAF",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/B51DAF",
     "prefLabel": {
       "de": "Material"
     }
@@ -65,12 +65,12 @@
   ],
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

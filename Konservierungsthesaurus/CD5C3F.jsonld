@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/CD5C3F",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/CD5C3F",
   "type": "Concept",
   "prefLabel": {
     "de": "Gesundheitsschutz"
@@ -8,19 +8,19 @@
     "CD5C3F"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/DAB4B7",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/DAB4B7",
     "prefLabel": {
       "de": "Handlungsempfehlung"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

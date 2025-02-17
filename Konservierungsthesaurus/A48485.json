@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/A48485",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/A48485",
   "type": "Concept",
   "prefLabel": {
     "de": "Draht"
@@ -9,32 +9,32 @@
   ],
   "narrower": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/BA264C",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/BA264C",
       "prefLabel": {
         "de": "Omega-Häkchen"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/F85978",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/F85978",
       "prefLabel": {
         "de": "Bindedraht"
       }
     }
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/D941BB",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/D941BB",
     "prefLabel": {
       "de": "manuelle Werkzeuge"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

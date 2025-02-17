@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/A11ACA",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/A11ACA",
   "type": "Concept",
   "prefLabel": {
     "de": "Keramik"
@@ -17,20 +17,20 @@
   ],
   "narrower": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/DG279C",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/DG279C",
       "prefLabel": {
         "de": "Feinkeramik"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/FC776B",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/FC776B",
       "prefLabel": {
         "de": "Grobkeramik"
       }
     }
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/GB6DF3",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/GB6DF3",
     "prefLabel": {
       "de": "silikatisches Material"
     }
@@ -48,12 +48,12 @@
   ],
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

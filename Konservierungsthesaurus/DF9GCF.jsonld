@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/DF9GCF",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/DF9GCF",
   "type": "Concept",
   "prefLabel": {
     "de": "Edelkorund"
@@ -11,19 +11,19 @@
     "DF9GCF"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/ADD53A",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/ADD53A",
     "prefLabel": {
       "de": "Strahlmittel"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

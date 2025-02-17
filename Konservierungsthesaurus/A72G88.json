@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/A72G88",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/A72G88",
   "type": "Concept",
   "prefLabel": {
     "de": "Smaragd"
@@ -11,19 +11,19 @@
     "A72G88"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/F75BDB",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/F75BDB",
     "prefLabel": {
       "de": "Beryll"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

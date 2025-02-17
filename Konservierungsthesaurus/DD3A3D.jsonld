@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/DD3A3D",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/DD3A3D",
   "type": "Concept",
   "prefLabel": {
     "de": "Transportschaden"
@@ -11,19 +11,19 @@
     "DD3A3D"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/F964CG",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/F964CG",
     "prefLabel": {
       "de": "Schadensursache"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

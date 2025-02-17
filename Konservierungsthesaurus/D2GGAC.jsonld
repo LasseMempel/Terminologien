@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/D2GGAC",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/D2GGAC",
   "type": "Concept",
   "prefLabel": {
     "de": "Gipskopie"
@@ -11,19 +11,19 @@
     "D2GGAC"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/A7FC45",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/A7FC45",
     "prefLabel": {
       "de": "Kopie"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/G53328",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/G53328",
   "type": "Concept",
   "prefLabel": {
     "de": "Körperemail"
@@ -11,19 +11,19 @@
     "G53328"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/B14C4A",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/B14C4A",
     "prefLabel": {
       "de": "emailliert"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

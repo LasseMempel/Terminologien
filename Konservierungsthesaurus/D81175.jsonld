@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/D81175",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/D81175",
   "type": "Concept",
   "prefLabel": {
     "de": "Vaseline"
@@ -11,19 +11,19 @@
     "D81175"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/D7A4BC",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/D7A4BC",
     "prefLabel": {
       "de": "Fett"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

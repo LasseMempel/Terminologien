@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/AB4988",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/AB4988",
   "type": "Concept",
   "prefLabel": {
     "de": "Fasern tierischen Ursprungs"
@@ -18,20 +18,20 @@
   ],
   "narrower": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/G899F5",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/G899F5",
       "prefLabel": {
         "de": "Haar"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/F6F797",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/F6F797",
       "prefLabel": {
         "de": "Seide"
       }
     }
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/F2A45F",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/F2A45F",
     "prefLabel": {
       "de": "Materialien tierischen Ursprungs"
     }
@@ -46,12 +46,12 @@
   ],
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

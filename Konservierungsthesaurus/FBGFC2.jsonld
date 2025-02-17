@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/FBGFC2",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/FBGFC2",
   "type": "Concept",
   "prefLabel": {
     "de": "[Formaufbau]"
@@ -12,32 +12,32 @@
   ],
   "narrower": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/B2D9C9",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/B2D9C9",
       "prefLabel": {
         "de": "Mehrteilige Form"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/F7G7CB",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/F7G7CB",
       "prefLabel": {
         "de": "Einteilige Form"
       }
     }
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/G52378",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/G52378",
     "prefLabel": {
       "de": "analoge Abformung"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

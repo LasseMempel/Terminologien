@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/D937D1",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/D937D1",
   "type": "Concept",
   "prefLabel": {
     "de": "Craquellée"
@@ -16,19 +16,19 @@
     "D937D1"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/GB33C3",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/GB33C3",
     "prefLabel": {
       "de": "gerissen"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/C176FC",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/C176FC",
   "type": "Concept",
   "prefLabel": {
     "de": "Schellack"
@@ -12,68 +12,68 @@
   ],
   "narrower": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/B2F4F2",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/B2F4F2",
       "prefLabel": {
         "de": "Mastix"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/BA71DA",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/BA71DA",
       "prefLabel": {
         "de": "Stärkeleim"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/C143C4",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/C143C4",
       "prefLabel": {
         "de": "Dextrinleim"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/C4AG61",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/C4AG61",
       "prefLabel": {
         "de": "Cellulose"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/D769C3",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/D769C3",
       "prefLabel": {
         "de": "Dammarharz"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/GD86C1",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/GD86C1",
       "prefLabel": {
         "de": "Proteinleim"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/G379BF",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/G379BF",
       "prefLabel": {
         "de": "Gummi arabicum"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/GC7994",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/GC7994",
       "prefLabel": {
         "de": "Kanadabalsam"
       }
     }
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/AG2965",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/AG2965",
     "prefLabel": {
       "de": "natürliches Polymer"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

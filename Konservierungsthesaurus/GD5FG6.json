@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/GD5FG6",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/GD5FG6",
   "type": "Concept",
   "prefLabel": {
     "de": "Gips <Restaurierungsmaterial>"
@@ -12,44 +12,44 @@
   ],
   "narrower": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/A3D23D",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/A3D23D",
       "prefLabel": {
         "de": "Moltofill"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/C35AG4",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/C35AG4",
       "prefLabel": {
         "de": "Exaduro Gips"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/CD784B",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/CD784B",
       "prefLabel": {
         "de": "Alabaster Modellgips"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/D24653",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/D24653",
       "prefLabel": {
         "de": "Keramiplast®"
       }
     }
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/DG8FG3",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/DG8FG3",
     "prefLabel": {
       "de": "Modelliermasse"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

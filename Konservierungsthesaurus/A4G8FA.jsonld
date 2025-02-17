@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/A4G8FA",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/A4G8FA",
   "type": "Concept",
   "prefLabel": {
     "de": "farbverändert"
@@ -17,44 +17,44 @@
   ],
   "narrower": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/ABCF99",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/ABCF99",
       "prefLabel": {
         "de": "verblasst"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/F4D633",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/F4D633",
       "prefLabel": {
         "de": "irisierende Farbveränderung"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/G8GAA6",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/G8GAA6",
       "prefLabel": {
         "de": "nachgedunkelt"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/GDCD91",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/GDCD91",
       "prefLabel": {
         "de": "vergilbt"
       }
     }
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/D3AGG6",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/D3AGG6",
     "prefLabel": {
       "de": "visuelle Veränderung"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

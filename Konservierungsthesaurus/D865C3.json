@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/D865C3",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/D865C3",
   "type": "Concept",
   "prefLabel": {
     "de": "Überarbeitung"
@@ -17,38 +17,38 @@
   ],
   "narrower": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/C6C3CF",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/C6C3CF",
       "prefLabel": {
         "de": "frühere Restaurierungsmaterialien entfernt"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/DGF99C",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/DGF99C",
       "prefLabel": {
         "de": "Blockbergung aufgelöst"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/F57A2A",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/F57A2A",
       "prefLabel": {
         "de": "temporäre Stabilisierung entfernt"
       }
     }
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/C79561",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/C79561",
     "prefLabel": {
       "de": "Restaurierungsmethode"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

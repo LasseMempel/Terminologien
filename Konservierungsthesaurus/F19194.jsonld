@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/F19194",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/F19194",
   "type": "Concept",
   "prefLabel": {
     "de": "Nadel"
@@ -8,19 +8,19 @@
     "F19194"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/D941BB",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/D941BB",
     "prefLabel": {
       "de": "manuelle Werkzeuge"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

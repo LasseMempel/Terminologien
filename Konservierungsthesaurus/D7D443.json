@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/D7D443",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/D7D443",
   "type": "Concept",
   "prefLabel": {
     "de": "Zustandsbericht"
@@ -17,19 +17,19 @@
     "D7D443"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/D3AF3A",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/D3AF3A",
     "prefLabel": {
       "de": "Zustandsdokumentation"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

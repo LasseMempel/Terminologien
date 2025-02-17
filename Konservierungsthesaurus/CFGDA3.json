@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/CFGDA3",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/CFGDA3",
   "type": "Concept",
   "prefLabel": {
     "de": "Maßnahme"
@@ -19,37 +19,37 @@
   ],
   "narrower": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/F5G576",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/F5G576",
       "prefLabel": {
         "de": "präventive Konservierung"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/G98FD4",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/G98FD4",
       "prefLabel": {
         "de": "Konservierung"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/C3A182",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/C3A182",
       "prefLabel": {
         "de": "Nachbildung für wissenschaftliche Zwecke"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/C93638",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/C93638",
       "prefLabel": {
         "de": "Werkzeuge"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/C364G1",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/C364G1",
       "prefLabel": {
         "de": "Konservierungs- und Restaurierungsmaterialien"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/C79561",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/C79561",
       "prefLabel": {
         "de": "Restaurierungsmethode"
       }
@@ -57,13 +57,13 @@
   ],
   "related": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/A8D3G1",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/A8D3G1",
       "prefLabel": {
         "de": "Maßnahmenbericht"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/A18D95",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/A18D95",
       "prefLabel": {
         "de": "Konservierungskonzept"
       }
@@ -71,17 +71,17 @@
   ],
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "topConceptOf": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

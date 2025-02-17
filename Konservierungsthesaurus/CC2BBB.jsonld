@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/CC2BBB",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/CC2BBB",
   "type": "Concept",
   "prefLabel": {
     "de": "Pinsel"
@@ -8,20 +8,20 @@
     "CC2BBB"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/D941BB",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/D941BB",
     "prefLabel": {
       "de": "manuelle Werkzeuge"
     }
   },
   "related": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/CDD613",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/CDD613",
       "prefLabel": {
         "de": "Reinigung"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/CD536F",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/CD536F",
       "prefLabel": {
         "de": "Pinseltränkung"
       }
@@ -29,12 +29,12 @@
   ],
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

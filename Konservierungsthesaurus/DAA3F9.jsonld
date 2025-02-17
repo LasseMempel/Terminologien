@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/DAA3F9",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/DAA3F9",
   "type": "Concept",
   "prefLabel": {
     "de": "zerstreutporiges Laubholz"
@@ -12,80 +12,80 @@
   ],
   "narrower": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/ABBFB5",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/ABBFB5",
       "prefLabel": {
         "de": "Obstholz"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/B44F39",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/B44F39",
       "prefLabel": {
         "de": "Lindenholz"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/B5C86F",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/B5C86F",
       "prefLabel": {
         "de": "Pappelholz"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/B93452",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/B93452",
       "prefLabel": {
         "de": "Buchenholz"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/BGG879",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/BGG879",
       "prefLabel": {
         "de": "Birkenholz"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/CAD229",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/CAD229",
       "prefLabel": {
         "de": "Ahornholz"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/F1BD88",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/F1BD88",
       "prefLabel": {
         "de": "Erlenholz"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/FA1B26",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/FA1B26",
       "prefLabel": {
         "de": "Buchsbaumholz"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/GAG81G",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/GAG81G",
       "prefLabel": {
         "de": "Haselholz"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/GG1CG9",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/GG1CG9",
       "prefLabel": {
         "de": "Weidenholz"
       }
     }
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/B7DD6B",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/B7DD6B",
     "prefLabel": {
       "de": "Laubholz"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/D866AD",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/D866AD",
   "type": "Concept",
   "prefLabel": {
     "de": "Gestein"
@@ -20,26 +20,26 @@
   ],
   "narrower": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/C7F346",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/C7F346",
       "prefLabel": {
         "de": "Sedimentgestein"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/DF7826",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/DF7826",
       "prefLabel": {
         "de": "Magmatit"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/ABB166",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/ABB166",
       "prefLabel": {
         "de": "Metamorphit"
       }
     }
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/GB6DF3",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/GB6DF3",
     "prefLabel": {
       "de": "silikatisches Material"
     }
@@ -62,12 +62,12 @@
   ],
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

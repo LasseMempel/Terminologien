@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/A7FC45",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/A7FC45",
   "type": "Concept",
   "prefLabel": {
     "de": "Kopie"
@@ -12,38 +12,38 @@
   ],
   "narrower": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/B689B6",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/B689B6",
       "prefLabel": {
         "de": "Kunstharzkopie"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/D2GGAC",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/D2GGAC",
       "prefLabel": {
         "de": "Gipskopie"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/D9CC3C",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/D9CC3C",
       "prefLabel": {
         "de": "Galvanoplastik"
       }
     }
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/C11192",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/C11192",
     "prefLabel": {
       "de": "[Nachbildungsergebnisse]"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

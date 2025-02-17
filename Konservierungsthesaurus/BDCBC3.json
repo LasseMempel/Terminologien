@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/BDCBC3",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/BDCBC3",
   "type": "Concept",
   "prefLabel": {
     "de": "Ergänzung"
@@ -11,19 +11,19 @@
     "BDCBC3"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/FA2332",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/FA2332",
     "prefLabel": {
       "de": "Rekonstruktion (Methode)"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

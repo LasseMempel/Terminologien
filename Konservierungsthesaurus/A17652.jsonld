@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/A17652",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/A17652",
   "type": "Concept",
   "prefLabel": {
     "de": "Multicollector-Inductively Coupled Plasma Mass Spectrometry"
@@ -13,19 +13,19 @@
     "A17652"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/CG676B",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/CG676B",
     "prefLabel": {
       "de": "Analyse der isotopischen Zusammensetzung"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

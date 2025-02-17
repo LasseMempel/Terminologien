@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/FFA1AC",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/FFA1AC",
   "type": "Concept",
   "prefLabel": {
     "de": "Ramanspektroskopie"
@@ -8,19 +8,19 @@
     "FFA1AC"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/G13A7B",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/G13A7B",
     "prefLabel": {
       "de": "Strukturanalyse"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

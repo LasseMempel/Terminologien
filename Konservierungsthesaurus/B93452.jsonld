@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/B93452",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/B93452",
   "type": "Concept",
   "prefLabel": {
     "de": "Buchenholz"
@@ -13,19 +13,19 @@
     "B93452"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/DAA3F9",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/DAA3F9",
     "prefLabel": {
       "de": "zerstreutporiges Laubholz"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

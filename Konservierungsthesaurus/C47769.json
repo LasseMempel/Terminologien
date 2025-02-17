@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/C47769",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/C47769",
   "type": "Concept",
   "prefLabel": {
     "de": "rezentes Holz"
@@ -11,19 +11,19 @@
     "C47769"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/A9A858",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/A9A858",
     "prefLabel": {
       "de": "Holz"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

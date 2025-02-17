@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/AG2965",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/AG2965",
   "type": "Concept",
   "prefLabel": {
     "de": "natürliches Polymer"
@@ -17,39 +17,39 @@
   ],
   "narrower": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/C176FC",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/C176FC",
       "prefLabel": {
         "de": "Schellack"
       }
     }
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/B7B8B6",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/B7B8B6",
     "prefLabel": {
       "de": "[Adhäsivstoff]"
     }
   },
   "related": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/B26D29",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/B26D29",
       "prefLabel": {
         "de": "temporäre Stabilisierung"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/DA9CGG",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/DA9CGG",
       "prefLabel": {
         "de": "Festigung"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/A9FF5A",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/A9FF5A",
       "prefLabel": {
         "de": "Tränkung"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/A31C7C",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/A31C7C",
       "prefLabel": {
         "de": "Verstärkung"
       }
@@ -57,12 +57,12 @@
   ],
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

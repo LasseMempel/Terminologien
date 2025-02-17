@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/C24FFA",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/C24FFA",
   "type": "Concept",
   "prefLabel": {
     "de": "Ölversilberung"
@@ -8,19 +8,19 @@
     "C24FFA"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/B47572",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/B47572",
     "prefLabel": {
       "de": "Blattversilberung"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

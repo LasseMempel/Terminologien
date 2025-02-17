@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/AD143A",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/AD143A",
   "type": "Concept",
   "prefLabel": {
     "de": "Aufbaumethode"
@@ -11,19 +11,19 @@
     "AD143A"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/A13CD1",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/A13CD1",
     "prefLabel": {
       "de": "Klebung"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/C4F616",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/C4F616",
   "type": "Concept",
   "prefLabel": {
     "de": "Argonplasma"
@@ -8,19 +8,19 @@
     "C4F616"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/A7C8CB",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/A7C8CB",
     "prefLabel": {
       "de": "Plasma"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

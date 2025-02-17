@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/CG8188",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/CG8188",
   "type": "Concept",
   "prefLabel": {
     "de": "Zellenemail"
@@ -11,19 +11,19 @@
     "CG8188"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/B14C4A",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/B14C4A",
     "prefLabel": {
       "de": "emailliert"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

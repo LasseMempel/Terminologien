@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/B93G16",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/B93G16",
   "type": "Concept",
   "prefLabel": {
     "de": "Tombak"
@@ -16,7 +16,7 @@
     "B93G16"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/FGB415",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/FGB415",
     "prefLabel": {
       "de": "Kupferlegierung"
     }
@@ -34,12 +34,12 @@
   ],
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/BBA96A",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/BBA96A",
   "type": "Concept",
   "prefLabel": {
     "de": "Karneol"
@@ -16,19 +16,19 @@
     "BBA96A"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/C81F4D",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/C81F4D",
     "prefLabel": {
       "de": "Calcedon"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

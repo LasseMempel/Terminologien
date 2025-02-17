@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/F9GC9A",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/F9GC9A",
   "type": "Concept",
   "prefLabel": {
     "de": "Tonminerale"
@@ -12,32 +12,32 @@
   ],
   "narrower": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/CA53A2",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/CA53A2",
       "prefLabel": {
         "de": "Kaolinit"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/D71467",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/D71467",
       "prefLabel": {
         "de": "Illit"
       }
     }
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/BGC9F3",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/BGC9F3",
     "prefLabel": {
       "de": "Mineral"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/CB2D46",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/CB2D46",
   "type": "Concept",
   "prefLabel": {
     "de": "Natriumcarbonat"
@@ -21,7 +21,7 @@
     "CB2D46"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/A2B746",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/A2B746",
     "prefLabel": {
       "de": "Base"
     }
@@ -33,12 +33,12 @@
   ],
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

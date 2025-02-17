@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/F57A2A",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/F57A2A",
   "type": "Concept",
   "prefLabel": {
     "de": "temporäre Stabilisierung entfernt"
@@ -11,26 +11,26 @@
     "F57A2A"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/D865C3",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/D865C3",
     "prefLabel": {
       "de": "Überarbeitung"
     }
   },
   "related": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/A6A248",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/A6A248",
       "prefLabel": {
         "de": "maschinelle Freilegung"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/G3GB59",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/G3GB59",
       "prefLabel": {
         "de": "manuelle Freilegung"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/G8A626",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/G8A626",
       "prefLabel": {
         "de": "nasschemische Freilegung"
       }
@@ -38,12 +38,12 @@
   ],
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

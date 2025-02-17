@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/F97BFF",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/F97BFF",
   "type": "Concept",
   "prefLabel": {
     "de": "abschollend"
@@ -16,19 +16,19 @@
     "F97BFF"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/CB9GD3",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/CB9GD3",
     "prefLabel": {
       "de": "Kohäsionsverlust"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

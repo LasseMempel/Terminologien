@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/GB5A92",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/GB5A92",
   "type": "Concept",
   "prefLabel": {
     "de": "Leinen"
@@ -11,19 +11,19 @@
     "GB5A92"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/BC685F",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/BC685F",
     "prefLabel": {
       "de": "Flachs"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

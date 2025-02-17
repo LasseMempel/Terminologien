@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/FB7AB6",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/FB7AB6",
   "type": "Concept",
   "prefLabel": {
     "de": "Kompositbindung"
@@ -20,19 +20,19 @@
     "FB7AB6"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/CAF8AF",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/CAF8AF",
     "prefLabel": {
       "de": "gewebt"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

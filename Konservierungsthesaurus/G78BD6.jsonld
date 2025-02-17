@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/G78BD6",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/G78BD6",
   "type": "Concept",
   "prefLabel": {
     "de": "Zinn"
@@ -16,20 +16,20 @@
     "G78BD6"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/GB5BGF",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/GB5BGF",
     "prefLabel": {
       "de": "Buntmetall"
     }
   },
   "related": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/G6A358",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/G6A358",
       "prefLabel": {
         "de": "Zinnlegierung"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/CFC44A",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/CFC44A",
       "prefLabel": {
         "de": "Zinnpest"
       }
@@ -48,12 +48,12 @@
   ],
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

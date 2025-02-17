@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/D248A4",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/D248A4",
   "type": "Concept",
   "prefLabel": {
     "de": "versilbert"
@@ -17,44 +17,44 @@
   ],
   "narrower": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/B47572",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/B47572",
       "prefLabel": {
         "de": "Blattversilberung"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/ACG517",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/ACG517",
       "prefLabel": {
         "de": "Diffusionsversilberung"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/BBF51F",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/BBF51F",
       "prefLabel": {
         "de": "Feuerversilberung"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/FDB79A",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/FDB79A",
       "prefLabel": {
         "de": "Weißsieden"
       }
     }
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/F2244D",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/F2244D",
     "prefLabel": {
       "de": "Verzierungstechnik"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

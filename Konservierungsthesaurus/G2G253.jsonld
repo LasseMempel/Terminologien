@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/G2G253",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/G2G253",
   "type": "Concept",
   "prefLabel": {
     "de": "Kreide"
@@ -8,19 +8,19 @@
     "G2G253"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/BB78D2",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/BB78D2",
     "prefLabel": {
       "de": "Füllstoff"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

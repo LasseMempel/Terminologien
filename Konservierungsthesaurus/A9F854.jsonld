@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/A9F854",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/A9F854",
   "type": "Concept",
   "prefLabel": {
     "de": "Fluoreszenzmikroskopen"
@@ -16,19 +16,19 @@
     "A9F854"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/FC2113",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/FC2113",
     "prefLabel": {
       "de": "Lichtmikroskop"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

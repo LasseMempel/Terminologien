@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/AA69FB",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/AA69FB",
   "type": "Concept",
   "prefLabel": {
     "de": "Ameisensäure"
@@ -13,7 +13,7 @@
     "AA69FB"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/FGF575",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/FGF575",
     "prefLabel": {
       "de": "Säure"
     }
@@ -25,12 +25,12 @@
   ],
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

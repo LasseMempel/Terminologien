@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/FDB79A",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/FDB79A",
   "type": "Concept",
   "prefLabel": {
     "de": "Weißsieden"
@@ -13,19 +13,19 @@
     "FDB79A"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/D248A4",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/D248A4",
     "prefLabel": {
       "de": "versilbert"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

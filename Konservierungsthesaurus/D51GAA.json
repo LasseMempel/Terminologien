@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/D51GAA",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/D51GAA",
   "type": "Concept",
   "prefLabel": {
     "de": "Ziegenhaar"
@@ -11,7 +11,7 @@
     "D51GAA"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/F8DFCG",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/F8DFCG",
     "prefLabel": {
       "de": "Tierhaar"
     }
@@ -23,12 +23,12 @@
   ],
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

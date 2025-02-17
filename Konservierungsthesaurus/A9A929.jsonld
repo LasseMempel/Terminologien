@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/A9A929",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/A9A929",
   "type": "Concept",
   "prefLabel": {
     "de": "Celluloseester"
@@ -17,26 +17,26 @@
   ],
   "narrower": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/GC7998",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/GC7998",
       "prefLabel": {
         "de": "Cellulosenitrat"
       }
     }
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/D41661",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/D41661",
     "prefLabel": {
       "de": "Cellulosederivat"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

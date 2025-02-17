@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/DA4158",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/DA4158",
   "type": "Concept",
   "prefLabel": {
     "de": "Konservierungs-/Restaurierungsziel"
@@ -11,19 +11,19 @@
     "DA4158"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/A18D95",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/A18D95",
     "prefLabel": {
       "de": "Konservierungskonzept"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/F1F372",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/F1F372",
   "type": "Concept",
   "prefLabel": {
     "de": "Kolorierung"
@@ -17,19 +17,19 @@
     "F1F372"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/G79CAC",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/G79CAC",
     "prefLabel": {
       "de": "[Vorgehensweise]"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

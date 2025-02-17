@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/D467F2",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/D467F2",
   "type": "Concept",
   "prefLabel": {
     "de": "Pech"
@@ -11,19 +11,19 @@
     "D467F2"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/G76A78",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/G76A78",
     "prefLabel": {
       "de": "Kaustobiolith"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

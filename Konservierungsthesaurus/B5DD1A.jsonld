@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/B5DD1A",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/B5DD1A",
   "type": "Concept",
   "prefLabel": {
     "de": "Metall"
@@ -23,20 +23,20 @@
   ],
   "narrower": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/F7D3DB",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/F7D3DB",
       "prefLabel": {
         "de": "reines Metall"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/F9GB13",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/F9GB13",
       "prefLabel": {
         "de": "Metalllegierung"
       }
     }
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/B51DAF",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/B51DAF",
     "prefLabel": {
       "de": "Material"
     }
@@ -59,12 +59,12 @@
   ],
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

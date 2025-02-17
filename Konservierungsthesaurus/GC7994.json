@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/GC7994",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/GC7994",
   "type": "Concept",
   "prefLabel": {
     "de": "Kanadabalsam"
@@ -19,19 +19,19 @@
     "GC7994"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/C176FC",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/C176FC",
     "prefLabel": {
       "de": "Schellack"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

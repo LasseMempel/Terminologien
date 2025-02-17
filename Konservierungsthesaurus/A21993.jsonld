@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/A21993",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/A21993",
   "type": "Concept",
   "prefLabel": {
     "de": "kaltbemalt"
@@ -17,19 +17,19 @@
     "A21993"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/F396G6",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/F396G6",
     "prefLabel": {
       "de": "bemalt"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

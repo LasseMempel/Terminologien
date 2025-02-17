@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/FB231A",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/FB231A",
   "type": "Concept",
   "prefLabel": {
     "de": "Röntgenuntersuchung"
@@ -12,32 +12,32 @@
   ],
   "narrower": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/A2B5A3",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/A2B5A3",
       "prefLabel": {
         "de": "konventionelle Radiographie"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/AF9A88",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/AF9A88",
       "prefLabel": {
         "de": "Röntgen-Computertomographie"
       }
     }
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/G13A7B",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/G13A7B",
     "prefLabel": {
       "de": "Strukturanalyse"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

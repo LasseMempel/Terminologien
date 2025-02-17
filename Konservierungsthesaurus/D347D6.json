@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/D347D6",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/D347D6",
   "type": "Concept",
   "prefLabel": {
     "de": "Terpentinöl"
@@ -19,7 +19,7 @@
     "D347D6"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/C421BF",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/C421BF",
     "prefLabel": {
       "de": "Lösungsmittel"
     }
@@ -31,12 +31,12 @@
   ],
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

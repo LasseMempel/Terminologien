@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/B6C1A7",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/B6C1A7",
   "type": "Concept",
   "prefLabel": {
     "de": "Destilliertes Wasser"
@@ -16,7 +16,7 @@
     "B6C1A7"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/DFD1B7",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/DFD1B7",
     "prefLabel": {
       "de": "Wasser"
     }
@@ -28,12 +28,12 @@
   ],
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

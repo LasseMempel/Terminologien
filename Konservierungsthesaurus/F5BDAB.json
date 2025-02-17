@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/F5BDAB",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/F5BDAB",
   "type": "Concept",
   "prefLabel": {
     "de": "Kaseinleim"
@@ -19,7 +19,7 @@
     "F5BDAB"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/GD86C1",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/GD86C1",
     "prefLabel": {
       "de": "Proteinleim"
     }
@@ -31,12 +31,12 @@
   ],
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

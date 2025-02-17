@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/C7427F",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/C7427F",
   "type": "Concept",
   "prefLabel": {
     "de": "Laminierung"
@@ -16,19 +16,19 @@
     "C7427F"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/A31C7C",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/A31C7C",
     "prefLabel": {
       "de": "Verstärkung"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

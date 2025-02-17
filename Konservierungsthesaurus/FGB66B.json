@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/FGB66B",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/FGB66B",
   "type": "Concept",
   "prefLabel": {
     "de": "Glasperlen"
@@ -11,19 +11,19 @@
     "FGB66B"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/ADD53A",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/ADD53A",
     "prefLabel": {
       "de": "Strahlmittel"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/B9D357",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/B9D357",
   "type": "Concept",
   "prefLabel": {
     "de": "Hohlglaskügelchen"
@@ -19,19 +19,19 @@
     "B9D357"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/BB78D2",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/BB78D2",
     "prefLabel": {
       "de": "Füllstoff"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/B4C3B9",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/B4C3B9",
   "type": "Concept",
   "prefLabel": {
     "de": "zerschnitten"
@@ -17,19 +17,19 @@
     "B4C3B9"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/CB9GD3",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/CB9GD3",
     "prefLabel": {
       "de": "Kohäsionsverlust"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

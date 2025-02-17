@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/DG129D",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/DG129D",
   "type": "Concept",
   "prefLabel": {
     "de": "energiedispersive Röntgenspektroskopie"
@@ -17,19 +17,19 @@
     "DG129D"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/G17B8B",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/G17B8B",
     "prefLabel": {
       "de": "Analyse der chemischen Zusammensetzung"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

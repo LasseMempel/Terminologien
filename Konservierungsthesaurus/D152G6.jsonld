@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/D152G6",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/D152G6",
   "type": "Concept",
   "prefLabel": {
     "de": "beidseitige Manschettenergänzung"
@@ -11,14 +11,14 @@
     "D152G6"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/CBDC4A",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/CBDC4A",
     "prefLabel": {
       "de": "Manschettenergänzung"
     }
   },
   "related": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/FBFFF5",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/FBFFF5",
       "prefLabel": {
         "de": "[Abform- und Ergänzungsmaterial]"
       }
@@ -26,12 +26,12 @@
   ],
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

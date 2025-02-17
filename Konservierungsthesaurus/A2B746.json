@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/A2B746",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/A2B746",
   "type": "Concept",
   "prefLabel": {
     "de": "Base"
@@ -18,57 +18,57 @@
   ],
   "narrower": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/A5D92A",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/A5D92A",
       "prefLabel": {
         "de": "Ammoniak"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/AA8A54",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/AA8A54",
       "prefLabel": {
         "de": "Thiosulfat"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/CB2D46",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/CB2D46",
       "prefLabel": {
         "de": "Natriumcarbonat"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/GG3G4B",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/GG3G4B",
       "prefLabel": {
         "de": "Natriumhydroxid"
       }
     }
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/C364G1",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/C364G1",
     "prefLabel": {
       "de": "Konservierungs- und Restaurierungsmaterialien"
     }
   },
   "related": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/A194CF",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/A194CF",
       "prefLabel": {
         "de": "Nassreinigung"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/C6A532",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/C6A532",
       "prefLabel": {
         "de": "Entsalzung"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/G8A626",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/G8A626",
       "prefLabel": {
         "de": "nasschemische Freilegung"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/C3733A",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/C3733A",
       "prefLabel": {
         "de": "Feuchtreinigung"
       }
@@ -84,12 +84,12 @@
   ],
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

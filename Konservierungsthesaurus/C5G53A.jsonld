@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/C5G53A",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/C5G53A",
   "type": "Concept",
   "prefLabel": {
     "de": "Dentalsilikon"
@@ -11,19 +11,19 @@
     "C5G53A"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/DA841D",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/DA841D",
     "prefLabel": {
       "de": "additionsvernetzender Silikonkautschuk"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

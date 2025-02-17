@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/G56716",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/G56716",
   "type": "Concept",
   "prefLabel": {
     "de": "fossiles Elfenbein"
@@ -16,19 +16,19 @@
     "G56716"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/AG55BC",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/AG55BC",
     "prefLabel": {
       "de": "Elfenbein"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

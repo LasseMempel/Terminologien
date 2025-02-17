@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/BGG5A6",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/BGG5A6",
   "type": "Concept",
   "prefLabel": {
     "de": "Transportbedingungen"
@@ -8,19 +8,19 @@
     "BGG5A6"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/DAB4B7",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/DAB4B7",
     "prefLabel": {
       "de": "Handlungsempfehlung"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

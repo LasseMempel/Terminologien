@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/G8A626",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/G8A626",
   "type": "Concept",
   "prefLabel": {
     "de": "nasschemische Freilegung"
@@ -11,56 +11,56 @@
     "G8A626"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/G814D2",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/G814D2",
     "prefLabel": {
       "de": "Freilegung"
     }
   },
   "related": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/A2B746",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/A2B746",
       "prefLabel": {
         "de": "Base"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/FGF575",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/FGF575",
       "prefLabel": {
         "de": "Säure"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/B2642A",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/B2642A",
       "prefLabel": {
         "de": "Oberflächenbeschichtungen entfernt"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/B3FCA1",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/B3FCA1",
       "prefLabel": {
         "de": "Reduktionsmittel"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/CA59C2",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/CA59C2",
       "prefLabel": {
         "de": "Klebungen entfernt"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/F87124",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/F87124",
       "prefLabel": {
         "de": "Komplexbildner"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/F57A2A",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/F57A2A",
       "prefLabel": {
         "de": "temporäre Stabilisierung entfernt"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/FGBB54",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/FGBB54",
       "prefLabel": {
         "de": "Ergänzungsmaterialien entfernt"
       }
@@ -68,12 +68,12 @@
   ],
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

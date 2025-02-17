@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/D1CFD5",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/D1CFD5",
   "type": "Concept",
   "prefLabel": {
     "de": "Lagerungsbedingungen"
@@ -8,19 +8,19 @@
     "D1CFD5"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/DAB4B7",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/DAB4B7",
     "prefLabel": {
       "de": "Handlungsempfehlung"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

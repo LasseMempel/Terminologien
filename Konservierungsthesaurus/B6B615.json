@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/B6B615",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/B6B615",
   "type": "Concept",
   "prefLabel": {
     "de": "Benzotriazol"
@@ -16,7 +16,7 @@
     "B6B615"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/ACFF37",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/ACFF37",
     "prefLabel": {
       "de": "Korrosionsinhibitor"
     }
@@ -28,12 +28,12 @@
   ],
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

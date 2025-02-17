@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/DBAD15",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/DBAD15",
   "type": "Concept",
   "prefLabel": {
     "de": "Schlagmetall"
@@ -8,19 +8,19 @@
     "DBAD15"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/AFD671",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/AFD671",
     "prefLabel": {
       "de": "Farbstoff"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

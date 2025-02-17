@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/G6GG4C",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/G6GG4C",
   "type": "Concept",
   "prefLabel": {
     "de": "gelötet"
@@ -17,32 +17,32 @@
   ],
   "narrower": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/B7A13A",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/B7A13A",
       "prefLabel": {
         "de": "weichgelötet"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/G3GB79",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/G3GB79",
       "prefLabel": {
         "de": "hartgelötet"
       }
     }
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/A15F83",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/A15F83",
     "prefLabel": {
       "de": "Fügetechnik"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

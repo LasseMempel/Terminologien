@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/A93F6C",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/A93F6C",
   "type": "Concept",
   "prefLabel": {
     "de": "Plastazote"
@@ -8,19 +8,19 @@
     "A93F6C"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/F91427",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/F91427",
     "prefLabel": {
       "de": "Polyethylen-Schaum"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

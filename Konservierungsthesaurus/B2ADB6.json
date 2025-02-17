@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/B2ADB6",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/B2ADB6",
   "type": "Concept",
   "prefLabel": {
     "de": "Vandalismus"
@@ -16,19 +16,19 @@
     "B2ADB6"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/F964CG",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/F964CG",
     "prefLabel": {
       "de": "Schadensursache"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

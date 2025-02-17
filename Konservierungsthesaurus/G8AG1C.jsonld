@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/G8AG1C",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/G8AG1C",
   "type": "Concept",
   "prefLabel": {
     "de": "Zink"
@@ -16,14 +16,14 @@
     "G8AG1C"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/GB5BGF",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/GB5BGF",
     "prefLabel": {
       "de": "Buntmetall"
     }
   },
   "related": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/F15DFD",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/F15DFD",
       "prefLabel": {
         "de": "Zinklegierung"
       }
@@ -42,12 +42,12 @@
   ],
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

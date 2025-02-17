@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/C6C3CF",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/C6C3CF",
   "type": "Concept",
   "prefLabel": {
     "de": "frühere Restaurierungsmaterialien entfernt"
@@ -17,38 +17,38 @@
   ],
   "narrower": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/B2642A",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/B2642A",
       "prefLabel": {
         "de": "Oberflächenbeschichtungen entfernt"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/CA59C2",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/CA59C2",
       "prefLabel": {
         "de": "Klebungen entfernt"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/FGBB54",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/FGBB54",
       "prefLabel": {
         "de": "Ergänzungsmaterialien entfernt"
       }
     }
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/D865C3",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/D865C3",
     "prefLabel": {
       "de": "Überarbeitung"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

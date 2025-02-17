@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/B71F12",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/B71F12",
   "type": "Concept",
   "prefLabel": {
     "de": "Walnussschalenganulat"
@@ -11,19 +11,19 @@
     "B71F12"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/ADD53A",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/ADD53A",
     "prefLabel": {
       "de": "Strahlmittel"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

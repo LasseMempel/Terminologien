@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/A9D149",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/A9D149",
   "type": "Concept",
   "prefLabel": {
     "de": "Vacuumtränkung"
@@ -16,19 +16,19 @@
     "A9D149"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/C17A3G",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/C17A3G",
     "prefLabel": {
       "de": "Badtränkung"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/C7C3B7",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/C7C3B7",
   "type": "Concept",
   "prefLabel": {
     "de": "Grabungsfrischer Fund"
@@ -19,19 +19,19 @@
     "C7C3B7"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/DBC278",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/DBC278",
     "prefLabel": {
       "de": "Bisherige Lagerung"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

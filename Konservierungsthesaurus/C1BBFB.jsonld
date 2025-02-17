@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/C1BBFB",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/C1BBFB",
   "type": "Concept",
   "prefLabel": {
     "de": "Metallpulver"
@@ -13,19 +13,19 @@
     "C1BBFB"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/BB78D2",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/BB78D2",
     "prefLabel": {
       "de": "Füllstoff"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

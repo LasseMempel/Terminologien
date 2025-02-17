@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/AFF6GA",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/AFF6GA",
   "type": "Concept",
   "prefLabel": {
     "de": "Paraloid B44"
@@ -11,19 +11,19 @@
     "AFF6GA"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/GFD582",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/GFD582",
     "prefLabel": {
       "de": "Acrylharz"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/AF9A88",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/AF9A88",
   "type": "Concept",
   "prefLabel": {
     "de": "Röntgen-Computertomographie"
@@ -16,14 +16,14 @@
     "AF9A88"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/FB231A",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/FB231A",
     "prefLabel": {
       "de": "Röntgenuntersuchung"
     }
   },
   "related": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/DG6841",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/DG6841",
       "prefLabel": {
         "de": "Computertomograph"
       }
@@ -31,12 +31,12 @@
   ],
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

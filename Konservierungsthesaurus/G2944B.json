@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/G2944B",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/G2944B",
   "type": "Concept",
   "prefLabel": {
     "de": "Fichtenholz"
@@ -16,19 +16,19 @@
     "G2944B"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/FC3FD6",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/FC3FD6",
     "prefLabel": {
       "de": "Nadelholz"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

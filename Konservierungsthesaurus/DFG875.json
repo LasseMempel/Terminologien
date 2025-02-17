@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/DFG875",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/DFG875",
   "type": "Concept",
   "prefLabel": {
     "de": "[Holzart]"
@@ -12,32 +12,32 @@
   ],
   "narrower": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/FC3FD6",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/FC3FD6",
       "prefLabel": {
         "de": "Nadelholz"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/B7DD6B",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/B7DD6B",
       "prefLabel": {
         "de": "Laubholz"
       }
     }
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/A9A858",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/A9A858",
     "prefLabel": {
       "de": "Holz"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/AGBB3C",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/AGBB3C",
   "type": "Concept",
   "prefLabel": {
     "de": "Festigkeit"
@@ -12,74 +12,74 @@
   ],
   "narrower": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/AF5C86",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/AF5C86",
       "prefLabel": {
         "de": "spröde"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/BCG421",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/BCG421",
       "prefLabel": {
         "de": "elastisch"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/BF6339",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/BF6339",
       "prefLabel": {
         "de": "weich"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/DB581C",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/DB581C",
       "prefLabel": {
         "de": "zugfest"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/FBG2B1",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/FBG2B1",
       "prefLabel": {
         "de": "hart"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/G147AG",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/G147AG",
       "prefLabel": {
         "de": "schlagfest"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/G2A47C",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/G2A47C",
       "prefLabel": {
         "de": "druckfest"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/G2F586",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/G2F586",
       "prefLabel": {
         "de": "biegefest"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/DG7A1D",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/DG7A1D",
       "prefLabel": {
         "de": "fragil"
       }
     }
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/GDF8C2",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/GDF8C2",
     "prefLabel": {
       "de": "Physischer Zustand"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

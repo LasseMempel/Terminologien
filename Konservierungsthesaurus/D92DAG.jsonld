@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/D92DAG",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/D92DAG",
   "type": "Concept",
   "prefLabel": {
     "de": "handaufgebaut"
@@ -14,32 +14,32 @@
   ],
   "narrower": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/AA5F82",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/AA5F82",
       "prefLabel": {
         "de": "Wulsttechnik"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/G6FB44",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/G6FB44",
       "prefLabel": {
         "de": "Plattentechnik"
       }
     }
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/AGG387",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/AGG387",
     "prefLabel": {
       "de": "formgebende Technik"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

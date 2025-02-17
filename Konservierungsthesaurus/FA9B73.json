@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/FA9B73",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/FA9B73",
   "type": "Concept",
   "prefLabel": {
     "de": "delaminiert"
@@ -16,19 +16,19 @@
     "FA9B73"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/CB9GD3",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/CB9GD3",
     "prefLabel": {
       "de": "Kohäsionsverlust"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

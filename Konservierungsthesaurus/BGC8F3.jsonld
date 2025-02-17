@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/BGC8F3",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/BGC8F3",
   "type": "Concept",
   "prefLabel": {
     "de": "Guss in verlorener Form"
@@ -12,38 +12,38 @@
   ],
   "narrower": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/BBA1C7",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/BBA1C7",
       "prefLabel": {
         "de": "Sandguss"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/CA4B11",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/CA4B11",
       "prefLabel": {
         "de": "Wachsausschmelzverfahren"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/D51358",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/D51358",
       "prefLabel": {
         "de": "Ossa-Sepia Guss"
       }
     }
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/BA73A2",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/BA73A2",
     "prefLabel": {
       "de": "gegossen"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

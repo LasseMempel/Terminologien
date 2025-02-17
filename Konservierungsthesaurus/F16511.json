@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/F16511",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/F16511",
   "type": "Concept",
   "prefLabel": {
     "de": "Mowilith D025"
@@ -8,19 +8,19 @@
     "F16511"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/DF5773",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/DF5773",
     "prefLabel": {
       "de": "Polyvinylacetat"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

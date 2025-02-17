@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/G1A3FB",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/G1A3FB",
   "type": "Concept",
   "prefLabel": {
     "de": "Stegemail"
@@ -16,19 +16,19 @@
     "G1A3FB"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/B14C4A",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/B14C4A",
     "prefLabel": {
       "de": "emailliert"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

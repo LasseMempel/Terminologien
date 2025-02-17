@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/CG2863",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/CG2863",
   "type": "Concept",
   "prefLabel": {
     "de": "Ebacryl"
@@ -8,19 +8,19 @@
     "CG2863"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/GFD582",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/GFD582",
     "prefLabel": {
       "de": "Acrylharz"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/F61BGA",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/F61BGA",
   "type": "Concept",
   "prefLabel": {
     "de": "Glasfasergewebe"
@@ -16,19 +16,19 @@
     "F61BGA"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/BGGCA4",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/BGGCA4",
     "prefLabel": {
       "de": "Verstärkungsfaser"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

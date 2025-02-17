@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/F5G576",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/F5G576",
   "type": "Concept",
   "prefLabel": {
     "de": "präventive Konservierung"
@@ -21,33 +21,33 @@
   ],
   "narrower": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/AC16G1",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/AC16G1",
       "prefLabel": {
         "de": "Verpacken"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/D78721",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/D78721",
       "prefLabel": {
         "de": "Montage"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/F285B2",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/F285B2",
       "prefLabel": {
         "de": "Risikomanagement"
       }
     }
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/CFGDA3",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/CFGDA3",
     "prefLabel": {
       "de": "Maßnahme"
     }
   },
   "related": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/DAB4B7",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/DAB4B7",
       "prefLabel": {
         "de": "Handlungsempfehlung"
       }
@@ -55,12 +55,12 @@
   ],
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

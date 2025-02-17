@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/C33933",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/C33933",
   "type": "Concept",
   "prefLabel": {
     "de": "Fourier-Transform-Infrarotspektrometer"
@@ -13,19 +13,19 @@
     "C33933"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/A9A54D",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/A9A54D",
     "prefLabel": {
       "de": "Spektrometer"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

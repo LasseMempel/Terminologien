@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/B94DCD",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/B94DCD",
   "type": "Concept",
   "prefLabel": {
     "de": "Auflichtmikroskop"
@@ -16,19 +16,19 @@
     "B94DCD"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/FC2113",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/FC2113",
     "prefLabel": {
       "de": "Lichtmikroskop"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

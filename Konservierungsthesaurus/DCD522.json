@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/DCD522",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/DCD522",
   "type": "Concept",
   "prefLabel": {
     "de": "Mikro-Quelltest"
@@ -8,19 +8,19 @@
     "DCD522"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/A946B5",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/A946B5",
     "prefLabel": {
       "de": "chemische Untersuchung"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

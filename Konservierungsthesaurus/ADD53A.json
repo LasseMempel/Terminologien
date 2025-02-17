@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/ADD53A",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/ADD53A",
   "type": "Concept",
   "prefLabel": {
     "de": "Strahlmittel"
@@ -18,39 +18,39 @@
   ],
   "narrower": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/B71F12",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/B71F12",
       "prefLabel": {
         "de": "Walnussschalenganulat"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/D8C292",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/D8C292",
       "prefLabel": {
         "de": "Kunststoffgranulat"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/DF9GCF",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/DF9GCF",
       "prefLabel": {
         "de": "Edelkorund"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/FGB66B",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/FGB66B",
       "prefLabel": {
         "de": "Glasperlen"
       }
     }
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/C364G1",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/C364G1",
     "prefLabel": {
       "de": "Konservierungs- und Restaurierungsmaterialien"
     }
   },
   "related": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/A6A248",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/A6A248",
       "prefLabel": {
         "de": "maschinelle Freilegung"
       }
@@ -58,12 +58,12 @@
   ],
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

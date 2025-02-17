@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/DG7A1D",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/DG7A1D",
   "type": "Concept",
   "prefLabel": {
     "de": "fragil"
@@ -11,14 +11,14 @@
     "DG7A1D"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/AGBB3C",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/AGBB3C",
     "prefLabel": {
       "de": "Festigkeit"
     }
   },
   "related": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/FBA99A",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/FBA99A",
       "prefLabel": {
         "de": "instabil"
       }
@@ -26,12 +26,12 @@
   ],
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

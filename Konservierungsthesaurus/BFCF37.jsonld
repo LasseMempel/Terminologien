@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/BFCF37",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/BFCF37",
   "type": "Concept",
   "prefLabel": {
     "de": "RP Sauerstoffabsorber"
@@ -12,32 +12,32 @@
   ],
   "narrower": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/BG5FG6",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/BG5FG6",
       "prefLabel": {
         "de": "RP-A Sauerstoffabsober"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/D4FC62",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/D4FC62",
       "prefLabel": {
         "de": "RP-K Sauerstoffabsober"
       }
     }
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/F443FD",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/F443FD",
     "prefLabel": {
       "de": "Schadstoffabsorber"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

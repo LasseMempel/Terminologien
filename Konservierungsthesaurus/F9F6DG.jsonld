@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/F9F6DG",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/F9F6DG",
   "type": "Concept",
   "prefLabel": {
     "de": "Elektrum"
@@ -22,20 +22,20 @@
     "F9F6DG"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/G4AG5C",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/G4AG5C",
     "prefLabel": {
       "de": "Edelmetalllegierung"
     }
   },
   "related": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/F135A8",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/F135A8",
       "prefLabel": {
         "de": "Silber"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/FD5149",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/FD5149",
       "prefLabel": {
         "de": "Gold"
       }
@@ -57,12 +57,12 @@
   ],
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/D4FC62",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/D4FC62",
   "type": "Concept",
   "prefLabel": {
     "de": "RP-K Sauerstoffabsober"
@@ -11,19 +11,19 @@
     "D4FC62"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/BFCF37",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/BFCF37",
     "prefLabel": {
       "de": "RP Sauerstoffabsorber"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

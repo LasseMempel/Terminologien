@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/G3GB79",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/G3GB79",
   "type": "Concept",
   "prefLabel": {
     "de": "hartgelötet"
@@ -16,19 +16,19 @@
     "G3GB79"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/G6GG4C",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/G6GG4C",
     "prefLabel": {
       "de": "gelötet"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

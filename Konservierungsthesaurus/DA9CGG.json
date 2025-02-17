@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/DA9CGG",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/DA9CGG",
   "type": "Concept",
   "prefLabel": {
     "de": "Festigung"
@@ -22,63 +22,63 @@
   ],
   "narrower": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/B26D29",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/B26D29",
       "prefLabel": {
         "de": "temporäre Stabilisierung"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/A9FF5A",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/A9FF5A",
       "prefLabel": {
         "de": "Tränkung"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/A31C7C",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/A31C7C",
       "prefLabel": {
         "de": "Verstärkung"
       }
     }
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/G98FD4",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/G98FD4",
     "prefLabel": {
       "de": "Konservierung"
     }
   },
   "related": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/GFD582",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/GFD582",
       "prefLabel": {
         "de": "Acrylharz"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/DF5773",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/DF5773",
       "prefLabel": {
         "de": "Polyvinylacetat"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/B572B5",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/B572B5",
       "prefLabel": {
         "de": "Polyvinylbutyral"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/AG2965",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/AG2965",
       "prefLabel": {
         "de": "natürliches Polymer"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/DF633G",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/DF633G",
       "prefLabel": {
         "de": "Melamin-Formaldehydharz"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/F89522",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/F89522",
       "prefLabel": {
         "de": "Polyethylenglycol"
       }
@@ -91,12 +91,12 @@
   ],
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

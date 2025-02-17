@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/F49579",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/F49579",
   "type": "Concept",
   "prefLabel": {
     "de": "Blattgold"
@@ -8,19 +8,19 @@
     "F49579"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/AFD671",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/AFD671",
     "prefLabel": {
       "de": "Farbstoff"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

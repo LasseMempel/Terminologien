@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/GDF23F",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/GDF23F",
   "type": "Concept",
   "prefLabel": {
     "de": "Methodik"
@@ -19,7 +19,7 @@
     "GDF23F"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/A18D95",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/A18D95",
     "prefLabel": {
       "de": "Konservierungskonzept"
     }
@@ -31,12 +31,12 @@
   ],
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

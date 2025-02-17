@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/DF5773",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/DF5773",
   "type": "Concept",
   "prefLabel": {
     "de": "Polyvinylacetat"
@@ -21,57 +21,57 @@
   ],
   "narrower": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/A42BD6",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/A42BD6",
       "prefLabel": {
         "de": "Ponal Classic"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/A447D9",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/A447D9",
       "prefLabel": {
         "de": "Mowilith 50"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/AF8F61",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/AF8F61",
       "prefLabel": {
         "de": "Mowilith DV"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/F16511",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/F16511",
       "prefLabel": {
         "de": "Mowilith D025"
       }
     }
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/A1D125",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/A1D125",
     "prefLabel": {
       "de": "synthetisches Polymer"
     }
   },
   "related": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/B26D29",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/B26D29",
       "prefLabel": {
         "de": "temporäre Stabilisierung"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/DA9CGG",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/DA9CGG",
       "prefLabel": {
         "de": "Festigung"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/A9FF5A",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/A9FF5A",
       "prefLabel": {
         "de": "Tränkung"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/A31C7C",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/A31C7C",
       "prefLabel": {
         "de": "Verstärkung"
       }
@@ -87,12 +87,12 @@
   ],
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

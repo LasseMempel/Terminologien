@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/A21DB2",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/A21DB2",
   "type": "Concept",
   "prefLabel": {
     "de": "aufgeraut"
@@ -16,19 +16,19 @@
     "A21DB2"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/B224CD",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/B224CD",
     "prefLabel": {
       "de": "Formänderung"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

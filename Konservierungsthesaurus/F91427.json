@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/F91427",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/F91427",
   "type": "Concept",
   "prefLabel": {
     "de": "Polyethylen-Schaum"
@@ -9,32 +9,32 @@
   ],
   "narrower": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/A93F6C",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/A93F6C",
       "prefLabel": {
         "de": "Plastazote"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/GA1687",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/GA1687",
       "prefLabel": {
         "de": "Ethafoam"
       }
     }
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/D9G356",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/D9G356",
     "prefLabel": {
       "de": "[Stütz- und Verpackungsmaterial]"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

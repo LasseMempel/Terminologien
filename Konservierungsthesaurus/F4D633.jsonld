@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/F4D633",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/F4D633",
   "type": "Concept",
   "prefLabel": {
     "de": "irisierende Farbveränderung"
@@ -16,19 +16,19 @@
     "F4D633"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/A4G8FA",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/A4G8FA",
     "prefLabel": {
       "de": "farbverändert"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

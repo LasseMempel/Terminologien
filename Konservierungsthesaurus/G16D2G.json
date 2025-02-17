@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/G16D2G",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/G16D2G",
   "type": "Concept",
   "prefLabel": {
     "de": "Anreibevergoldung"
@@ -8,19 +8,19 @@
     "G16D2G"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/GC2F6A",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/GC2F6A",
     "prefLabel": {
       "de": "vergoldet"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

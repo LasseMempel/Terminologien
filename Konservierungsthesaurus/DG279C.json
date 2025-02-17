@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/DG279C",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/DG279C",
   "type": "Concept",
   "prefLabel": {
     "de": "Feinkeramik"
@@ -12,44 +12,44 @@
   ],
   "narrower": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/A38966",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/A38966",
       "prefLabel": {
         "de": "Steinzeug"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/CB19D3",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/CB19D3",
       "prefLabel": {
         "de": "Irdenware"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/CF41GC",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/CF41GC",
       "prefLabel": {
         "de": "Porzellan"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/CG154B",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/CG154B",
       "prefLabel": {
         "de": "Steingut"
       }
     }
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/A11ACA",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/A11ACA",
     "prefLabel": {
       "de": "Keramik"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/A5D92A",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/A5D92A",
   "type": "Concept",
   "prefLabel": {
     "de": "Ammoniak"
@@ -19,7 +19,7 @@
     "A5D92A"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/A2B746",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/A2B746",
     "prefLabel": {
       "de": "Base"
     }
@@ -31,12 +31,12 @@
   ],
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

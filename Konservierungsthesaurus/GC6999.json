@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/GC6999",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/GC6999",
   "type": "Concept",
   "prefLabel": {
     "de": "Zaponlack"
@@ -8,19 +8,19 @@
     "GC6999"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/GC7998",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/GC7998",
     "prefLabel": {
       "de": "Cellulosenitrat"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

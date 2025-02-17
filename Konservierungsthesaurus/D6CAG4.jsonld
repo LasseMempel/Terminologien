@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/D6CAG4",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/D6CAG4",
   "type": "Concept",
   "prefLabel": {
     "de": "Strip-twisting"
@@ -8,19 +8,19 @@
     "D6CAG4"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/B4FD9B",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/B4FD9B",
     "prefLabel": {
       "de": "gerollt"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

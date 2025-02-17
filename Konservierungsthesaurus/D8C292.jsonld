@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/D8C292",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/D8C292",
   "type": "Concept",
   "prefLabel": {
     "de": "Kunststoffgranulat"
@@ -8,19 +8,19 @@
     "D8C292"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/ADD53A",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/ADD53A",
     "prefLabel": {
       "de": "Strahlmittel"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

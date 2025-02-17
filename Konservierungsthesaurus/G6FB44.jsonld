@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/G6FB44",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/G6FB44",
   "type": "Concept",
   "prefLabel": {
     "de": "Plattentechnik"
@@ -8,19 +8,19 @@
     "G6FB44"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/D92DAG",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/D92DAG",
     "prefLabel": {
       "de": "handaufgebaut"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

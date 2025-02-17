@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/B4FD9B",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/B4FD9B",
   "type": "Concept",
   "prefLabel": {
     "de": "gerollt"
@@ -14,32 +14,32 @@
   ],
   "narrower": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/BG73GA",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/BG73GA",
       "prefLabel": {
         "de": "Block-twisting"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/D6CAG4",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/D6CAG4",
       "prefLabel": {
         "de": "Strip-twisting"
       }
     }
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/AGG387",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/AGG387",
     "prefLabel": {
       "de": "formgebende Technik"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

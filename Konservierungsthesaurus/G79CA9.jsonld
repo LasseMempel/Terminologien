@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/G79CA9",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/G79CA9",
   "type": "Concept",
   "prefLabel": {
     "de": "unklimatisierte Lagerung"
@@ -16,19 +16,19 @@
     "G79CA9"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/DBC278",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/DBC278",
     "prefLabel": {
       "de": "Bisherige Lagerung"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

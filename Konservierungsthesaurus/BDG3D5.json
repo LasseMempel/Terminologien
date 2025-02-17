@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/BDG3D5",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/BDG3D5",
   "type": "Concept",
   "prefLabel": {
     "de": "Xylol"
@@ -16,7 +16,7 @@
     "BDG3D5"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/C421BF",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/C421BF",
     "prefLabel": {
       "de": "Lösungsmittel"
     }
@@ -28,12 +28,12 @@
   ],
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

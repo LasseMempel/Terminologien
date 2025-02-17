@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/A43C59",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/A43C59",
   "type": "Concept",
   "prefLabel": {
     "de": "Hornblende"
@@ -11,19 +11,19 @@
     "A43C59"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/FA5484",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/FA5484",
     "prefLabel": {
       "de": "Amphibol"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

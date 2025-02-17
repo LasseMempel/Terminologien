@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/C79561",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/C79561",
   "type": "Concept",
   "prefLabel": {
     "de": "Restaurierungsmethode"
@@ -23,38 +23,38 @@
   ],
   "narrower": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/CDD613",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/CDD613",
       "prefLabel": {
         "de": "Reinigung"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/A13CD1",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/A13CD1",
       "prefLabel": {
         "de": "Klebung"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/CGC619",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/CGC619",
       "prefLabel": {
         "de": "Ergänzung"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/D865C3",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/D865C3",
       "prefLabel": {
         "de": "Überarbeitung"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/G814D2",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/G814D2",
       "prefLabel": {
         "de": "Freilegung"
       }
     }
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/CFGDA3",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/CFGDA3",
     "prefLabel": {
       "de": "Maßnahme"
     }
@@ -71,12 +71,12 @@
   ],
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

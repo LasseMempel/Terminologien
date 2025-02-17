@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/A6CA1C",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/A6CA1C",
   "type": "Concept",
   "prefLabel": {
     "de": "Elastosil M 4503"
@@ -11,19 +11,19 @@
     "A6CA1C"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/GD9CA3",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/GD9CA3",
     "prefLabel": {
       "de": "kondensationsvernetzender Silikonkautschuk"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

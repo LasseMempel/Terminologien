@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/DAG754",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/DAG754",
   "type": "Concept",
   "prefLabel": {
     "de": "Kartonage"
@@ -8,19 +8,19 @@
     "DAG754"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/D9G356",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/D9G356",
     "prefLabel": {
       "de": "[Stütz- und Verpackungsmaterial]"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

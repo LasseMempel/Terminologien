@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/CG154B",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/CG154B",
   "type": "Concept",
   "prefLabel": {
     "de": "Steingut"
@@ -8,19 +8,19 @@
     "CG154B"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/DG279C",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/DG279C",
     "prefLabel": {
       "de": "Feinkeramik"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/CA7279",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/CA7279",
   "type": "Concept",
   "prefLabel": {
     "de": "visuelle Begutachtung"
@@ -17,32 +17,32 @@
   ],
   "narrower": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/D4AC7A",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/D4AC7A",
       "prefLabel": {
         "de": "mikroskopische Untersuchung"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/B53C8F",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/B53C8F",
       "prefLabel": {
         "de": "UV-Lumineszenz-Untersuchung"
       }
     }
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/D4A13D",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/D4A13D",
     "prefLabel": {
       "de": "[Untersuchungsmethode]"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

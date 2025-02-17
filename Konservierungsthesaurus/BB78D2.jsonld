@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/BB78D2",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/BB78D2",
   "type": "Concept",
   "prefLabel": {
     "de": "Füllstoff"
@@ -17,62 +17,62 @@
   ],
   "narrower": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/A17G33",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/A17G33",
       "prefLabel": {
         "de": "Holzmehl"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/B9D357",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/B9D357",
       "prefLabel": {
         "de": "Hohlglaskügelchen"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/BFB3B9",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/BFB3B9",
       "prefLabel": {
         "de": "Talkum"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/C1BBFB",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/C1BBFB",
       "prefLabel": {
         "de": "Metallpulver"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/DA86F8",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/DA86F8",
       "prefLabel": {
         "de": "pyrogene Kieselsäure"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/FC6F82",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/FC6F82",
       "prefLabel": {
         "de": "Graphit"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/G2G253",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/G2G253",
       "prefLabel": {
         "de": "Kreide"
       }
     }
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/C364G1",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/C364G1",
     "prefLabel": {
       "de": "Konservierungs- und Restaurierungsmaterialien"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

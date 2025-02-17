@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/CB9GD3",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/CB9GD3",
   "type": "Concept",
   "prefLabel": {
     "de": "Kohäsionsverlust"
@@ -12,104 +12,104 @@
   ],
   "narrower": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/AF7CC8",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/AF7CC8",
       "prefLabel": {
         "de": "hohl"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/B4C3B9",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/B4C3B9",
       "prefLabel": {
         "de": "zerschnitten"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/BC1DCG",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/BC1DCG",
       "prefLabel": {
         "de": "verhärtet"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/GB33C3",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/GB33C3",
       "prefLabel": {
         "de": "gerissen"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/BFGD3B",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/BFGD3B",
       "prefLabel": {
         "de": "Pitting"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/BGA41C",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/BGA41C",
       "prefLabel": {
         "de": "kollabiert"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/D2364A",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/D2364A",
       "prefLabel": {
         "de": "abgeplatzt"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/D9C8A4",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/D9C8A4",
       "prefLabel": {
         "de": "zersetzt"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/F6CG68",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/F6CG68",
       "prefLabel": {
         "de": "fragmentiert"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/F97BFF",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/F97BFF",
       "prefLabel": {
         "de": "abschollend"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/FA9B73",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/FA9B73",
       "prefLabel": {
         "de": "delaminiert"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/FGG2C4",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/FGG2C4",
       "prefLabel": {
         "de": "gebrochen"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/G74A2D",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/G74A2D",
       "prefLabel": {
         "de": "gesprungen"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/G84156",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/G84156",
       "prefLabel": {
         "de": "offene Fuge"
       }
     }
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/DAC996",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/DAC996",
     "prefLabel": {
       "de": "Schadensphänomen"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

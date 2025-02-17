@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/GGD87G",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/GGD87G",
   "type": "Concept",
   "prefLabel": {
     "de": "Coloradol"
@@ -11,19 +11,19 @@
     "GGD87G"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/C421BF",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/C421BF",
     "prefLabel": {
       "de": "Lösungsmittel"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

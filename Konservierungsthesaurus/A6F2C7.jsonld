@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/A6F2C7",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/A6F2C7",
   "type": "Concept",
   "prefLabel": {
     "de": "Tonkernergänzung"
@@ -11,14 +11,14 @@
     "A6F2C7"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/CGC619",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/CGC619",
     "prefLabel": {
       "de": "Ergänzung"
     }
   },
   "related": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/FBFFF5",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/FBFFF5",
       "prefLabel": {
         "de": "[Abform- und Ergänzungsmaterial]"
       }
@@ -26,12 +26,12 @@
   ],
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

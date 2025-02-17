@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/D28G9A",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/D28G9A",
   "type": "Concept",
   "prefLabel": {
     "de": "Erdanhaftungen"
@@ -16,19 +16,19 @@
     "D28G9A"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/A889A3",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/A889A3",
     "prefLabel": {
       "de": "Verschmutzung"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

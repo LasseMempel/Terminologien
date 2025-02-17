@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/D75514",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/D75514",
   "type": "Concept",
   "prefLabel": {
     "de": "Rubin"
@@ -16,19 +16,19 @@
     "D75514"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/AD3B58",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/AD3B58",
     "prefLabel": {
       "de": "Korund"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

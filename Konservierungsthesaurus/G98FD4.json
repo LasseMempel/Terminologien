@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/G98FD4",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/G98FD4",
   "type": "Concept",
   "prefLabel": {
     "de": "Konservierung"
@@ -22,50 +22,50 @@
   ],
   "narrower": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/C6A532",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/C6A532",
       "prefLabel": {
         "de": "Entsalzung"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/AF1F5C",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/AF1F5C",
       "prefLabel": {
         "de": "Trocknung"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/DA9CGG",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/DA9CGG",
       "prefLabel": {
         "de": "Festigung"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/F72743",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/F72743",
       "prefLabel": {
         "de": "Plasmabehandlung"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/GF41DG",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/GF41DG",
       "prefLabel": {
         "de": "Schutzüberzug"
       }
     }
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/CFGDA3",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/CFGDA3",
     "prefLabel": {
       "de": "Maßnahme"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

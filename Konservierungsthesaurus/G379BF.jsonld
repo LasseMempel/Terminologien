@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/G379BF",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/G379BF",
   "type": "Concept",
   "prefLabel": {
     "de": "Gummi arabicum"
@@ -11,19 +11,19 @@
     "G379BF"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/C176FC",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/C176FC",
     "prefLabel": {
       "de": "Schellack"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

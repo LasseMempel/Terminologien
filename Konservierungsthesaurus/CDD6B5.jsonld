@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/CDD6B5",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/CDD6B5",
   "type": "Concept",
   "prefLabel": {
     "de": "Risikobeurteilung"
@@ -16,7 +16,7 @@
     "CDD6B5"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/A18D95",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/A18D95",
     "prefLabel": {
       "de": "Konservierungskonzept"
     }
@@ -28,12 +28,12 @@
   ],
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

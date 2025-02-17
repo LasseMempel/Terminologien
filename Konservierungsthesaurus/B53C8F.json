@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/B53C8F",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/B53C8F",
   "type": "Concept",
   "prefLabel": {
     "de": "UV-Lumineszenz-Untersuchung"
@@ -16,14 +16,14 @@
     "B53C8F"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/CA7279",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/CA7279",
     "prefLabel": {
       "de": "visuelle Begutachtung"
     }
   },
   "related": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/G8C987",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/G8C987",
       "prefLabel": {
         "de": "UV-Lampe"
       }
@@ -31,12 +31,12 @@
   ],
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

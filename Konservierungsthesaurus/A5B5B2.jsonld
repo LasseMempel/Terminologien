@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/A5B5B2",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/A5B5B2",
   "type": "Concept",
   "prefLabel": {
     "de": "Gagat"
@@ -16,19 +16,19 @@
     "A5B5B2"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/G76A78",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/G76A78",
     "prefLabel": {
       "de": "Kaustobiolith"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

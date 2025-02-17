@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/CC2F8A",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/CC2F8A",
   "type": "Concept",
   "prefLabel": {
     "de": "Titriplex III"
@@ -11,7 +11,7 @@
     "CC2F8A"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/D9F9D8",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/D9F9D8",
     "prefLabel": {
       "de": "Ethylendiamintetraessigsäure"
     }
@@ -23,12 +23,12 @@
   ],
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

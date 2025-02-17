@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/DAC425",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/DAC425",
   "type": "Concept",
   "prefLabel": {
     "de": "Akemi Marmorkitt 1000"
@@ -11,19 +11,19 @@
     "DAC425"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/F8A93F",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/F8A93F",
     "prefLabel": {
       "de": "Polyesterharz"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/G5733B",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/G5733B",
   "type": "Concept",
   "prefLabel": {
     "de": "Dispersionsfarbe"
@@ -9,32 +9,32 @@
   ],
   "narrower": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/C632FD",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/C632FD",
       "prefLabel": {
         "de": "Acrylfarbe"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/C9GD44",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/C9GD44",
       "prefLabel": {
         "de": "Vollton-/Abtönfarbe"
       }
     }
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/AFD671",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/AFD671",
     "prefLabel": {
       "de": "Farbstoff"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

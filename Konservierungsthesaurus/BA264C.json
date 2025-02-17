@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/BA264C",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/BA264C",
   "type": "Concept",
   "prefLabel": {
     "de": "Omega-Häkchen"
@@ -8,19 +8,19 @@
     "BA264C"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/A48485",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/A48485",
     "prefLabel": {
       "de": "Draht"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/C5A318",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/C5A318",
   "type": "Concept",
   "prefLabel": {
     "de": "Ultraschallgerät"
@@ -11,20 +11,20 @@
     "C5A318"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/GF9C49",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/GF9C49",
     "prefLabel": {
       "de": "technische Geräte"
     }
   },
   "related": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/A194CF",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/A194CF",
       "prefLabel": {
         "de": "Nassreinigung"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/A6A248",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/A6A248",
       "prefLabel": {
         "de": "maschinelle Freilegung"
       }
@@ -32,12 +32,12 @@
   ],
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

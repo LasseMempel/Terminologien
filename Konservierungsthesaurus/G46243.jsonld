@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/G46243",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/G46243",
   "type": "Concept",
   "prefLabel": {
     "de": "Propylacetat"
@@ -16,19 +16,19 @@
     "G46243"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/C421BF",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/C421BF",
     "prefLabel": {
       "de": "Lösungsmittel"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

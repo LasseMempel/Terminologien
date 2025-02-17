@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/C1218G",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/C1218G",
   "type": "Concept",
   "prefLabel": {
     "de": "Abformung (Methode)"
@@ -16,14 +16,14 @@
     "C1218G"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/A2G7B9",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/A2G7B9",
     "prefLabel": {
       "de": "Formbau"
     }
   },
   "related": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/FBFFF5",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/FBFFF5",
       "prefLabel": {
         "de": "[Abform- und Ergänzungsmaterial]"
       }
@@ -31,12 +31,12 @@
   ],
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

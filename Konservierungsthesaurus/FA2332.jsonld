@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/FA2332",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/FA2332",
   "type": "Concept",
   "prefLabel": {
     "de": "Rekonstruktion (Methode)"
@@ -12,32 +12,32 @@
   ],
   "narrower": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/BDCBC3",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/BDCBC3",
       "prefLabel": {
         "de": "Ergänzung"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/G6282F",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/G6282F",
       "prefLabel": {
         "de": "Rückformung"
       }
     }
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/G79CAC",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/G79CAC",
     "prefLabel": {
       "de": "[Vorgehensweise]"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

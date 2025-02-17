@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/C3A182",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/C3A182",
   "type": "Concept",
   "prefLabel": {
     "de": "Nachbildung für wissenschaftliche Zwecke"
@@ -18,32 +18,32 @@
   ],
   "narrower": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/G79CAC",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/G79CAC",
       "prefLabel": {
         "de": "[Vorgehensweise]"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/C11192",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/C11192",
       "prefLabel": {
         "de": "[Nachbildungsergebnisse]"
       }
     }
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/CFGDA3",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/CFGDA3",
     "prefLabel": {
       "de": "Maßnahme"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

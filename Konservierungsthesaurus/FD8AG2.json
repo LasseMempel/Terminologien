@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/FD8AG2",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/FD8AG2",
   "type": "Concept",
   "prefLabel": {
     "de": "Pantarol® Metallschutz Nr. 100"
@@ -11,19 +11,19 @@
     "FD8AG2"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/GC7998",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/GC7998",
     "prefLabel": {
       "de": "Cellulosenitrat"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

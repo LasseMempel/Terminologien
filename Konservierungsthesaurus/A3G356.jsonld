@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/A3G356",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/A3G356",
   "type": "Concept",
   "prefLabel": {
     "de": "Polyurethan"
@@ -17,19 +17,19 @@
     "A3G356"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/A1D125",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/A1D125",
     "prefLabel": {
       "de": "synthetisches Polymer"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

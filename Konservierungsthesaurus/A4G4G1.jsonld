@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/A4G4G1",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/A4G4G1",
   "type": "Concept",
   "prefLabel": {
     "de": "Heißluftföhn"
@@ -8,14 +8,14 @@
     "A4G4G1"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/GF9C49",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/GF9C49",
     "prefLabel": {
       "de": "technische Geräte"
     }
   },
   "related": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/AF1F5C",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/AF1F5C",
       "prefLabel": {
         "de": "Trocknung"
       }
@@ -23,12 +23,12 @@
   ],
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

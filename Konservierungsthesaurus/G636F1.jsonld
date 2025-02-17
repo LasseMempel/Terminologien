@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/G636F1",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/G636F1",
   "type": "Concept",
   "prefLabel": {
     "de": "Schieferton"
@@ -16,19 +16,19 @@
     "G636F1"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/C7F346",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/C7F346",
     "prefLabel": {
       "de": "Sedimentgestein"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

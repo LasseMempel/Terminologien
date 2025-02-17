@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/A41BGB",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/A41BGB",
   "type": "Concept",
   "prefLabel": {
     "de": "eingedrückt"
@@ -14,32 +14,32 @@
   ],
   "narrower": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/C27GA2",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/C27GA2",
       "prefLabel": {
         "de": "Schnurabdruckdekor"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/F56B83",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/F56B83",
       "prefLabel": {
         "de": "Linienbanddekor"
       }
     }
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/F2244D",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/F2244D",
     "prefLabel": {
       "de": "Verzierungstechnik"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

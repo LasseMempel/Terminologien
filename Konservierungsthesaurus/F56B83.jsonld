@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/F56B83",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/F56B83",
   "type": "Concept",
   "prefLabel": {
     "de": "Linienbanddekor"
@@ -8,19 +8,19 @@
     "F56B83"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/A41BGB",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/A41BGB",
     "prefLabel": {
       "de": "eingedrückt"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

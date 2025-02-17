@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/A8D9GF",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/A8D9GF",
   "type": "Concept",
   "prefLabel": {
     "de": "deformiert"
@@ -17,56 +17,56 @@
   ],
   "narrower": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/ABB9FA",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/ABB9FA",
       "prefLabel": {
         "de": "geknickt"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/B89818",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/B89818",
       "prefLabel": {
         "de": "gewellt"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/C535G6",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/C535G6",
       "prefLabel": {
         "de": "verbogen"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/CF4199",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/CF4199",
       "prefLabel": {
         "de": "verdreht"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/FC4DGB",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/FC4DGB",
       "prefLabel": {
         "de": "verworfen"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/GAC37B",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/GAC37B",
       "prefLabel": {
         "de": "eingedrückt"
       }
     }
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/B224CD",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/B224CD",
     "prefLabel": {
       "de": "Formänderung"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

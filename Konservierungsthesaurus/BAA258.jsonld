@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/BAA258",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/BAA258",
   "type": "Concept",
   "prefLabel": {
     "de": "Auswertungsdokumentation"
@@ -11,14 +11,14 @@
     "BAA258"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/C8CG15",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/C8CG15",
     "prefLabel": {
       "de": "Dokumentation"
     }
   },
   "related": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/G76B7G",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/G76B7G",
       "prefLabel": {
         "de": "Technologische Auswertung"
       }
@@ -26,12 +26,12 @@
   ],
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

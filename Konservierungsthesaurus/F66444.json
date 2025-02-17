@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/F66444",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/F66444",
   "type": "Concept",
   "prefLabel": {
     "de": "Spot-Test"
@@ -11,19 +11,19 @@
     "F66444"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/A946B5",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/A946B5",
     "prefLabel": {
       "de": "chemische Untersuchung"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

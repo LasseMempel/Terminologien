@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/F589G5",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/F589G5",
   "type": "Concept",
   "prefLabel": {
     "de": "Infiltrationsklebung"
@@ -11,19 +11,19 @@
     "F589G5"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/A13CD1",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/A13CD1",
     "prefLabel": {
       "de": "Klebung"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/FFA16B",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/FFA16B",
   "type": "Concept",
   "prefLabel": {
     "de": "[Formtyp]"
@@ -17,62 +17,62 @@
   ],
   "narrower": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/A15D7G",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/A15D7G",
       "prefLabel": {
         "de": "Schwenkform"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/A2GC16",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/A2GC16",
       "prefLabel": {
         "de": "Galvanoform"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/ADCC8A",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/ADCC8A",
       "prefLabel": {
         "de": "Laminierform"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/B1DB9G",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/B1DB9G",
       "prefLabel": {
         "de": "Gussform"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/C369CB",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/C369CB",
       "prefLabel": {
         "de": "Steiggussform"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/DC3F7A",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/DC3F7A",
       "prefLabel": {
         "de": "Quetschform"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/G967G1",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/G967G1",
       "prefLabel": {
         "de": "Spiegelform"
       }
     }
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/G52378",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/G52378",
     "prefLabel": {
       "de": "analoge Abformung"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/B9A8BF",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/B9A8BF",
   "type": "Concept",
   "prefLabel": {
     "de": "Bergkristall"
@@ -17,19 +17,19 @@
     "B9A8BF"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/C84834",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/C84834",
     "prefLabel": {
       "de": "Quarz"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

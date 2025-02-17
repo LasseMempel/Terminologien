@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/D3AF3A",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/D3AF3A",
   "type": "Concept",
   "prefLabel": {
     "de": "Zustandsdokumentation"
@@ -21,27 +21,27 @@
   ],
   "narrower": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/CB7747",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/CB7747",
       "prefLabel": {
         "de": "Bildgebende Dokumentation"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/D7D443",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/D7D443",
       "prefLabel": {
         "de": "Zustandsbericht"
       }
     }
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/C8CG15",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/C8CG15",
     "prefLabel": {
       "de": "Dokumentation"
     }
   },
   "related": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/C4BCF8",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/C4BCF8",
       "prefLabel": {
         "de": "Zustandserfassung"
       }
@@ -60,12 +60,12 @@
   ],
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/DFD1B7",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/DFD1B7",
   "type": "Concept",
   "prefLabel": {
     "de": "Wasser"
@@ -12,27 +12,27 @@
   ],
   "narrower": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/B6C1A7",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/B6C1A7",
       "prefLabel": {
         "de": "Destilliertes Wasser"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/BBF7BG",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/BBF7BG",
       "prefLabel": {
         "de": "Demineralisiertes Wasser"
       }
     }
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/C421BF",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/C421BF",
     "prefLabel": {
       "de": "Lösungsmittel"
     }
   },
   "related": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/C6A532",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/C6A532",
       "prefLabel": {
         "de": "Entsalzung"
       }
@@ -45,12 +45,12 @@
   ],
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

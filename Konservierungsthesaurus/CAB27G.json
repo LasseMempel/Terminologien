@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/CAB27G",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/CAB27G",
   "type": "Concept",
   "prefLabel": {
     "de": "Kokillen-Guss"
@@ -16,19 +16,19 @@
     "CAB27G"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/BA73A2",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/BA73A2",
     "prefLabel": {
       "de": "gegossen"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/D73F9B",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/D73F9B",
   "type": "Concept",
   "prefLabel": {
     "de": "Leder"
@@ -16,7 +16,7 @@
     "D73F9B"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/FCF757",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/FCF757",
     "prefLabel": {
       "de": "Tierhaut"
     }
@@ -31,12 +31,12 @@
   ],
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

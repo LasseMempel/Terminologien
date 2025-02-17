@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/GG6A8B",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/GG6A8B",
   "type": "Concept",
   "prefLabel": {
     "de": "Blattvergoldung"
@@ -17,27 +17,27 @@
   ],
   "narrower": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/DF986A",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/DF986A",
       "prefLabel": {
         "de": "Ölvergoldung"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/GBACB4",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/GBACB4",
       "prefLabel": {
         "de": "Polimentvergoldung"
       }
     }
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/GC2F6A",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/GC2F6A",
     "prefLabel": {
       "de": "vergoldet"
     }
   },
   "related": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/CC63FA",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/CC63FA",
       "prefLabel": {
         "de": "plattiert"
       }
@@ -45,12 +45,12 @@
   ],
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

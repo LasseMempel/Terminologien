@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/G59852",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/G59852",
   "type": "Concept",
   "prefLabel": {
     "de": "Reproduktion (Methode)"
@@ -11,19 +11,19 @@
     "G59852"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/G79CAC",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/G79CAC",
     "prefLabel": {
       "de": "[Vorgehensweise]"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

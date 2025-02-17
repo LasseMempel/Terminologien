@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/B6F5BG",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/B6F5BG",
   "type": "Concept",
   "prefLabel": {
     "de": "PE-Folie"
@@ -11,19 +11,19 @@
     "B6F5BG"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/F8ADGD",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/F8ADGD",
     "prefLabel": {
       "de": "Folie"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

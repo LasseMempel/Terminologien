@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/F8915F",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/F8915F",
   "type": "Concept",
   "prefLabel": {
     "de": "Versinterung"
@@ -11,19 +11,19 @@
     "F8915F"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/A889A3",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/A889A3",
     "prefLabel": {
       "de": "Verschmutzung"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

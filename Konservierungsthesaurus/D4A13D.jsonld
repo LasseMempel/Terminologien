@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/D4A13D",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/D4A13D",
   "type": "Concept",
   "prefLabel": {
     "de": "[Untersuchungsmethode]"
@@ -17,38 +17,38 @@
   ],
   "narrower": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/BAA12F",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/BAA12F",
       "prefLabel": {
         "de": "Photogrammetrie"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/G9B788",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/G9B788",
       "prefLabel": {
         "de": "Materialanalyse"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/CA7279",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/CA7279",
       "prefLabel": {
         "de": "visuelle Begutachtung"
       }
     }
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/CA1BC5",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/CA1BC5",
     "prefLabel": {
       "de": "Objektuntersuchung"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

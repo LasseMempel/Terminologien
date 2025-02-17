@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/CC687C",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/CC687C",
   "type": "Concept",
   "prefLabel": {
     "de": "Sauerstoffplasma"
@@ -8,19 +8,19 @@
     "CC687C"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/A7C8CB",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/A7C8CB",
     "prefLabel": {
       "de": "Plasma"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/F49B77",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/F49B77",
   "type": "Concept",
   "prefLabel": {
     "de": "Thioharnstoff"
@@ -13,7 +13,7 @@
     "F49B77"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/F87124",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/F87124",
     "prefLabel": {
       "de": "Komplexbildner"
     }
@@ -25,12 +25,12 @@
   ],
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

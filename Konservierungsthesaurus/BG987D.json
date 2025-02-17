@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/BG987D",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/BG987D",
   "type": "Concept",
   "prefLabel": {
     "de": "weeping"
@@ -21,14 +21,14 @@
     "BG987D"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/BBF64G",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/BBF64G",
     "prefLabel": {
       "de": "Ablagerung"
     }
   },
   "related": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/DA2D73",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/DA2D73",
       "prefLabel": {
         "de": "Glas"
       }
@@ -36,12 +36,12 @@
   ],
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

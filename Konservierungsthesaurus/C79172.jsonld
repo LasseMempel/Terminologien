@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/C79172",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/C79172",
   "type": "Concept",
   "prefLabel": {
     "de": "geknüpft"
@@ -16,19 +16,19 @@
     "C79172"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/D1CA6B",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/D1CA6B",
     "prefLabel": {
       "de": "geknotet"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

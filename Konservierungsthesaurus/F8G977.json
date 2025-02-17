@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/F8G977",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/F8G977",
   "type": "Concept",
   "prefLabel": {
     "de": "Zinnfolie"
@@ -8,19 +8,19 @@
     "F8G977"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/F8ADGD",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/F8ADGD",
     "prefLabel": {
       "de": "Folie"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

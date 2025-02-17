@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/G63684",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/G63684",
   "type": "Concept",
   "prefLabel": {
     "de": "Serpentinit"
@@ -11,19 +11,19 @@
     "G63684"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/ABB166",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/ABB166",
     "prefLabel": {
       "de": "Metamorphit"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/D9A6FA",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/D9A6FA",
   "type": "Concept",
   "prefLabel": {
     "de": "Schadenskartierung"
@@ -8,19 +8,19 @@
     "D9A6FA"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/CB7747",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/CB7747",
     "prefLabel": {
       "de": "Bildgebende Dokumentation"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

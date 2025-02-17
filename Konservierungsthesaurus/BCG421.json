@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/BCG421",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/BCG421",
   "type": "Concept",
   "prefLabel": {
     "de": "elastisch"
@@ -11,19 +11,19 @@
     "BCG421"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/AGBB3C",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/AGBB3C",
     "prefLabel": {
       "de": "Festigkeit"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

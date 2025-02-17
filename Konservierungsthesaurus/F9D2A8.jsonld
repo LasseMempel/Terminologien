@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/F9D2A8",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/F9D2A8",
   "type": "Concept",
   "prefLabel": {
     "de": "Perle"
@@ -9,32 +9,32 @@
   ],
   "narrower": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/B41GC3",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/B41GC3",
       "prefLabel": {
         "de": "Süßwasserperle"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/FB8DCB",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/FB8DCB",
       "prefLabel": {
         "de": "Salzwasserperle"
       }
     }
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/F1BA31",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/F1BA31",
     "prefLabel": {
       "de": "Biomineral"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/FDB9F5",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/FDB9F5",
   "type": "Concept",
   "prefLabel": {
     "de": "Feucht <Objektzustand>"
@@ -16,19 +16,19 @@
     "FDB9F5"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/AG4397",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/AG4397",
     "prefLabel": {
       "de": "Feuchtigkeitsgehalt"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

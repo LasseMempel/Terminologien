@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/GB33C3",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/GB33C3",
   "type": "Concept",
   "prefLabel": {
     "de": "gerissen"
@@ -17,44 +17,44 @@
   ],
   "narrower": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/BFAC52",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/BFAC52",
       "prefLabel": {
         "de": "Tiefenriss"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/D937D1",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/D937D1",
       "prefLabel": {
         "de": "Craquellée"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/F2A5A7",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/F2A5A7",
       "prefLabel": {
         "de": "Haarriss"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/GD5454",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/GD5454",
       "prefLabel": {
         "de": "Oberflächenriss"
       }
     }
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/CB9GD3",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/CB9GD3",
     "prefLabel": {
       "de": "Kohäsionsverlust"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

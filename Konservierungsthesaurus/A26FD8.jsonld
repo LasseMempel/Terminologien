@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/A26FD8",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/A26FD8",
   "type": "Concept",
   "prefLabel": {
     "de": "aufgetieft"
@@ -17,19 +17,19 @@
     "A26FD8"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/D18BBG",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/D18BBG",
     "prefLabel": {
       "de": "getrieben"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

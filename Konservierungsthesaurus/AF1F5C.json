@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/AF1F5C",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/AF1F5C",
   "type": "Concept",
   "prefLabel": {
     "de": "Trocknung"
@@ -12,33 +12,33 @@
   ],
   "narrower": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/A44FD4",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/A44FD4",
       "prefLabel": {
         "de": "Gefriertrocknung"
       }
     }
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/G98FD4",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/G98FD4",
     "prefLabel": {
       "de": "Konservierung"
     }
   },
   "related": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/A4G4G1",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/A4G4G1",
       "prefLabel": {
         "de": "Heißluftföhn"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/D7GGGG",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/D7GGGG",
       "prefLabel": {
         "de": "Wärmeschrank"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/F8323G",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/F8323G",
       "prefLabel": {
         "de": "industrielle Mikrowellenkammer"
       }
@@ -46,12 +46,12 @@
   ],
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

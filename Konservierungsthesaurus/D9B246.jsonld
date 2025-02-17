@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/D9B246",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/D9B246",
   "type": "Concept",
   "prefLabel": {
     "de": "Basalt"
@@ -11,19 +11,19 @@
     "D9B246"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/DF7826",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/DF7826",
     "prefLabel": {
       "de": "Magmatit"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

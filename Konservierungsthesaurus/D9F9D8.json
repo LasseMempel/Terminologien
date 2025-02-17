@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/D9F9D8",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/D9F9D8",
   "type": "Concept",
   "prefLabel": {
     "de": "Ethylendiamintetraessigsäure"
@@ -20,14 +20,14 @@
   ],
   "narrower": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/CC2F8A",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/CC2F8A",
       "prefLabel": {
         "de": "Titriplex III"
       }
     }
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/F87124",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/F87124",
     "prefLabel": {
       "de": "Komplexbildner"
     }
@@ -39,12 +39,12 @@
   ],
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

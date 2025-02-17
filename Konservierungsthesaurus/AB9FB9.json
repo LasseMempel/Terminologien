@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/AB9FB9",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/AB9FB9",
   "type": "Concept",
   "prefLabel": {
     "de": "Polimentversilberung"
@@ -8,19 +8,19 @@
     "AB9FB9"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/B47572",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/B47572",
     "prefLabel": {
       "de": "Blattversilberung"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

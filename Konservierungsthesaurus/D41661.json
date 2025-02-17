@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/D41661",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/D41661",
   "type": "Concept",
   "prefLabel": {
     "de": "Cellulosederivat"
@@ -12,32 +12,32 @@
   ],
   "narrower": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/A44D5F",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/A44D5F",
       "prefLabel": {
         "de": "Celluloseether"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/A9A929",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/A9A929",
       "prefLabel": {
         "de": "Celluloseester"
       }
     }
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/A1D125",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/A1D125",
     "prefLabel": {
       "de": "synthetisches Polymer"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

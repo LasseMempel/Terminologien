@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/G52378",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/G52378",
   "type": "Concept",
   "prefLabel": {
     "de": "analoge Abformung"
@@ -12,38 +12,38 @@
   ],
   "narrower": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/FFA16B",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/FFA16B",
       "prefLabel": {
         "de": "[Formtyp]"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/FBGFC2",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/FBGFC2",
       "prefLabel": {
         "de": "[Formaufbau]"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/A2G7B9",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/A2G7B9",
       "prefLabel": {
         "de": "Formbau"
       }
     }
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/DAG2A8",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/DAG2A8",
     "prefLabel": {
       "de": "Abformung"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

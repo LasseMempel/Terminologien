@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/GA1687",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/GA1687",
   "type": "Concept",
   "prefLabel": {
     "de": "Ethafoam"
@@ -8,19 +8,19 @@
     "GA1687"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/F91427",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/F91427",
     "prefLabel": {
       "de": "Polyethylen-Schaum"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

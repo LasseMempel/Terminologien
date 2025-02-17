@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/C9C7C7",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/C9C7C7",
   "type": "Concept",
   "prefLabel": {
     "de": "Elastosil M3500"
@@ -11,19 +11,19 @@
     "C9C7C7"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/GD9CA3",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/GD9CA3",
     "prefLabel": {
       "de": "kondensationsvernetzender Silikonkautschuk"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

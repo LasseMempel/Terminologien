@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/DG8FG3",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/DG8FG3",
   "type": "Concept",
   "prefLabel": {
     "de": "Modelliermasse"
@@ -12,39 +12,39 @@
   ],
   "narrower": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/A2B583",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/A2B583",
       "prefLabel": {
         "de": "Plastilin"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/GD5FG6",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/GD5FG6",
       "prefLabel": {
         "de": "Gips <Restaurierungsmaterial>"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/A8245D",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/A8245D",
       "prefLabel": {
         "de": "Ton <Restaurierungsmaterial>"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/CB4G84",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/CB4G84",
       "prefLabel": {
         "de": "Wachs"
       }
     }
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/FBFFF5",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/FBFFF5",
     "prefLabel": {
       "de": "[Abform- und Ergänzungsmaterial]"
     }
   },
   "related": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/FBFFF5",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/FBFFF5",
       "prefLabel": {
         "de": "[Abform- und Ergänzungsmaterial]"
       }
@@ -52,12 +52,12 @@
   ],
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

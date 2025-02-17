@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/GC2F6A",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/GC2F6A",
   "type": "Concept",
   "prefLabel": {
     "de": "vergoldet"
@@ -17,50 +17,50 @@
   ],
   "narrower": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/GG6A8B",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/GG6A8B",
       "prefLabel": {
         "de": "Blattvergoldung"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/F3684F",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/F3684F",
       "prefLabel": {
         "de": "Abreichungsvergoldung"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/G16D2G",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/G16D2G",
       "prefLabel": {
         "de": "Anreibevergoldung"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/GC8DCD",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/GC8DCD",
       "prefLabel": {
         "de": "Feuervergoldung"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/GFCC9F",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/GFCC9F",
       "prefLabel": {
         "de": "Diffusionsvergoldung"
       }
     }
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/F2244D",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/F2244D",
     "prefLabel": {
       "de": "Verzierungstechnik"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

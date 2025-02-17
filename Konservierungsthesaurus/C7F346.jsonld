@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/C7F346",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/C7F346",
   "type": "Concept",
   "prefLabel": {
     "de": "Sedimentgestein"
@@ -18,80 +18,80 @@
   ],
   "narrower": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/ACD56G",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/ACD56G",
       "prefLabel": {
         "de": "eisenreiches Sedimentit"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/B8224D",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/B8224D",
       "prefLabel": {
         "de": "Kalkstein"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/CB4C3C",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/CB4C3C",
       "prefLabel": {
         "de": "Kalksinter"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/DB13B8",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/DB13B8",
       "prefLabel": {
         "de": "Tonstein"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/DD91F6",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/DD91F6",
       "prefLabel": {
         "de": "Sandstein"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/F2B8B7",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/F2B8B7",
       "prefLabel": {
         "de": "Feuerstein"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/G636F1",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/G636F1",
       "prefLabel": {
         "de": "Schieferton"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/G734B3",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/G734B3",
       "prefLabel": {
         "de": "Gips <Gestein>"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/GG4BF9",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/GG4BF9",
       "prefLabel": {
         "de": "Bentonit"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/GGCA4G",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/GGCA4G",
       "prefLabel": {
         "de": "Dolomit <Gestein>"
       }
     }
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/D866AD",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/D866AD",
     "prefLabel": {
       "de": "Gestein"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

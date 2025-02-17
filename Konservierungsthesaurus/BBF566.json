@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/BBF566",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/BBF566",
   "type": "Concept",
   "prefLabel": {
     "de": "Unedelmetall"
@@ -21,27 +21,27 @@
   ],
   "narrower": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/GB5BGF",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/GB5BGF",
       "prefLabel": {
         "de": "Buntmetall"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/F71C6B",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/F71C6B",
       "prefLabel": {
         "de": "Eisen"
       }
     }
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/F7D3DB",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/F7D3DB",
     "prefLabel": {
       "de": "reines Metall"
     }
   },
   "related": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/FAG415",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/FAG415",
       "prefLabel": {
         "de": "Unedelmetallegierung"
       }
@@ -60,12 +60,12 @@
   ],
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

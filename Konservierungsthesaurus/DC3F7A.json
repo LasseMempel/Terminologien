@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/DC3F7A",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/DC3F7A",
   "type": "Concept",
   "prefLabel": {
     "de": "Quetschform"
@@ -11,19 +11,19 @@
     "DC3F7A"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/FFA16B",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/FFA16B",
     "prefLabel": {
       "de": "[Formtyp]"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

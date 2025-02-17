@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/C77G9C",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/C77G9C",
   "type": "Concept",
   "prefLabel": {
     "de": "gealtert"
@@ -11,19 +11,19 @@
     "C77G9C"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/C6GB1C",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/C6GB1C",
     "prefLabel": {
       "de": "Veränderung"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

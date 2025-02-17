@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/D6A11G",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/D6A11G",
   "type": "Concept",
   "prefLabel": {
     "de": "Ausstellungsparameter"
@@ -8,19 +8,19 @@
     "D6A11G"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/DAB4B7",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/DAB4B7",
     "prefLabel": {
       "de": "Handlungsempfehlung"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/G21F5B",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/G21F5B",
   "type": "Concept",
   "prefLabel": {
     "de": "Muschelseide"
@@ -11,19 +11,19 @@
     "G21F5B"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/F6F797",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/F6F797",
     "prefLabel": {
       "de": "Seide"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

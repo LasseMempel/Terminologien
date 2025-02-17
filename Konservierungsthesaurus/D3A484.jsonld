@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/D3A484",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/D3A484",
   "type": "Concept",
   "prefLabel": {
     "de": "Oxalsäure"
@@ -21,14 +21,14 @@
     "D3A484"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/FGF575",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/FGF575",
     "prefLabel": {
       "de": "Säure"
     }
   },
   "related": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/B3FCA1",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/B3FCA1",
       "prefLabel": {
         "de": "Reduktionsmittel"
       }
@@ -41,12 +41,12 @@
   ],
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

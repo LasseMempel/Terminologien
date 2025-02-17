@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/G76A78",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/G76A78",
   "type": "Concept",
   "prefLabel": {
     "de": "Kaustobiolith"
@@ -12,38 +12,38 @@
   ],
   "narrower": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/A5B5B2",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/A5B5B2",
       "prefLabel": {
         "de": "Gagat"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/AAG733",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/AAG733",
       "prefLabel": {
         "de": "Sapropelit"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/D467F2",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/D467F2",
       "prefLabel": {
         "de": "Pech"
       }
     }
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/CD3341",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/CD3341",
     "prefLabel": {
       "de": "organisches Material"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

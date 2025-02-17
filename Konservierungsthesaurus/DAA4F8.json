@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/DAA4F8",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/DAA4F8",
   "type": "Concept",
   "prefLabel": {
     "de": "Oddy-Test"
@@ -8,19 +8,19 @@
     "DAA4F8"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/A946B5",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/A946B5",
     "prefLabel": {
       "de": "chemische Untersuchung"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

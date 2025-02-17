@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/A9B23D",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/A9B23D",
   "type": "Concept",
   "prefLabel": {
     "de": "verkohlt"
@@ -17,19 +17,19 @@
     "A9B23D"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/C9D991",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/C9D991",
     "prefLabel": {
       "de": "chemische Veränderung"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

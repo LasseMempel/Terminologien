@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/CC67B2",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/CC67B2",
   "type": "Concept",
   "prefLabel": {
     "de": "Stützkapselbau"
@@ -11,19 +11,19 @@
     "CC67B2"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/A2G7B9",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/A2G7B9",
     "prefLabel": {
       "de": "Formbau"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/BFA1CC",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/BFA1CC",
   "type": "Concept",
   "prefLabel": {
     "de": "Injektion"
@@ -11,19 +11,19 @@
     "BFA1CC"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/A9FF5A",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/A9FF5A",
     "prefLabel": {
       "de": "Tränkung"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

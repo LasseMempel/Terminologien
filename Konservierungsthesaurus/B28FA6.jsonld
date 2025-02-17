@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/B28FA6",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/B28FA6",
   "type": "Concept",
   "prefLabel": {
     "de": "Kupfer"
@@ -20,20 +20,20 @@
     "B28FA6"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/GB5BGF",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/GB5BGF",
     "prefLabel": {
       "de": "Buntmetall"
     }
   },
   "related": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/FGB415",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/FGB415",
       "prefLabel": {
         "de": "Kupferlegierung"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/GC4CA7",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/GC4CA7",
       "prefLabel": {
         "de": "Patinabildung"
       }
@@ -52,12 +52,12 @@
   ],
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

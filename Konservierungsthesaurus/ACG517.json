@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/ACG517",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/ACG517",
   "type": "Concept",
   "prefLabel": {
     "de": "Diffusionsversilberung"
@@ -8,19 +8,19 @@
     "ACG517"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/D248A4",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/D248A4",
     "prefLabel": {
       "de": "versilbert"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

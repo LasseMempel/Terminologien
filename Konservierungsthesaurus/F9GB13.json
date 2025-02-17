@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/F9GB13",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/F9GB13",
   "type": "Concept",
   "prefLabel": {
     "de": "Metalllegierung"
@@ -20,20 +20,20 @@
   ],
   "narrower": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/G4AG5C",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/G4AG5C",
       "prefLabel": {
         "de": "Edelmetalllegierung"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/FAG415",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/FAG415",
       "prefLabel": {
         "de": "Unedelmetallegierung"
       }
     }
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/B5DD1A",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/B5DD1A",
     "prefLabel": {
       "de": "Metall"
     }
@@ -45,12 +45,12 @@
   ],
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

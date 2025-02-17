@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/C7BG27",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/C7BG27",
   "type": "Concept",
   "prefLabel": {
     "de": "Schlacke"
@@ -11,19 +11,19 @@
     "C7BG27"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/B12CB4",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/B12CB4",
     "prefLabel": {
       "de": "Gesteinsglas"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

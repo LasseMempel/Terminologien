@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/F396G6",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/F396G6",
   "type": "Concept",
   "prefLabel": {
     "de": "bemalt"
@@ -17,45 +17,45 @@
   ],
   "narrower": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/A21993",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/A21993",
       "prefLabel": {
         "de": "kaltbemalt"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/B225DC",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/B225DC",
       "prefLabel": {
         "de": "hintermalt"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/GB8544",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/GB8544",
       "prefLabel": {
         "de": "lackiert"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/A19F86",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/A19F86",
       "prefLabel": {
         "de": "Schlickermalerei"
       }
     }
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/F2244D",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/F2244D",
     "prefLabel": {
       "de": "Verzierungstechnik"
     }
   },
   "related": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/CG1531",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/CG1531",
       "prefLabel": {
         "de": "Unterglasurdekor"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/D691FG",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/D691FG",
       "prefLabel": {
         "de": "Aufglasurdekor"
       }
@@ -63,12 +63,12 @@
   ],
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

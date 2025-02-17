@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/A14228",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/A14228",
   "type": "Concept",
   "prefLabel": {
     "de": "Verkrustung"
@@ -11,19 +11,19 @@
     "A14228"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/A889A3",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/A889A3",
     "prefLabel": {
       "de": "Verschmutzung"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

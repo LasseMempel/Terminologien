@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/GB6DF3",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/GB6DF3",
   "type": "Concept",
   "prefLabel": {
     "de": "silikatisches Material"
@@ -18,38 +18,38 @@
   ],
   "narrower": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/F1BA31",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/F1BA31",
       "prefLabel": {
         "de": "Biomineral"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/BGC9F3",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/BGC9F3",
       "prefLabel": {
         "de": "Mineral"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/DA2D73",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/DA2D73",
       "prefLabel": {
         "de": "Glas"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/A11ACA",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/A11ACA",
       "prefLabel": {
         "de": "Keramik"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/D866AD",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/D866AD",
       "prefLabel": {
         "de": "Gestein"
       }
     }
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/B51DAF",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/B51DAF",
     "prefLabel": {
       "de": "Material"
     }
@@ -61,12 +61,12 @@
   ],
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

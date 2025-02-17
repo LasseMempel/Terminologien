@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/FB6AGB",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/FB6AGB",
   "type": "Concept",
   "prefLabel": {
     "de": "Stabilität"
@@ -17,32 +17,32 @@
   ],
   "narrower": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/D79DA6",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/D79DA6",
       "prefLabel": {
         "de": "stabil"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/FBA99A",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/FBA99A",
       "prefLabel": {
         "de": "instabil"
       }
     }
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/GDF8C2",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/GDF8C2",
     "prefLabel": {
       "de": "Physischer Zustand"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

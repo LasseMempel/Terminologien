@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/D39264",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/D39264",
   "type": "Concept",
   "prefLabel": {
     "de": "Palatal® P 4-01"
@@ -11,19 +11,19 @@
     "D39264"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/F8A93F",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/F8A93F",
     "prefLabel": {
       "de": "Polyesterharz"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

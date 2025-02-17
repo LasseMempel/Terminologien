@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/F8A93F",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/F8A93F",
   "type": "Concept",
   "prefLabel": {
     "de": "Polyesterharz"
@@ -12,32 +12,32 @@
   ],
   "narrower": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/D39264",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/D39264",
       "prefLabel": {
         "de": "Palatal® P 4-01"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/DAC425",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/DAC425",
       "prefLabel": {
         "de": "Akemi Marmorkitt 1000"
       }
     }
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/A1D125",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/A1D125",
     "prefLabel": {
       "de": "synthetisches Polymer"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

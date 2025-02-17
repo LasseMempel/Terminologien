@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/AFD671",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/AFD671",
   "type": "Concept",
   "prefLabel": {
     "de": "Farbstoff"
@@ -20,51 +20,51 @@
   ],
   "narrower": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/C1G6C8",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/C1G6C8",
       "prefLabel": {
         "de": "Blattsilber"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/G5733B",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/G5733B",
       "prefLabel": {
         "de": "Dispersionsfarbe"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/DBAD15",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/DBAD15",
       "prefLabel": {
         "de": "Schlagmetall"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/F49579",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/F49579",
       "prefLabel": {
         "de": "Blattgold"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/F64B9C",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/F64B9C",
       "prefLabel": {
         "de": "Pigment"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/G5G1DC",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/G5G1DC",
       "prefLabel": {
         "de": "Ölfarbe"
       }
     }
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/C364G1",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/C364G1",
     "prefLabel": {
       "de": "Konservierungs- und Restaurierungsmaterialien"
     }
   },
   "related": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/BD119A",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/BD119A",
       "prefLabel": {
         "de": "Retusche"
       }
@@ -72,12 +72,12 @@
   ],
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

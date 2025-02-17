@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/A8245D",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/A8245D",
   "type": "Concept",
   "prefLabel": {
     "de": "Ton <Restaurierungsmaterial>"
@@ -11,19 +11,19 @@
     "A8245D"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/DG8FG3",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/DG8FG3",
     "prefLabel": {
       "de": "Modelliermasse"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

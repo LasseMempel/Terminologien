@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/CG676B",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/CG676B",
   "type": "Concept",
   "prefLabel": {
     "de": "Analyse der isotopischen Zusammensetzung"
@@ -14,38 +14,38 @@
   ],
   "narrower": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/A17652",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/A17652",
       "prefLabel": {
         "de": "Multicollector-Inductively Coupled Plasma Mass Spectrometry"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/D5F8G2",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/D5F8G2",
       "prefLabel": {
         "de": "Gaschromatographie mit Massenspektrometrie"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/G87B12",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/G87B12",
       "prefLabel": {
         "de": "Thermoionisations-Massenspektrometrie"
       }
     }
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/G9B788",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/G9B788",
     "prefLabel": {
       "de": "Materialanalyse"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

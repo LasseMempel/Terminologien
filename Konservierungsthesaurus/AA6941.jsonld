@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/AA6941",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/AA6941",
   "type": "Concept",
   "prefLabel": {
     "de": "[Untersuchungsgerät]"
@@ -20,38 +20,38 @@
   ],
   "narrower": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/A9A54D",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/A9A54D",
       "prefLabel": {
         "de": "Spektrometer"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/B538AG",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/B538AG",
       "prefLabel": {
         "de": "Mikroskop"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/G8D62A",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/G8D62A",
       "prefLabel": {
         "de": "konventionelles Röntgengerät"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/DG6841",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/DG6841",
       "prefLabel": {
         "de": "Computertomograph"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/G8C987",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/G8C987",
       "prefLabel": {
         "de": "UV-Lampe"
       }
     }
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/CA1BC5",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/CA1BC5",
     "prefLabel": {
       "de": "Objektuntersuchung"
     }
@@ -63,12 +63,12 @@
   ],
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

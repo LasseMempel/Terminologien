@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/BAA12F",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/BAA12F",
   "type": "Concept",
   "prefLabel": {
     "de": "Photogrammetrie"
@@ -8,19 +8,19 @@
     "BAA12F"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/D4A13D",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/D4A13D",
     "prefLabel": {
       "de": "[Untersuchungsmethode]"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

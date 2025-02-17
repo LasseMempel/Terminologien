@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/DF986A",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/DF986A",
   "type": "Concept",
   "prefLabel": {
     "de": "Ölvergoldung"
@@ -11,19 +11,19 @@
     "DF986A"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/GG6A8B",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/GG6A8B",
     "prefLabel": {
       "de": "Blattvergoldung"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

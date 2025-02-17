@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/FF4767",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/FF4767",
   "type": "Concept",
   "prefLabel": {
     "de": "Lyofix CHN"
@@ -8,19 +8,19 @@
     "FF4767"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/DF633G",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/DF633G",
     "prefLabel": {
       "de": "Melamin-Formaldehydharz"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

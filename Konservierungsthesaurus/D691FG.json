@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/D691FG",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/D691FG",
   "type": "Concept",
   "prefLabel": {
     "de": "Aufglasurdekor"
@@ -11,14 +11,14 @@
     "D691FG"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/F2AG55",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/F2AG55",
     "prefLabel": {
       "de": "glasiert"
     }
   },
   "related": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/F396G6",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/F396G6",
       "prefLabel": {
         "de": "bemalt"
       }
@@ -26,12 +26,12 @@
   ],
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

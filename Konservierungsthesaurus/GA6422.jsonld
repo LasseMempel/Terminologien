@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/GA6422",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/GA6422",
   "type": "Concept",
   "prefLabel": {
     "de": "Laserinduzierte Plasmaspektroskopie"
@@ -17,19 +17,19 @@
     "GA6422"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/G17B8B",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/G17B8B",
     "prefLabel": {
       "de": "Analyse der chemischen Zusammensetzung"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

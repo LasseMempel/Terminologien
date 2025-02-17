@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/A44FD4",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/A44FD4",
   "type": "Concept",
   "prefLabel": {
     "de": "Gefriertrocknung"
@@ -18,19 +18,19 @@
     "A44FD4"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/AF1F5C",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/AF1F5C",
     "prefLabel": {
       "de": "Trocknung"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

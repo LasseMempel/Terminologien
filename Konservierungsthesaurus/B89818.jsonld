@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/B89818",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/B89818",
   "type": "Concept",
   "prefLabel": {
     "de": "gewellt"
@@ -17,19 +17,19 @@
     "B89818"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/A8D9GF",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/A8D9GF",
     "prefLabel": {
       "de": "deformiert"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

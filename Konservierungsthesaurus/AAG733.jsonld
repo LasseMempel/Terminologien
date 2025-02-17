@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/AAG733",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/AAG733",
   "type": "Concept",
   "prefLabel": {
     "de": "Sapropelit"
@@ -11,19 +11,19 @@
     "AAG733"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/G76A78",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/G76A78",
     "prefLabel": {
       "de": "Kaustobiolith"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

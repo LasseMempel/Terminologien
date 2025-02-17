@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/D9F7AC",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/D9F7AC",
   "type": "Concept",
   "prefLabel": {
     "de": "Formausguss"
@@ -11,19 +11,19 @@
     "D9F7AC"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/F8F7CF",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/F8F7CF",
     "prefLabel": {
       "de": "Kopieherstellung"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

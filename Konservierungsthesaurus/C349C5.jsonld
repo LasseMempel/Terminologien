@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/C349C5",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/C349C5",
   "type": "Concept",
   "prefLabel": {
     "de": "Kompressenentsalzung"
@@ -11,19 +11,19 @@
     "C349C5"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/C6A532",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/C6A532",
     "prefLabel": {
       "de": "Entsalzung"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

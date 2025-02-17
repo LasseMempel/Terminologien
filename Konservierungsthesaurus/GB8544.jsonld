@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/GB8544",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/GB8544",
   "type": "Concept",
   "prefLabel": {
     "de": "lackiert"
@@ -13,19 +13,19 @@
     "GB8544"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/F396G6",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/F396G6",
     "prefLabel": {
       "de": "bemalt"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

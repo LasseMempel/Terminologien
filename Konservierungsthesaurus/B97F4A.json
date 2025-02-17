@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/B97F4A",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/B97F4A",
   "type": "Concept",
   "prefLabel": {
     "de": "Achat"
@@ -16,19 +16,19 @@
     "B97F4A"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/C81F4D",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/C81F4D",
     "prefLabel": {
       "de": "Calcedon"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

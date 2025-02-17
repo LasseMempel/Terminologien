@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/A974A4",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/A974A4",
   "type": "Concept",
   "prefLabel": {
     "de": "Mowital B30H"
@@ -11,19 +11,19 @@
     "A974A4"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/B572B5",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/B572B5",
     "prefLabel": {
       "de": "Polyvinylbutyral"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/C97B35",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/C97B35",
   "type": "Concept",
   "prefLabel": {
     "de": "Revultex"
@@ -8,19 +8,19 @@
     "C97B35"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/D2G12A",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/D2G12A",
     "prefLabel": {
       "de": "Naturkautschuk"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

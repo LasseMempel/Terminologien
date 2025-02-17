@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/D941BB",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/D941BB",
   "type": "Concept",
   "prefLabel": {
     "de": "manuelle Werkzeuge"
@@ -12,128 +12,128 @@
   ],
   "narrower": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/A7B5AA",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/A7B5AA",
       "prefLabel": {
         "de": "Groom/Stick®"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/AA4F93",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/AA4F93",
       "prefLabel": {
         "de": "Textil"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/B28GC7",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/B28GC7",
       "prefLabel": {
         "de": "Zellstoff"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/A48485",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/A48485",
       "prefLabel": {
         "de": "Draht"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/CC2BBB",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/CC2BBB",
       "prefLabel": {
         "de": "Pinsel"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/CG825A",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/CG825A",
       "prefLabel": {
         "de": "Wattestäbchen"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/D11BD4",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/D11BD4",
       "prefLabel": {
         "de": "Gaze"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/D1A63D",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/D1A63D",
       "prefLabel": {
         "de": "Putzholz"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/F19194",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/F19194",
       "prefLabel": {
         "de": "Nadel"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/F91CBB",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/F91CBB",
       "prefLabel": {
         "de": "Radiergummi"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/A341F9",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/A341F9",
       "prefLabel": {
         "de": "Schwamm"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/ACB46G",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/ACB46G",
       "prefLabel": {
         "de": "Stachelschweinborste"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/C4569A",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/C4569A",
       "prefLabel": {
         "de": "Bürste"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/D1C67A",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/D1C67A",
       "prefLabel": {
         "de": "Metallschaber"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/D84847",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/D84847",
       "prefLabel": {
         "de": "Wattepads"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/F18C56",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/F18C56",
       "prefLabel": {
         "de": "Holzschaber"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/F71C33",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/F71C33",
       "prefLabel": {
         "de": "Skalpell"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/G33846",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/G33846",
       "prefLabel": {
         "de": "Acrylglasschaber"
       }
     }
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/C93638",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/C93638",
     "prefLabel": {
       "de": "Werkzeuge"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

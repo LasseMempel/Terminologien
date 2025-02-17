@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/D3AGG6",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/D3AGG6",
   "type": "Concept",
   "prefLabel": {
     "de": "visuelle Veränderung"
@@ -21,50 +21,50 @@
   ],
   "narrower": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/A8AD1G",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/A8AD1G",
       "prefLabel": {
         "de": "verdeckt"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/A4G8FA",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/A4G8FA",
       "prefLabel": {
         "de": "farbverändert"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/D8CBG2",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/D8CBG2",
       "prefLabel": {
         "de": "eingetrübt"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/FDC65D",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/FDC65D",
       "prefLabel": {
         "de": "fleckig"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/GA2C4A",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/GA2C4A",
       "prefLabel": {
         "de": "mattiert"
       }
     }
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/DAC996",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/DAC996",
     "prefLabel": {
       "de": "Schadensphänomen"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

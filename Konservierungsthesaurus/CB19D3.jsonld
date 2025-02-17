@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/CB19D3",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/CB19D3",
   "type": "Concept",
   "prefLabel": {
     "de": "Irdenware"
@@ -11,19 +11,19 @@
     "CB19D3"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/DG279C",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/DG279C",
     "prefLabel": {
       "de": "Feinkeramik"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

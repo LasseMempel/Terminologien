@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/BA73A2",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/BA73A2",
   "type": "Concept",
   "prefLabel": {
     "de": "gegossen"
@@ -17,38 +17,38 @@
   ],
   "narrower": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/B9741A",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/B9741A",
       "prefLabel": {
         "de": "Schalenguss"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/BGC8F3",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/BGC8F3",
       "prefLabel": {
         "de": "Guss in verlorener Form"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/CAB27G",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/CAB27G",
       "prefLabel": {
         "de": "Kokillen-Guss"
       }
     }
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/AGG387",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/AGG387",
     "prefLabel": {
       "de": "formgebende Technik"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

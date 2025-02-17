@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/B9741A",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/B9741A",
   "type": "Concept",
   "prefLabel": {
     "de": "Schalenguss"
@@ -8,19 +8,19 @@
     "B9741A"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/BA73A2",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/BA73A2",
     "prefLabel": {
       "de": "gegossen"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

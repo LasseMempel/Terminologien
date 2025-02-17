@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/F8DFCG",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/F8DFCG",
   "type": "Concept",
   "prefLabel": {
     "de": "Tierhaar"
@@ -18,74 +18,74 @@
   ],
   "narrower": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/A9AC1A",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/A9AC1A",
       "prefLabel": {
         "de": "Kaninchenhaar"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/AA47GG",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/AA47GG",
       "prefLabel": {
         "de": "Mohairwolle"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/B576DA",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/B576DA",
       "prefLabel": {
         "de": "Kaschmirwolle"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/BG71D3",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/BG71D3",
       "prefLabel": {
         "de": "Schweineborsten"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/CG49C6",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/CG49C6",
       "prefLabel": {
         "de": "Alpakawolle"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/D51GAA",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/D51GAA",
       "prefLabel": {
         "de": "Ziegenhaar"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/DF96G1",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/DF96G1",
       "prefLabel": {
         "de": "Wolle"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/G43GG2",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/G43GG2",
       "prefLabel": {
         "de": "Pferdehaar"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/G593G4",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/G593G4",
       "prefLabel": {
         "de": "Wildschweinborsten"
       }
     }
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/G899F5",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/G899F5",
     "prefLabel": {
       "de": "Haar"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

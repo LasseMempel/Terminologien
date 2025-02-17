@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/C3D36A",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/C3D36A",
   "type": "Concept",
   "prefLabel": {
     "de": "reduzierender Brand"
@@ -8,19 +8,19 @@
     "C3D36A"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/BGFD79",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/BGFD79",
     "prefLabel": {
       "de": "gebrannt"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

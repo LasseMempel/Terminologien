@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/ADA625",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/ADA625",
   "type": "Concept",
   "prefLabel": {
     "de": "weinendes Glas"
@@ -16,14 +16,14 @@
     "ADA625"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/C9D991",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/C9D991",
     "prefLabel": {
       "de": "chemische Veränderung"
     }
   },
   "related": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/DA2D73",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/DA2D73",
       "prefLabel": {
         "de": "Glas"
       }
@@ -31,12 +31,12 @@
   ],
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

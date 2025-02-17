@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/A255FD",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/A255FD",
   "type": "Concept",
   "prefLabel": {
     "de": "Nass <Objektzustand>"
@@ -19,7 +19,7 @@
     "A255FD"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/AG4397",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/AG4397",
     "prefLabel": {
       "de": "Feuchtigkeitsgehalt"
     }
@@ -31,12 +31,12 @@
   ],
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

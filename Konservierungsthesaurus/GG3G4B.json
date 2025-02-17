@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/GG3G4B",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/GG3G4B",
   "type": "Concept",
   "prefLabel": {
     "de": "Natriumhydroxid"
@@ -21,7 +21,7 @@
     "GG3G4B"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/A2B746",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/A2B746",
     "prefLabel": {
       "de": "Base"
     }
@@ -33,12 +33,12 @@
   ],
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

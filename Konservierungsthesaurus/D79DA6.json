@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/D79DA6",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/D79DA6",
   "type": "Concept",
   "prefLabel": {
     "de": "stabil"
@@ -16,19 +16,19 @@
     "D79DA6"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/FB6AGB",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/FB6AGB",
     "prefLabel": {
       "de": "Stabilität"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

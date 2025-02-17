@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/A8AD1G",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/A8AD1G",
   "type": "Concept",
   "prefLabel": {
     "de": "verdeckt"
@@ -17,19 +17,19 @@
     "A8AD1G"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/D3AGG6",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/D3AGG6",
     "prefLabel": {
       "de": "visuelle Veränderung"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

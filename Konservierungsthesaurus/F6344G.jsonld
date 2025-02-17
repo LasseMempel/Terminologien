@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/F6344G",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/F6344G",
   "type": "Concept",
   "prefLabel": {
     "de": "Cosmoloid H80"
@@ -11,19 +11,19 @@
     "F6344G"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/C9AFG9",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/C9AFG9",
     "prefLabel": {
       "de": "Mikrokristallines Wachs"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

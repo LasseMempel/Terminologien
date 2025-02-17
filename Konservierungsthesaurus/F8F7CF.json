@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/F8F7CF",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/F8F7CF",
   "type": "Concept",
   "prefLabel": {
     "de": "Kopieherstellung"
@@ -12,33 +12,33 @@
   ],
   "narrower": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/BAB7B1",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/BAB7B1",
       "prefLabel": {
         "de": "Galvanisieren"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/D772G6",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/D772G6",
       "prefLabel": {
         "de": "3D-Druckverfahren"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/D9F7AC",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/D9F7AC",
       "prefLabel": {
         "de": "Formausguss"
       }
     }
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/G79CAC",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/G79CAC",
     "prefLabel": {
       "de": "[Vorgehensweise]"
     }
   },
   "related": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/DAG2A8",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/DAG2A8",
       "prefLabel": {
         "de": "Abformung"
       }
@@ -46,12 +46,12 @@
   ],
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

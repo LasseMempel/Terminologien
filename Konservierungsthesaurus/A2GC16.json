@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/A2GC16",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/A2GC16",
   "type": "Concept",
   "prefLabel": {
     "de": "Galvanoform"
@@ -11,19 +11,19 @@
     "A2GC16"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/FFA16B",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/FFA16B",
     "prefLabel": {
       "de": "[Formtyp]"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

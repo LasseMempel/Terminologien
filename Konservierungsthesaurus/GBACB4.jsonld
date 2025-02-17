@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/GBACB4",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/GBACB4",
   "type": "Concept",
   "prefLabel": {
     "de": "Polimentvergoldung"
@@ -11,19 +11,19 @@
     "GBACB4"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/GG6A8B",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/GG6A8B",
     "prefLabel": {
       "de": "Blattvergoldung"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/G3D2F5",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/G3D2F5",
   "type": "Concept",
   "prefLabel": {
     "de": "korrodiert"
@@ -17,86 +17,86 @@
   ],
   "narrower": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/BCDC47",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/BCDC47",
       "prefLabel": {
         "de": "Bimetallkorrosion"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/BFDB22",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/BFDB22",
       "prefLabel": {
         "de": "Spannungsrisskorrosion"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/D68BAA",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/D68BAA",
       "prefLabel": {
         "de": "Flächenkorrosion"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/F7F2A4",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/F7F2A4",
       "prefLabel": {
         "de": "Spaltkorrosion"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/F9C118",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/F9C118",
       "prefLabel": {
         "de": "Lochkorrosion"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/G2AFC3",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/G2AFC3",
       "prefLabel": {
         "de": "interkristalline Korrosion"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/B19D33",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/B19D33",
       "prefLabel": {
         "de": "Pseudomorphose"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/GC4CA7",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/GC4CA7",
       "prefLabel": {
         "de": "Patinabildung"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/B9C457",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/B9C457",
       "prefLabel": {
         "de": "Bronzekrankheit"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/DGC3A9",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/DGC3A9",
       "prefLabel": {
         "de": "Glaskorrosion"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/CFC44A",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/CFC44A",
       "prefLabel": {
         "de": "Zinnpest"
       }
     }
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/C9D991",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/C9D991",
     "prefLabel": {
       "de": "chemische Veränderung"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

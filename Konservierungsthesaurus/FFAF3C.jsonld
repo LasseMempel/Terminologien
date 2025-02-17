@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/FFAF3C",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/FFAF3C",
   "type": "Concept",
   "prefLabel": {
     "de": "Röntgendiffraktion"
@@ -17,19 +17,19 @@
     "FFAF3C"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/G13A7B",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/G13A7B",
     "prefLabel": {
       "de": "Strukturanalyse"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

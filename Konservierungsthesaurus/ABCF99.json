@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/ABCF99",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/ABCF99",
   "type": "Concept",
   "prefLabel": {
     "de": "verblasst"
@@ -16,19 +16,19 @@
     "ABCF99"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/A4G8FA",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/A4G8FA",
     "prefLabel": {
       "de": "farbverändert"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

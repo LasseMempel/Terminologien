@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/F584FC",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/F584FC",
   "type": "Concept",
   "prefLabel": {
     "de": "Loctite"
@@ -8,19 +8,19 @@
     "F584FC"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/D9F783",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/D9F783",
     "prefLabel": {
       "de": "Cyanacrylat"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

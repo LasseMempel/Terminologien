@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/GF9C49",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/GF9C49",
   "type": "Concept",
   "prefLabel": {
     "de": "technische Geräte"
@@ -12,116 +12,116 @@
   ],
   "narrower": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/C5A318",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/C5A318",
       "prefLabel": {
         "de": "Ultraschallgerät"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/C4C6B6",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/C4C6B6",
       "prefLabel": {
         "de": "Schleifkörper"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/C2112G",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/C2112G",
       "prefLabel": {
         "de": "Gefriertrocknungsanlage"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/C9G1B6",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/C9G1B6",
       "prefLabel": {
         "de": "Airbrush-System"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/DAC482",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/DAC482",
       "prefLabel": {
         "de": "Lötvorrichtung"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/C99F9G",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/C99F9G",
       "prefLabel": {
         "de": "Plasmaanlage"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/FA9542",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/FA9542",
       "prefLabel": {
         "de": "Schmelzofen"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/FG9C55",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/FG9C55",
       "prefLabel": {
         "de": "Exsikkator"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/GF3586",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/GF3586",
       "prefLabel": {
         "de": "Druckluft"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/A4G4G1",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/A4G4G1",
       "prefLabel": {
         "de": "Heißluftföhn"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/D7GGGG",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/D7GGGG",
       "prefLabel": {
         "de": "Wärmeschrank"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/F8323G",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/F8323G",
       "prefLabel": {
         "de": "industrielle Mikrowellenkammer"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/BBB987",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/BBB987",
       "prefLabel": {
         "de": "Absauganlage"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/C871CB",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/C871CB",
       "prefLabel": {
         "de": "Ultraschallfeinmeißel"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/G487C2",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/G487C2",
       "prefLabel": {
         "de": "Feinstrahlgerät"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/D8G747",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/D8G747",
       "prefLabel": {
         "de": "Mikromotor"
       }
     }
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/C93638",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/C93638",
     "prefLabel": {
       "de": "Werkzeuge"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

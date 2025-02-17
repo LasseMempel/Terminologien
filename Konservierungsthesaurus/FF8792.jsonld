@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/FF8792",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/FF8792",
   "type": "Concept",
   "prefLabel": {
     "de": "Trockenreinigung"
@@ -20,7 +20,7 @@
     "FF8792"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/CDD613",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/CDD613",
     "prefLabel": {
       "de": "Reinigung"
     }
@@ -32,12 +32,12 @@
   ],
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/FGBB8G",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/FGBB8G",
   "type": "Concept",
   "prefLabel": {
     "de": "Naturseide"
@@ -8,19 +8,19 @@
     "FGBB8G"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/BGGCA4",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/BGGCA4",
     "prefLabel": {
       "de": "Verstärkungsfaser"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

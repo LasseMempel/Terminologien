@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/BBF7BG",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/BBF7BG",
   "type": "Concept",
   "prefLabel": {
     "de": "Demineralisiertes Wasser"
@@ -17,7 +17,7 @@
     "BBF7BG"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/DFD1B7",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/DFD1B7",
     "prefLabel": {
       "de": "Wasser"
     }
@@ -29,12 +29,12 @@
   ],
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

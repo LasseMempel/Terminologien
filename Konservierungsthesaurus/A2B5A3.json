@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/A2B5A3",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/A2B5A3",
   "type": "Concept",
   "prefLabel": {
     "de": "konventionelle Radiographie"
@@ -16,14 +16,14 @@
     "A2B5A3"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/FB231A",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/FB231A",
     "prefLabel": {
       "de": "Röntgenuntersuchung"
     }
   },
   "related": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/G8D62A",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/G8D62A",
       "prefLabel": {
         "de": "konventionelles Röntgengerät"
       }
@@ -31,12 +31,12 @@
   ],
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

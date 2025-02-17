@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/D39191",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/D39191",
   "type": "Concept",
   "prefLabel": {
     "de": "ringporiges Laubholz"
@@ -12,38 +12,38 @@
   ],
   "narrower": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/DBG8AD",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/DBG8AD",
       "prefLabel": {
         "de": "Eschenholz"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/FG3BCD",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/FG3BCD",
       "prefLabel": {
         "de": "Eichenholz"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/G2C131",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/G2C131",
       "prefLabel": {
         "de": "Ulmenholz"
       }
     }
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/B7DD6B",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/B7DD6B",
     "prefLabel": {
       "de": "Laubholz"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

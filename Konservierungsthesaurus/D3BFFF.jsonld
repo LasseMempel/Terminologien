@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/D3BFFF",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/D3BFFF",
   "type": "Concept",
   "prefLabel": {
     "de": "Rasterelektronenmikroskopie"
@@ -20,14 +20,14 @@
     "D3BFFF"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/G13A7B",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/G13A7B",
     "prefLabel": {
       "de": "Strukturanalyse"
     }
   },
   "related": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/B764C6",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/B764C6",
       "prefLabel": {
         "de": "Rasterelektronenmikroskop"
       }
@@ -35,12 +35,12 @@
   ],
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

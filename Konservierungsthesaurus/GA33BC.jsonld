@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/GA33BC",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/GA33BC",
   "type": "Concept",
   "prefLabel": {
     "de": "Salzsäure"
@@ -19,7 +19,7 @@
     "GA33BC"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/FGF575",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/FGF575",
     "prefLabel": {
       "de": "Säure"
     }
@@ -31,12 +31,12 @@
   ],
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

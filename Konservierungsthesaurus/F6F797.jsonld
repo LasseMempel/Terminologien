@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/F6F797",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/F6F797",
   "type": "Concept",
   "prefLabel": {
     "de": "Seide"
@@ -12,32 +12,32 @@
   ],
   "narrower": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/G16647",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/G16647",
       "prefLabel": {
         "de": "Tussahseide"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/G21F5B",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/G21F5B",
       "prefLabel": {
         "de": "Muschelseide"
       }
     }
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/AB4988",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/AB4988",
     "prefLabel": {
       "de": "Fasern tierischen Ursprungs"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

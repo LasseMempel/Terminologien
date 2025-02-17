@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/C1G6C8",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/C1G6C8",
   "type": "Concept",
   "prefLabel": {
     "de": "Blattsilber"
@@ -8,19 +8,19 @@
     "C1G6C8"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/AFD671",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/AFD671",
     "prefLabel": {
       "de": "Farbstoff"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

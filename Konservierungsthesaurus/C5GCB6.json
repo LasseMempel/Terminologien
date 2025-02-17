@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/C5GCB6",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/C5GCB6",
   "type": "Concept",
   "prefLabel": {
     "de": "zerfressen"
@@ -16,19 +16,19 @@
     "C5GCB6"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/C188DA",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/C188DA",
     "prefLabel": {
       "de": "Substanzverlust"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/B572B5",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/B572B5",
   "type": "Concept",
   "prefLabel": {
     "de": "Polyvinylbutyral"
@@ -17,45 +17,45 @@
   ],
   "narrower": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/A974A4",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/A974A4",
       "prefLabel": {
         "de": "Mowital B30H"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/F97896",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/F97896",
       "prefLabel": {
         "de": "Mowital B60H"
       }
     }
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/A1D125",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/A1D125",
     "prefLabel": {
       "de": "synthetisches Polymer"
     }
   },
   "related": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/B26D29",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/B26D29",
       "prefLabel": {
         "de": "temporäre Stabilisierung"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/DA9CGG",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/DA9CGG",
       "prefLabel": {
         "de": "Festigung"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/A9FF5A",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/A9FF5A",
       "prefLabel": {
         "de": "Tränkung"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/A31C7C",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/A31C7C",
       "prefLabel": {
         "de": "Verstärkung"
       }
@@ -63,12 +63,12 @@
   ],
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

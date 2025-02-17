@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/FG3BCD",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/FG3BCD",
   "type": "Concept",
   "prefLabel": {
     "de": "Eichenholz"
@@ -19,7 +19,7 @@
     "FG3BCD"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/D39191",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/D39191",
     "prefLabel": {
       "de": "ringporiges Laubholz"
     }
@@ -34,12 +34,12 @@
   ],
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

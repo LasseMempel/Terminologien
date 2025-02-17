@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/D7A4BC",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/D7A4BC",
   "type": "Concept",
   "prefLabel": {
     "de": "Fett"
@@ -12,32 +12,32 @@
   ],
   "narrower": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/AF1328",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/AF1328",
       "prefLabel": {
         "de": "Stearin"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/D81175",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/D81175",
       "prefLabel": {
         "de": "Vaseline"
       }
     }
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/FBFFF5",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/FBFFF5",
     "prefLabel": {
       "de": "[Abform- und Ergänzungsmaterial]"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/BGGCA4",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/BGGCA4",
   "type": "Concept",
   "prefLabel": {
     "de": "Verstärkungsfaser"
@@ -17,45 +17,45 @@
   ],
   "narrower": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/A8272G",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/A8272G",
       "prefLabel": {
         "de": "Japanpapier"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/CD477D",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/CD477D",
       "prefLabel": {
         "de": "Kohlefaser"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/F61BGA",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/F61BGA",
       "prefLabel": {
         "de": "Glasfasergewebe"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/FGBB8G",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/FGBB8G",
       "prefLabel": {
         "de": "Naturseide"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/GF1639",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/GF1639",
       "prefLabel": {
         "de": "Goldschlägerhaut"
       }
     }
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/C364G1",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/C364G1",
     "prefLabel": {
       "de": "Konservierungs- und Restaurierungsmaterialien"
     }
   },
   "related": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/A31C7C",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/A31C7C",
       "prefLabel": {
         "de": "Verstärkung"
       }
@@ -63,12 +63,12 @@
   ],
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

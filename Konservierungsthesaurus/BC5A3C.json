@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/BC5A3C",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/BC5A3C",
   "type": "Concept",
   "prefLabel": {
     "de": "Saphir"
@@ -11,19 +11,19 @@
     "BC5A3C"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/AD3B58",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/AD3B58",
     "prefLabel": {
       "de": "Korund"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

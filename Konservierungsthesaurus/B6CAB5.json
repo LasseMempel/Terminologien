@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/B6CAB5",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/B6CAB5",
   "type": "Concept",
   "prefLabel": {
     "de": "Kauramin® Tränkharz 801"
@@ -8,19 +8,19 @@
     "B6CAB5"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/DF633G",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/DF633G",
     "prefLabel": {
       "de": "Melamin-Formaldehydharz"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

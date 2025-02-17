@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/F2A45F",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/F2A45F",
   "type": "Concept",
   "prefLabel": {
     "de": "Materialien tierischen Ursprungs"
@@ -12,20 +12,20 @@
   ],
   "narrower": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/FCF757",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/FCF757",
       "prefLabel": {
         "de": "Tierhaut"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/AB4988",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/AB4988",
       "prefLabel": {
         "de": "Fasern tierischen Ursprungs"
       }
     }
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/CD3341",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/CD3341",
     "prefLabel": {
       "de": "organisches Material"
     }
@@ -37,12 +37,12 @@
   ],
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

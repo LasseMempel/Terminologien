@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/A9611D",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/A9611D",
   "type": "Concept",
   "prefLabel": {
     "de": "Durchlichtmikroskop"
@@ -16,19 +16,19 @@
     "A9611D"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/FC2113",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/FC2113",
     "prefLabel": {
       "de": "Lichtmikroskop"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

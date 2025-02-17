@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/GBC8AC",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/GBC8AC",
   "type": "Concept",
   "prefLabel": {
     "de": "Zitronensäure"
@@ -16,7 +16,7 @@
     "GBC8AC"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/FGF575",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/FGF575",
     "prefLabel": {
       "de": "Säure"
     }
@@ -28,12 +28,12 @@
   ],
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/CDD613",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/CDD613",
   "type": "Concept",
   "prefLabel": {
     "de": "Reinigung"
@@ -20,57 +20,57 @@
   ],
   "narrower": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/A194CF",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/A194CF",
       "prefLabel": {
         "de": "Nassreinigung"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/C3733A",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/C3733A",
       "prefLabel": {
         "de": "Feuchtreinigung"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/FF8792",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/FF8792",
       "prefLabel": {
         "de": "Trockenreinigung"
       }
     }
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/C79561",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/C79561",
     "prefLabel": {
       "de": "Restaurierungsmethode"
     }
   },
   "related": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/CC2BBB",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/CC2BBB",
       "prefLabel": {
         "de": "Pinsel"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/A341F9",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/A341F9",
       "prefLabel": {
         "de": "Schwamm"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/C4569A",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/C4569A",
       "prefLabel": {
         "de": "Bürste"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/D84847",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/D84847",
       "prefLabel": {
         "de": "Wattepads"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/G814D2",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/G814D2",
       "prefLabel": {
         "de": "Freilegung"
       }
@@ -83,12 +83,12 @@
   ],
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

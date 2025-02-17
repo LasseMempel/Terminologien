@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/F285B2",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/F285B2",
   "type": "Concept",
   "prefLabel": {
     "de": "Risikomanagement"
@@ -8,19 +8,19 @@
     "F285B2"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/F5G576",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/F5G576",
     "prefLabel": {
       "de": "präventive Konservierung"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/BC5B57",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/BC5B57",
   "type": "Concept",
   "prefLabel": {
     "de": "[Untersuchungsergebnisse]"
@@ -20,33 +20,33 @@
   ],
   "narrower": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/F964CG",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/F964CG",
       "prefLabel": {
         "de": "Schadensursache"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/GDF8C2",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/GDF8C2",
       "prefLabel": {
         "de": "Physischer Zustand"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/DAC996",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/DAC996",
       "prefLabel": {
         "de": "Schadensphänomen"
       }
     }
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/CA1BC5",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/CA1BC5",
     "prefLabel": {
       "de": "Objektuntersuchung"
     }
   },
   "related": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/D9G51G",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/D9G51G",
       "prefLabel": {
         "de": "Erhaltungszustand"
       }
@@ -59,12 +59,12 @@
   ],
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

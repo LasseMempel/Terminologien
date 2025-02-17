@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/F3G8D1",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/F3G8D1",
   "type": "Concept",
   "prefLabel": {
     "de": "Materialien pflanzlichen Ursprungs"
@@ -12,26 +12,26 @@
   ],
   "narrower": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/DD9C25",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/DD9C25",
       "prefLabel": {
         "de": "pflanzliche Fasern"
       }
     }
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/CD3341",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/CD3341",
     "prefLabel": {
       "de": "organisches Material"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

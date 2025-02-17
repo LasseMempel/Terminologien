@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/C6GB1C",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/C6GB1C",
   "type": "Concept",
   "prefLabel": {
     "de": "Veränderung"
@@ -17,44 +17,44 @@
   ],
   "narrower": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/A5D63G",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/A5D63G",
       "prefLabel": {
         "de": "altrestauriert"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/C77G9C",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/C77G9C",
       "prefLabel": {
         "de": "gealtert"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/CC2F9C",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/CC2F9C",
       "prefLabel": {
         "de": "historische Beschädigung"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/G43DBC",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/G43DBC",
       "prefLabel": {
         "de": "beschädigt"
       }
     }
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/GDF8C2",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/GDF8C2",
     "prefLabel": {
       "de": "Physischer Zustand"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

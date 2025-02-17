@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/D9G356",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/D9G356",
   "type": "Concept",
   "prefLabel": {
     "de": "[Stütz- und Verpackungsmaterial]"
@@ -12,75 +12,75 @@
   ],
   "narrower": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/A33F4B",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/A33F4B",
       "prefLabel": {
         "de": "Seidenpapier"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/BB8D78",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/BB8D78",
       "prefLabel": {
         "de": "Polycarbonat"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/F91427",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/F91427",
       "prefLabel": {
         "de": "Polyethylen-Schaum"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/F8ADGD",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/F8ADGD",
       "prefLabel": {
         "de": "Folie"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/CBBF13",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/CBBF13",
       "prefLabel": {
         "de": "Styrodur"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/CCB66C",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/CCB66C",
       "prefLabel": {
         "de": "Styropor"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/DAG754",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/DAG754",
       "prefLabel": {
         "de": "Kartonage"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/DD3858",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/DD3858",
       "prefLabel": {
         "de": "Acrylglas"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/F432G4",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/F432G4",
       "prefLabel": {
         "de": "Tyvek"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/GDB246",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/GDB246",
       "prefLabel": {
         "de": "Adsorbens"
       }
     }
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/C364G1",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/C364G1",
     "prefLabel": {
       "de": "Konservierungs- und Restaurierungsmaterialien"
     }
   },
   "related": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/AC16G1",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/AC16G1",
       "prefLabel": {
         "de": "Verpacken"
       }
@@ -88,12 +88,12 @@
   ],
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

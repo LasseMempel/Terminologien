@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/A6D8BF",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/A6D8BF",
   "type": "Concept",
   "prefLabel": {
     "de": "Zinnbronze"
@@ -11,19 +11,19 @@
     "A6D8BF"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/BF7D14",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/BF7D14",
     "prefLabel": {
       "de": "Bronze"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

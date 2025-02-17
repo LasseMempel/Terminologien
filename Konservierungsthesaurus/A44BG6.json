@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/A44BG6",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/A44BG6",
   "type": "Concept",
   "prefLabel": {
     "de": "Silikonkautschuk"
@@ -17,32 +17,32 @@
   ],
   "narrower": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/GD9CA3",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/GD9CA3",
       "prefLabel": {
         "de": "kondensationsvernetzender Silikonkautschuk"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/DA841D",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/DA841D",
       "prefLabel": {
         "de": "additionsvernetzender Silikonkautschuk"
       }
     }
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/FBFFF5",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/FBFFF5",
     "prefLabel": {
       "de": "[Abform- und Ergänzungsmaterial]"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

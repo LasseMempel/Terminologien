@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/DD9C25",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/DD9C25",
   "type": "Concept",
   "prefLabel": {
     "de": "pflanzliche Fasern"
@@ -20,62 +20,62 @@
   ],
   "narrower": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/A2159C",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/A2159C",
       "prefLabel": {
         "de": "Bast"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/A5G856",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/A5G856",
       "prefLabel": {
         "de": "Baumwolle"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/AG4634",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/AG4634",
       "prefLabel": {
         "de": "Jute"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/C3AF5A",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/C3AF5A",
       "prefLabel": {
         "de": "Hanf"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/D53ADA",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/D53ADA",
       "prefLabel": {
         "de": "Papyrus"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/G8533D",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/G8533D",
       "prefLabel": {
         "de": "Kapok"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/BC685F",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/BC685F",
       "prefLabel": {
         "de": "Flachs"
       }
     }
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/F3G8D1",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/F3G8D1",
     "prefLabel": {
       "de": "Materialien pflanzlichen Ursprungs"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

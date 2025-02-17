@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/G899F5",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/G899F5",
   "type": "Concept",
   "prefLabel": {
     "de": "Haar"
@@ -17,20 +17,20 @@
   ],
   "narrower": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/F8DFCG",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/F8DFCG",
       "prefLabel": {
         "de": "Tierhaar"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/AA992C",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/AA992C",
       "prefLabel": {
         "de": "Menschenhaar"
       }
     }
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/AB4988",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/AB4988",
     "prefLabel": {
       "de": "Fasern tierischen Ursprungs"
     }
@@ -42,12 +42,12 @@
   ],
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

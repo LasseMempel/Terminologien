@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/FCF757",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/FCF757",
   "type": "Concept",
   "prefLabel": {
     "de": "Tierhaut"
@@ -12,32 +12,32 @@
   ],
   "narrower": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/B9C731",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/B9C731",
       "prefLabel": {
         "de": "Pergament"
       }
     },
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/D73F9B",
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/D73F9B",
       "prefLabel": {
         "de": "Leder"
       }
     }
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/F2A45F",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/F2A45F",
     "prefLabel": {
       "de": "Materialien tierischen Ursprungs"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/FB5C1F",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/FB5C1F",
   "type": "Concept",
   "prefLabel": {
     "de": "Fensteremail"
@@ -11,19 +11,19 @@
     "FB5C1F"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/B14C4A",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/B14C4A",
     "prefLabel": {
       "de": "emailliert"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {

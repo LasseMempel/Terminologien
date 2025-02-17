@@ -1,5 +1,5 @@
 {
-  "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/GAD71G",
+  "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/GAD71G",
   "type": "Concept",
   "prefLabel": {
     "de": "unvollständig"
@@ -11,19 +11,19 @@
     "GAD71G"
   ],
   "broader": {
-    "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus/CAB799",
+    "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus/CAB799",
     "prefLabel": {
       "de": "Vollständigkeit"
     }
   },
   "inScheme": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://lassemempel.github.io/Terminologien//Konservierungsthesaurus"
+      "id": "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus"
     }
   ],
   "@context": {
