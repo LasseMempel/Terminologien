@@ -17,29 +17,29 @@ parentDfColumns = ["id","navisid","de","en","dk","nl","fr","it","es","pl","gr","
 dfColumns = ["id","navisid","fk_id_parent","de","en","es","it","nl","dk","gr","fr","pl","he","desc_en","desc_de","origindesc","gettyaat","gettyaatrelationtype","wikidata","wikidatarelationtype"]
 
 g = Graph()
-g.add((thesaurusAddendum, RDF.type, SKOS.ConceptScheme))
-g.add((thesaurusAddendum, DC.title, Literal("NAVISone", lang="de")))
-g.add((thesaurusAddendum, DC.description, Literal("NAVISone ist ein Thesaurus über Schiffsbegriffe", lang="de")))
-g.add((thesaurusAddendum, DC.creator, Literal("Florian Thiery")))
+g.add((thesaurus, RDF.type, SKOS.ConceptScheme))
+g.add((thesaurus, DC.title, Literal("NAVISone", lang="de")))
+g.add((thesaurus, DC.description, Literal("NAVISone ist ein Thesaurus über Schiffsbegriffe", lang="de")))
+g.add((thesaurus, DC.creator, Literal("Florian Thiery")))
 
 for index, row in parentDf.iterrows():
-    concept = URIRef(baseUri + str(row["id"]))
+    concept = URIRef(thesaurusAddendum + str(row["id"]))
     g.add((concept, RDF.type, SKOS.Concept))
     for language in parentDfColumns[2:]:
         if not pd.isnull(row[language]):
             g.add((concept, SKOS.prefLabel, Literal(row[language], lang=language)))
-    g.add((concept, SKOS.inScheme, thesaurusAddendum))
+    g.add((concept, SKOS.inScheme, thesaurus))
     # top concept
-    g.add((concept, SKOS.topConceptOf, thesaurusAddendum))
-    g.add((thesaurusAddendum, SKOS.hasTopConcept, concept))
+    g.add((concept, SKOS.topConceptOf, thesaurus))
+    g.add((thesaurus, SKOS.hasTopConcept, concept))
     # iterate over all rows in df where fk_id_parent == id
     for index2, row2 in df[df["fk_id_parent"] == row["id"]].iterrows():
-        concept2 = URIRef(baseUri + str(row2["id"]))
+        concept2 = URIRef(thesaurusAddendum + str(row2["id"]))
         g.add((concept2, RDF.type, SKOS.Concept))
         for language in dfColumns[3:12]:
             if not pd.isnull(row2[language]):
                 g.add((concept2, SKOS.prefLabel, Literal(row2[language], lang=language)))
-        g.add((concept2, SKOS.inScheme, thesaurusAddendum))
+        g.add((concept2, SKOS.inScheme, thesaurus))
         g.add((concept, SKOS.narrower, concept2))
         g.add((concept2, SKOS.broader, concept))
         # add relations
