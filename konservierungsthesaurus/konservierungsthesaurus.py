@@ -53,7 +53,7 @@ def df2Skos(df, baseLanguageLabel, baseUri, seperator):
 
     extendedTuples = [
         ("source", DC.source, Literal, False),
-        ("creator", DC.creator, Literal, False),
+        #("creator", DC.creator, Literal, False),
         ("seeAlso", RDFS.seeAlso, Literal, False),
         ("translation", SKOS.altLabel, Literal, True)
     ]
@@ -64,16 +64,36 @@ def df2Skos(df, baseLanguageLabel, baseUri, seperator):
 
     g.add ((thesaurus, RDF.type, SKOS.ConceptScheme))
     g.add ((thesaurus, DC.title, Literal("Konservierungs- und Restaurierungsfachthesaurus für archäologische Kulturgüter", lang=baseLanguageLabel)))
-    g.add ((thesaurus, DC.description, Literal("Der Konservierungs- und Restaurierungsfachthesaurus für archäologische Kulturgüter des LEIZA", lang=baseLanguageLabel)))
-    g.add ((thesaurus, DC.creator, Literal("LEIZA", lang=baseLanguageLabel)))
-    g.add ((thesaurus, DCTERMS.publisher, Literal("LEIZA")))
+    g.add ((thesaurus, DC.description, Literal("Der Fachthesaurus umfasst eine Vielzahl von deutschen und englischen Begriffen, die für die Zustandserfassung und die Beschreibung von Konservierungs- und Restaurierungsmaßnahmen archäologischer Kulturgüter relevant sind. Dazu gehören auch die Bezeichnungen der benötigten Materialien und Werkzeuge sowie die beschreibenden Begriffe für technologische Auswertungen hinsichtlich der Herstellungstechnik und des Gebrauchs der Objekte.  Dieser Thesaurus ist eine umfassende Sammlung der in der Praxis verwendeten Terminologie zur Beschreibung der durchgeführten Konservierungs- und Restaurierungsprozesse, wie sie im Kompetenzbereich “Restaurierung, Konservierung und Materialanalytik” am Leibniz-Zentrum für Archäologie (LEIZA) verwendet wird.", lang=baseLanguageLabel)))
+    g.add ((thesaurus, DC.creator, Literal("Kristina Fella")))
+    g.add ((thesaurus, DCTERMS.publisher, Literal("Leibniz-Zentrum für Archäologie (LEIZA)")))
     g.add ((thesaurus, DCTERMS.license, URIRef("https://creativecommons.org/licenses/by/4.0/")))
     g.add ((thesaurus, DCTERMS.rights, Literal("CC BY 4.0")))
-    g.add ((thesaurus, DCTERMS.contributor, Literal("Kristina Fella")))
-    g.add ((thesaurus, DCTERMS.contributor, Literal("Lasse Mempel-Länger")))
-    g.add ((thesaurus, DCTERMS.subject, Literal("Konservierung", lang=baseLanguageLabel)))
-    g.add ((thesaurus, DCTERMS.subject, Literal("Restaurierung", lang=baseLanguageLabel)))
-    g.add ((thesaurus, DCTERMS.subject, Literal("Archäologie", lang=baseLanguageLabel)))
+
+    contributors = ["Kristina Fella", 
+                    "Lasse Mempel-Länger", 
+                    "Waldemar Muskalla", 
+                    "Dr. Ingrid Stelzner", 
+                    "Matthias Heinzel"
+                    "Christian Eckmann",
+                    "Heidrun Hochgesand",
+                    "Katja Broschat",
+                    "Leslie Pluntke",
+                    "Markus Wittköpper",
+                    "Marlene Schmucker",
+                    "Dr. Roland Schwab",
+                    "Rüdiger Lehnert",
+                    "Ulrike Lehnert",
+                    "Stephan Patscher",
+                    "Lena Klar"
+                    ]
+    for contributor in contributors:
+        g.add ((thesaurus, DCTERMS.contributor, Literal(contributor)))
+
+    subjects = ["Konservierung", "Restaurierung", "Archäologie"]
+
+    for subject in subjects:
+        g.add ((thesaurus, DCTERMS.subject, Literal(subject, lang=baseLanguageLabel)))
 
     for index, row in df.iterrows():
         if row["prefLabel"] and isinstance(row["prefLabel"], str) and row["notation"] and isinstance(row["notation"], str):
@@ -110,7 +130,7 @@ def main(link, baseLanguageLabel, propertyMatchDict, seperator):
 
 link = "https://docs.google.com/spreadsheets/d/e/2PACX-1vQCho2k88nLWrNSXj4Mgj_MwER5GQ9zbZ0OsO3X_QPa9s-3UkoeLLQHuNHoFMKqCFjWMMprKVHMZzOj/pub?gid=0&single=true&output=csv"
 baseLanguageLabel = "de"
-baseUri = "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus" #"http://data.archaeology.link/terminology/archeologicalconservation"
+baseUri = "https://www.lassemempel.github.io/Terminologien/Konservierungsthesaurus" # "http://data.archaeology.link/terminology/archeologicalconservation"
 
 # dictionary to map divergent column names in the csv to the SKOS properties
 propertyMatchDict = {"identifier":"notation","description":"definition","parent":"broader"}

@@ -11,7 +11,6 @@ parentDf = pd.read_csv("parent.csv")
 
 baseUri = "https://www.lassemempel.github.io/Terminologien/NAVISone"
 
-
 parentDfColumns = ["id","navisid","de","en","dk","nl","fr","it","es","pl","gr","he"]
 
 dfColumns = ["id","navisid","fk_id_parent","de","en","es","it","nl","dk","gr","fr","pl","he","desc_en","desc_de","origindesc","gettyaat","gettyaatrelationtype","wikidata","wikidatarelationtype"]
@@ -22,12 +21,13 @@ pythonScript = URIRef("https://github.com/LasseMempel/Terminologien/blob/main/na
 thesaurusCreation = BNode() # URIRef("https://github.com/LasseMempel/Terminologien/blob/main/navisOne/") #
 thesaurus = URIRef(baseUri)
 
+g.add((thesaurusCreation, PROV.wasAssociatedWith, pythonScript))
+g.add((thesaurusCreation, PROV.startedAtTime, Literal(datetime.datetime.now(), datatype=XSD.dateTime)))
+
 g.add((pythonScript, RDF.type, PROV.SoftwareAgent))
 g.add((thesaurusCreation, RDF.type, PROV.Activity))
 g.add((thesaurus, RDF.type, PROV.Entity))
 
-g.add((thesaurusCreation, PROV.wasAssociatedWith, pythonScript))
-g.add((thesaurusCreation, PROV.startedAtTime, Literal(datetime.datetime.now(), datatype=XSD.dateTime)))
 g.add((thesaurus, PROV.wasGeneratedBy, thesaurusCreation))
 g.add((thesaurus, PROV.wasAttributedTo, pythonScript))
 
