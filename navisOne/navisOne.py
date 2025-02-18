@@ -19,20 +19,24 @@ dfColumns = ["id","navisid","fk_id_parent","de","en","es","it","nl","dk","gr","f
 g = Graph()
 
 pythonScript = URIRef("https://github.com/LasseMempel/Terminologien/blob/main/navisOne/navisOne.py")
-thesaurusCreation = URIRef("https://github.com/LasseMempel/Terminologien/blob/main/navisOne/") # BNode()
+thesaurusCreation = BNode() # URIRef("https://github.com/LasseMempel/Terminologien/blob/main/navisOne/") #
+thesaurus = URIRef(baseUri)
+
 g.add((pythonScript, RDF.type, PROV.SoftwareAgent))
 g.add((thesaurusCreation, RDF.type, PROV.Activity))
-g.add((thesaurusCreation, PROV.used, pythonScript))
-g.add((thesaurusCreation, PROV.startedAtTime, Literal(datetime.datetime.now(), datatype=XSD.dateTime)))
+g.add((thesaurus, RDF.type, PROV.Entity))
 
-thesaurus = URIRef(baseUri)
-thesaurusAddendum = URIRef(baseUri + "/")
+g.add((thesaurusCreation, PROV.wasAssociatedWith, pythonScript))
+g.add((thesaurusCreation, PROV.startedAtTime, Literal(datetime.datetime.now(), datatype=XSD.dateTime)))
+g.add((thesaurus, PROV.wasGeneratedBy, thesaurusCreation))
+g.add((thesaurus, PROV.wasAttributedTo, pythonScript))
+
 g.add((thesaurus, RDF.type, SKOS.ConceptScheme))
 g.add((thesaurus, DC.title, Literal("NAVIS.one Maritime Thesaurus", lang="en")))
 g.add((thesaurus, DC.description, Literal("NAVIS.one deals with nautic terms", lang="en")))
 g.add((thesaurus, DC.creator, Literal("Florian Thiery")))
-g.add((thesaurus, RDF.type, PROV.Entity))
-g.add((thesaurus, PROV.wasGeneratedBy, pythonScript))
+
+thesaurusAddendum = URIRef(baseUri + "/")
 
 for index, row in parentDf.iterrows():
     concept = URIRef(thesaurusAddendum + str(row["id"]))
