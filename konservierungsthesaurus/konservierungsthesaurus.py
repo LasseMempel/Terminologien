@@ -55,7 +55,7 @@ def df2Skos(df, baseLanguageLabel, baseUri, seperator):
         ("source", DC.source, Literal, False),
         ("creator", DC.creator, Literal, False),
         ("seeAlso", RDFS.seeAlso, Literal, False),
-        ("translation", SKOS.prefLabel, Literal, True)
+        ("translation", SKOS.altLabel, Literal, True)
     ]
 
     g = Graph()
