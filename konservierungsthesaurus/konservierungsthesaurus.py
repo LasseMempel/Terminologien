@@ -55,7 +55,7 @@ def df2Skos(df, baseLanguageLabel, baseUri, seperator):
         ("source", DC.source, Literal, False),
         ("creator", DC.creator, Literal, False),
         ("seeAlso", RDFS.seeAlso, Literal, False),
-        ("translation", SKOS.altLabel, Literal, True)
+        ("translation", SKOS.prefLabel, Literal, True)
     ]
 
     g = Graph()
@@ -63,8 +63,17 @@ def df2Skos(df, baseLanguageLabel, baseUri, seperator):
     thesaurusAddendum = URIRef(thesaurus + "/")
 
     g.add ((thesaurus, RDF.type, SKOS.ConceptScheme))
-    g.add ((thesaurus, DC.title, Literal("Leiza Restaurierungs- und Konservierungsthesaurus", lang=baseLanguageLabel)))
-    g.add ((thesaurus, DC.description, Literal("Leiza Restaurierungs- und Konservierungsthesaurus für archäologische Kulturgüter", lang=baseLanguageLabel)))
+    g.add ((thesaurus, DC.title, Literal("Konservierungs- und Restaurierungsfachthesaurus für archäologische Kulturgüter", lang=baseLanguageLabel)))
+    g.add ((thesaurus, DC.description, Literal("Der Konservierungs- und Restaurierungsfachthesaurus für archäologische Kulturgüter des LEIZA", lang=baseLanguageLabel)))
+    g.add ((thesaurus, DC.creator, Literal("LEIZA", lang=baseLanguageLabel)))
+    g.add ((thesaurus, DCTERMS.publisher, Literal("LEIZA")))
+    g.add ((thesaurus, DCTERMS.license, URIRef("https://creativecommons.org/licenses/by/4.0/")))
+    g.add ((thesaurus, DCTERMS.rights, Literal("CC BY 4.0")))
+    g.add ((thesaurus, DCTERMS.contributor, Literal("Kristina Fella")))
+    g.add ((thesaurus, DCTERMS.contributor, Literal("Lasse Mempel-Länger")))
+    g.add ((thesaurus, DCTERMS.subject, Literal("Konservierung", lang=baseLanguageLabel)))
+    g.add ((thesaurus, DCTERMS.subject, Literal("Restaurierung", lang=baseLanguageLabel)))
+    g.add ((thesaurus, DCTERMS.subject, Literal("Archäologie", lang=baseLanguageLabel)))
 
     for index, row in df.iterrows():
         if row["prefLabel"] and isinstance(row["prefLabel"], str) and row["notation"] and isinstance(row["notation"], str):
@@ -75,8 +84,10 @@ def df2Skos(df, baseLanguageLabel, baseUri, seperator):
                 if prop in df.columns:
                     if not isinstance(row[prop], float):
                         if seperator in row[prop]:
-                            for i in row[prop].split(seperator):
-                                g = row2Triple(i, g, concept, pred, obj, isLang, baseLanguageLabel, thesaurusAddendum, thesaurus)
+                            seperated = row[prop].split(seperator)
+                            langs = [x.split("@") for x in seperated]
+                            for i in range(len(seperated)):
+                                g = row2Triple(seperated[i], g, concept, pred, obj, isLang, baseLanguageLabel, thesaurusAddendum, thesaurus)
                         else:
                             g = row2Triple(row[prop], g, concept, pred, obj, isLang, baseLanguageLabel, thesaurusAddendum, thesaurus)
             g.add ((concept, SKOS.inScheme, thesaurus))

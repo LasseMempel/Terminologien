@@ -1,26 +1,38 @@
 import requests
 import pandas as pd
 import urllib.parse
-from rdflib import Graph, URIRef, BNode, Literal, Namespace
-from rdflib.namespace import SKOS, RDF, DC, DCTERMS, RDFS
+import datetime
+from rdflib import Graph, URIRef, BNode, Literal, Namespace, XSD
+from rdflib.namespace import SKOS, RDF, DC, PROV
 
 df = pd.read_csv("items.csv")
 parentDf = pd.read_csv("parent.csv")
 #print(df)
 
 baseUri = "https://www.lassemempel.github.io/Terminologien/NAVISone"
-thesaurus = URIRef(baseUri)
-thesaurusAddendum = URIRef(baseUri + "/")
+
 
 parentDfColumns = ["id","navisid","de","en","dk","nl","fr","it","es","pl","gr","he"]
 
 dfColumns = ["id","navisid","fk_id_parent","de","en","es","it","nl","dk","gr","fr","pl","he","desc_en","desc_de","origindesc","gettyaat","gettyaatrelationtype","wikidata","wikidatarelationtype"]
 
 g = Graph()
+
+pythonScript = URIRef("https://github.com/LasseMempel/Terminologien/blob/main/navisOne/navisOne.py")
+thesaurusCreation = URIRef("https://github.com/LasseMempel/Terminologien/blob/main/navisOne/") # BNode()
+g.add((pythonScript, RDF.type, PROV.SoftwareAgent))
+g.add((thesaurusCreation, RDF.type, PROV.Activity))
+g.add((thesaurusCreation, PROV.used, pythonScript))
+g.add((thesaurusCreation, PROV.startedAtTime, Literal(datetime.datetime.now(), datatype=XSD.dateTime)))
+
+thesaurus = URIRef(baseUri)
+thesaurusAddendum = URIRef(baseUri + "/")
 g.add((thesaurus, RDF.type, SKOS.ConceptScheme))
 g.add((thesaurus, DC.title, Literal("NAVISone", lang="de")))
 g.add((thesaurus, DC.description, Literal("NAVISone ist ein Thesaurus über Schiffsbegriffe", lang="de")))
 g.add((thesaurus, DC.creator, Literal("Florian Thiery")))
+g.add((thesaurus, RDF.type, PROV.Entity))
+g.add((thesaurus, PROV.wasGeneratedBy, pythonScript))
 
 for index, row in parentDf.iterrows():
     concept = URIRef(thesaurusAddendum + str(row["id"]))
@@ -55,12 +67,5 @@ for index, row in parentDf.iterrows():
         if not pd.isnull(row2["origindesc"]):
             g.add((concept2, DC.source, Literal(row2["origindesc"])))
 
+g.add((thesaurusCreation, PROV.endedAtTime, Literal(datetime.datetime.now(), datatype=XSD.dateTime)))
 g.serialize(destination="navisOne.ttl", format="turtle")
-# hardcoden
-"""
-id 20F045
-gettyaat                                                      300263190.0
-gettyaatrelationtype                                      skos:exactMatch
-wikidata                                                          Q582062
-wikidatarelationtype                                      skos:exactMatch
-"""

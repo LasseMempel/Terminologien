@@ -1,5 +1,12 @@
 @prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://github.com/LasseMempel/Terminologien/blob/main/navisOne/> a prov:Activity ;
+    prov:endedAtTime "2025-02-18T08:42:07.467700"^^xsd:dateTime ;
+    prov:startedAtTime "2025-02-18T08:42:07.418852"^^xsd:dateTime ;
+    prov:used <https://github.com/LasseMempel/Terminologien/blob/main/navisOne/navisOne.py> .
 
 <https://www.lassemempel.github.io/Terminologien/NAVISone/0093DC> a skos:Concept ;
     dc:source "tblDictionaryHULL" ;
@@ -2748,6 +2755,8 @@
         "Costruzione su sagoma"@it,
         "Mallenbouw"@nl .
 
+<https://github.com/LasseMempel/Terminologien/blob/main/navisOne/navisOne.py> a prov:SoftwareAgent .
+
 <https://www.lassemempel.github.io/Terminologien/NAVISone/13> a skos:Concept ;
     skos:inScheme <https://www.lassemempel.github.io/Terminologien/NAVISone> ;
     skos:narrower <https://www.lassemempel.github.io/Terminologien/NAVISone/4FF277> ;
@@ -3059,7 +3068,8 @@
         "[constructional features]"@en ;
     skos:topConceptOf <https://www.lassemempel.github.io/Terminologien/NAVISone> .
 
-<https://www.lassemempel.github.io/Terminologien/NAVISone> a skos:ConceptScheme ;
+<https://www.lassemempel.github.io/Terminologien/NAVISone> a skos:ConceptScheme,
+        prov:Entity ;
     dc:creator "Florian Thiery" ;
     dc:description "NAVISone ist ein Thesaurus über Schiffsbegriffe"@de ;
     dc:title "NAVISone"@de ;
@@ -3078,5 +3088,6 @@
         <https://www.lassemempel.github.io/Terminologien/NAVISone/6>,
         <https://www.lassemempel.github.io/Terminologien/NAVISone/7>,
         <https://www.lassemempel.github.io/Terminologien/NAVISone/8>,
-        <https://www.lassemempel.github.io/Terminologien/NAVISone/9> .
+        <https://www.lassemempel.github.io/Terminologien/NAVISone/9> ;
+    prov:wasGeneratedBy <https://github.com/LasseMempel/Terminologien/blob/main/navisOne/navisOne.py> .
 
